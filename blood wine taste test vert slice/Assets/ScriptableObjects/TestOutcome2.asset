@@ -10,17 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
-  m_Name: TestLine
+  m_Name: TestOutcome2
   m_EditorClassIdentifier: 
   _lines:
-  - '{NPC}This is dialogue'
-  - I am speaking
-  - Isn't that crazy
-  - '{???}Rather crazy indeed.'
-  - '{NPC}Exactly bro....'
-  _playerReplyOptions:
-  - Exactly....
-  - Actually. Not really
-  _npcReplies:
-  - {fileID: 11400000, guid: 8a434fd2234790349aa0e35075648902, type: 2}
-  - {fileID: 11400000, guid: a7e26e2e494f9eb44b5b13f9612fda17, type: 2}
+  - '{NPC}What..'
+  - '{???}Yeah it''s not that cool.'
+  - Sorry
+  - '{NPC}y...You''re not cool......'
+  _playerReplyOptions: []
+  _npcReplies: []

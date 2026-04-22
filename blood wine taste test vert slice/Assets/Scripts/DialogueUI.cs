@@ -7,9 +7,12 @@ public class DialogueUI : MonoBehaviour
 {
     [SerializeField] private GameObject _npcDialogueBox;
     [SerializeField] private GameObject _playerDialogueBox;
+    [SerializeField] private GameObject _playerOptions;
     [SerializeField] private TMP_Text _npcDialogueText;
     [SerializeField] private TMP_Text _npcNameText;
     [SerializeField] private TMP_Text _playerDialogueText;
+    [SerializeField] private TMP_Text _option1;
+    [SerializeField] private TMP_Text _option2;
     [SerializeField] private DialogueNode _currentNode;
     [SerializeField] private float _typingSpeed = 0.04f;
 
@@ -63,6 +66,8 @@ public class DialogueUI : MonoBehaviour
             _dialogueLine = dialogue.Remove(0, _playerName.Length);
         }
 
+        _playerOptions.SetActive(false);
+
         if (_typeLineCoroutine != null)
         {
             StopCoroutine(_typeLineCoroutine);
@@ -92,6 +97,7 @@ public class DialogueUI : MonoBehaviour
             else if (_currentNode._playerReplyOptions != null && _currentNode._playerReplyOptions.Length > 0)
             {
                 _waitingForPlayerResponse = true;
+                ShowPlayerOptions(_currentNode._playerReplyOptions);
             }
         }
     }
@@ -146,8 +152,35 @@ public class DialogueUI : MonoBehaviour
         _skipDialogue = false;
     }
 
-    private void ShowPlayerOptions()
+    private void ShowPlayerOptions(string[] options)
     {
+        _playerOptions.SetActive(true);
 
+        _option1.text = options[0];
+
+        if (options.Length >= 2)
+        {
+            _option2.transform.parent.gameObject.SetActive(true);
+            _option2.text = options[1];
+        }
+        else
+        {
+            _option2.transform.parent.gameObject.SetActive(false);
+        }
+    }
+
+    public void SelectedOption(int option)
+    {
+        if (!_isTyping)
+        {
+            _currentLine = -1;
+            _waitingForPlayerResponse = false;
+
+            if (option < _currentNode._npcReplies.Length)
+            {
+                _currentNode = _currentNode._npcReplies[option];
+                AdvanceDialogue();
+            }
+        }
     }
 }
