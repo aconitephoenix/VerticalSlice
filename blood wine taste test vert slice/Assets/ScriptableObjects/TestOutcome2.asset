@@ -16,6 +16,6 @@ MonoBehaviour:
   - '{NPC}What..'
   - '{???}Yeah it''s not that cool.'
   - Sorry
-  - '{NPC}y...You''re not cool......'
+  - '{NPC}{angry}y...You''re not cool......'
   _playerReplyOptions: []
   _npcReplies: []

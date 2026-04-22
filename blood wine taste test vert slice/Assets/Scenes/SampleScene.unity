@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 245599978}
   m_Layer: 0
   m_Name: Placeholder NPC
-  m_TagString: Untagged
+  m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -219,6 +219,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c77a022cbbbf5e4492bac673b8c1e4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _currentNode: {fileID: 11400000, guid: 0444bd5d68cceb740b8ade3f18319be5, type: 2}
+  _dialogue: {fileID: 661798270}
+  _spriteRenderer: {fileID: 245599976}
 --- !u!1 &307981998
 GameObject:
   m_ObjectHideFlags: 0
@@ -656,8 +659,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 661798270}
-        m_TargetAssemblyTypeName: DialogueUI, Assembly-CSharp
+      - m_Target: {fileID: 245599978}
+        m_TargetAssemblyTypeName: NPC, Assembly-CSharp
         m_MethodName: SelectedOption
         m_Mode: 3
         m_Arguments:
@@ -985,6 +988,10 @@ MonoBehaviour:
   _option2: {fileID: 1602317799}
   _currentNode: {fileID: 11400000, guid: 0444bd5d68cceb740b8ade3f18319be5, type: 2}
   _typingSpeed: 0.04
+  _isTyping: 0
+  _skipDialogue: 0
+  _canSkip: 0
+  _waitingForPlayerResponse: 0
 --- !u!1 &683065256
 GameObject:
   m_ObjectHideFlags: 0
@@ -1002,7 +1009,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &683065257
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1037,7 +1044,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1213,8 +1220,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 661798270}
-        m_TargetAssemblyTypeName: DialogueUI, Assembly-CSharp
+      - m_Target: {fileID: 245599978}
+        m_TargetAssemblyTypeName: NPC, Assembly-CSharp
         m_MethodName: SelectedOption
         m_Mode: 3
         m_Arguments:
@@ -1414,7 +1421,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1387526339
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1450,7 +1457,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.392}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

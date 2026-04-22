@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _lines:
   - '{???}It''s pretty cool. Really cool.'
-  - '{NPC}I know right?!?!??!'
+  - '{NPC}{happy}I know right?!?!??!'
   - Good talk bro
   _playerReplyOptions: []
   _npcReplies: []

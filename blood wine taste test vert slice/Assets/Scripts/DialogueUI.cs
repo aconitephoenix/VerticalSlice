@@ -20,11 +20,11 @@ public class DialogueUI : MonoBehaviour
     private string _npcName = "{NPC}";
     private string _playerName = "{???}";
     private Coroutine _typeLineCoroutine;
-    private bool _isTyping;
-    private bool _skipDialogue;
-    private bool _canSkip;
+    public bool _isTyping;
+    public bool _skipDialogue;
+    public bool _canSkip;
     private string _dialogueLine;
-    private bool _waitingForPlayerResponse;
+    public bool _waitingForPlayerResponse;
 
     // Start is called before the first frame update
     void Start()
@@ -34,22 +34,8 @@ public class DialogueUI : MonoBehaviour
         SetDialogue(_currentNode._lines[_currentLine]);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (!_waitingForPlayerResponse && (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.E)))
-        {
-            if (_isTyping && _canSkip)
-            {
-                _skipDialogue = true;
-            }
-
-            AdvanceDialogue();
-        }
-    }
-
     // Set the dialogue text
-    private void SetDialogue(string dialogue)
+    public void SetDialogue(string dialogue)
     {
         if (dialogue.Contains(_playerName))
         {
@@ -64,6 +50,15 @@ public class DialogueUI : MonoBehaviour
             _npcDialogueBox.SetActive(true);
             _playerDialogueBox.SetActive(false);
             _dialogueLine = dialogue.Remove(0, _playerName.Length);
+            if (dialogue.Contains("{angry}"))
+            {
+                GameController.Instance.Npc.ChangeEmotion("angry");
+                _dialogueLine = _dialogueLine.Remove(0, "{angry}".Length);
+            } else if (dialogue.Contains("{happy}"))
+            {
+                GameController.Instance.Npc.ChangeEmotion("happy");
+                _dialogueLine = _dialogueLine.Remove(0, "{happy}".Length);
+            }
         }
 
         _playerOptions.SetActive(false);
@@ -82,23 +77,6 @@ public class DialogueUI : MonoBehaviour
         else
         {
             _typeLineCoroutine = StartCoroutine(TypeLine(dialogue));
-        }
-    }
-
-    private void AdvanceDialogue()
-    {
-        if (!_isTyping)
-        {
-            if (_currentLine < _currentNode._lines.Length - 1)
-            {
-                _currentLine++;
-                SetDialogue(_currentNode._lines[_currentLine]);
-            }
-            else if (_currentNode._playerReplyOptions != null && _currentNode._playerReplyOptions.Length > 0)
-            {
-                _waitingForPlayerResponse = true;
-                ShowPlayerOptions(_currentNode._playerReplyOptions);
-            }
         }
     }
 
@@ -152,7 +130,7 @@ public class DialogueUI : MonoBehaviour
         _skipDialogue = false;
     }
 
-    private void ShowPlayerOptions(string[] options)
+    public void ShowPlayerOptions(string[] options)
     {
         _playerOptions.SetActive(true);
 
@@ -166,21 +144,6 @@ public class DialogueUI : MonoBehaviour
         else
         {
             _option2.transform.parent.gameObject.SetActive(false);
-        }
-    }
-
-    public void SelectedOption(int option)
-    {
-        if (!_isTyping)
-        {
-            _currentLine = -1;
-            _waitingForPlayerResponse = false;
-
-            if (option < _currentNode._npcReplies.Length)
-            {
-                _currentNode = _currentNode._npcReplies[option];
-                AdvanceDialogue();
-            }
         }
     }
 }
