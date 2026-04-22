@@ -13,10 +13,12 @@ MonoBehaviour:
   m_Name: TestLine
   m_EditorClassIdentifier: 
   _lines:
-  - This is dialogue
+  - '{NPC}This is dialogue'
   - I am speaking
   - Isn't that crazy
+  - '{???}Rather crazy indeed.'
+  - '{NPC}Exactly bro....'
   _playerReplyOptions:
-  - Sure is!
-  - Not really...
+  - Exactly....
+  - Actually. Not really
   _npcReplies: []
