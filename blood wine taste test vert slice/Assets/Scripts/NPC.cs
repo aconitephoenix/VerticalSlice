@@ -1,4 +1,3 @@
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,11 +8,14 @@ public class NPC : MonoBehaviour
     [SerializeField] private SpriteRenderer _spriteRenderer;
 
     private int _currentLine;
+    private List<DialogueNode> _selectedOptions = new List<DialogueNode>();
+    private int _sameOptionCount;
+    private float _friendshipValue;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        _friendshipValue = 0.0f;
     }
 
     // Update is called once per frame
@@ -58,7 +60,41 @@ public class NPC : MonoBehaviour
             if (option < _currentNode._npcReplies.Length)
             {
                 _currentNode = _currentNode._npcReplies[option];
+                _selectedOptions.Add(_currentNode);
+
+                if (_selectedOptions.Count > 1 && _selectedOptions[_selectedOptions.IndexOf(_currentNode) - 1]._dialogueType == _selectedOptions[_selectedOptions.IndexOf(_currentNode)]._dialogueType)
+                {
+                    _sameOptionCount++;
+                }
+                else
+                {
+                    _sameOptionCount = 0;
+                }
+
+                if (_currentNode._dialogueType == DialogueType.Nice)
+                {
+                    if (_sameOptionCount > 2)
+                    {
+                        _friendshipValue--;
+                    }
+                    else
+                    {
+                        _friendshipValue++;
+                    }
+                }
+                else if (_currentNode._dialogueType == DialogueType.Mean)
+                {
+                    if (_sameOptionCount < 2)
+                    {
+                        _friendshipValue++;
+                    }
+                    else
+                    {
+                        _friendshipValue--;
+                    }
+                }
                 AdvanceDialogue();
+                Debug.Log(_friendshipValue);
             }
         }
     }
@@ -69,7 +105,8 @@ public class NPC : MonoBehaviour
         if (emotion == "angry")
         {
             _spriteRenderer.color = Color.red;
-        } else if (emotion == "happy")
+        }
+        else if (emotion == "happy")
         {
             _spriteRenderer.color = Color.yellow;
         }

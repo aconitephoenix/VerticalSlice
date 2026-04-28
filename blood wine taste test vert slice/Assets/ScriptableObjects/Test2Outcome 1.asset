@@ -10,13 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
-  m_Name: TestOutcome2
+  m_Name: Test2Outcome 1
   m_EditorClassIdentifier: 
-  _dialogueType: 2
+  _dialogueType: 1
   _lines:
-  - '{NPC}What..'
-  - '{???}Yeah it''s not that cool.'
-  - Sorry
-  - '{NPC}{angry}y...You''re not cool......'
-  _playerReplyOptions: []
+  - '{NPC}you''re sooooo nice... nicenice.nice'
+  _playerReplyOptions:
+  - I love u
+  - No i hate you
   _npcReplies: []

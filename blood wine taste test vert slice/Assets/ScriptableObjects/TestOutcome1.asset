@@ -12,9 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TestOutcome1
   m_EditorClassIdentifier: 
+  _dialogueType: 1
   _lines:
   - '{???}It''s pretty cool. Really cool.'
   - '{NPC}{happy}I know right?!?!??!'
   - Good talk bro
-  _playerReplyOptions: []
-  _npcReplies: []
+  _playerReplyOptions:
+  - Nooo you're so nice
+  - Actually fuck you
+  _npcReplies:
+  - {fileID: 11400000, guid: d540bcf4377d31b4c894bd651e11bbb9, type: 2}
