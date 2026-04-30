@@ -81,7 +81,7 @@ public class DialogueUI : MonoBehaviour
     }
 
     // type dialogue letter by letter
-    public IEnumerator TypeLine(string dialogue)
+    private IEnumerator TypeLine(string dialogue)
     {
         _isTyping = true;
         _skipDialogue = false;
