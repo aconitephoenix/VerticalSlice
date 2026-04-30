@@ -59,6 +59,9 @@ public class DialogueUI : MonoBehaviour
                 GameController.Instance.Npc.ChangeEmotion("happy");
                 _dialogueLine = _dialogueLine.Remove(0, "{happy}".Length);
             }
+        } else
+        {
+            _dialogueLine = dialogue;
         }
 
         _playerOptions.SetActive(false);
@@ -70,13 +73,9 @@ public class DialogueUI : MonoBehaviour
 
         _canSkip = false;
 
-        if (dialogue.Contains(_playerName) || dialogue.Contains(_npcName))
+        if (gameObject.activeInHierarchy)
         {
             _typeLineCoroutine = StartCoroutine(TypeLine(_dialogueLine));
-        }
-        else
-        {
-            _typeLineCoroutine = StartCoroutine(TypeLine(dialogue));
         }
     }
 

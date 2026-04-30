@@ -3,11 +3,11 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour
 {
-    [SerializeField] private DialogueNode _currentNode;
+    [SerializeField] public DialogueNode _currentNode;
     [SerializeField] private DialogueUI _dialogue;
     [SerializeField] private SpriteRenderer _spriteRenderer;
 
-    private int _currentLine;
+    public int _currentLine;
     private List<DialogueNode> _selectedOptions = new List<DialogueNode>();
     private int _sameOptionCount;
     private float _friendshipValue;
