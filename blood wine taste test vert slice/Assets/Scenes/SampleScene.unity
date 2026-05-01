@@ -287,9 +287,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c77a022cbbbf5e4492bac673b8c1e4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _currentNode: {fileID: 11400000, guid: 0444bd5d68cceb740b8ade3f18319be5, type: 2}
+  _startingNode: {fileID: 11400000, guid: 0444bd5d68cceb740b8ade3f18319be5, type: 2}
   _dialogue: {fileID: 661798270}
   _spriteRenderer: {fileID: 245599976}
+  _currentNode: {fileID: 11400000, guid: 0444bd5d68cceb740b8ade3f18319be5, type: 2}
+  _currentLine: 0
 --- !u!1 &276432326
 GameObject:
   m_ObjectHideFlags: 0
@@ -490,7 +492,8 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"resumeButton","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"backToStartButton","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
       UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"startGameButton","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Button,
-      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"gameJustStarted","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1068268254}
     - {fileID: 276432328}

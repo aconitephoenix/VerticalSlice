@@ -3,10 +3,11 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour
 {
-    [SerializeField] public DialogueNode _currentNode;
+    [SerializeField] public DialogueNode _startingNode;
     [SerializeField] private DialogueUI _dialogue;
     [SerializeField] private SpriteRenderer _spriteRenderer;
 
+    public DialogueNode _currentNode;
     public int _currentLine;
     private List<DialogueNode> _selectedOptions = new List<DialogueNode>();
     private int _sameOptionCount;
@@ -16,6 +17,7 @@ public class NPC : MonoBehaviour
     void Start()
     {
         _friendshipValue = 0.0f;
+        _currentNode = _startingNode;
     }
 
     // Update is called once per frame
@@ -110,5 +112,12 @@ public class NPC : MonoBehaviour
         {
             _spriteRenderer.color = Color.yellow;
         }
+    }
+
+    public DialogueNode ResetDialogue()
+    {
+        _currentLine = 0;
+        _currentNode = _startingNode;
+        return _currentNode;
     }
 }
