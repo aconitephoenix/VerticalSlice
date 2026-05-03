@@ -6,6 +6,7 @@ public class NPC : MonoBehaviour
     [SerializeField] public DialogueNode _startingNode;
     [SerializeField] private DialogueUI _dialogue;
     [SerializeField] private SpriteRenderer _spriteRenderer;
+    [SerializeField] private FriendshipBar _friendshipBar;
 
     public DialogueNode _currentNode;
     public int _currentLine;
@@ -73,28 +74,32 @@ public class NPC : MonoBehaviour
                     _sameOptionCount = 0;
                 }
 
+                Debug.Log("same option count:" + _sameOptionCount);
+
                 if (_currentNode._dialogueType == DialogueType.Nice)
                 {
-                    if (_sameOptionCount > 2)
+                    if (_sameOptionCount > 2 && _friendshipValue > 0)
                     {
-                        _friendshipValue--;
+                        _friendshipValue -= 0.1f;
                     }
                     else
                     {
-                        _friendshipValue++;
+                        _friendshipValue += 0.1f;
                     }
                 }
                 else if (_currentNode._dialogueType == DialogueType.Mean)
                 {
                     if (_sameOptionCount < 2)
                     {
-                        _friendshipValue++;
+                        _friendshipValue += 0.1f;
                     }
-                    else
+                    else if (_friendshipValue > 0)
                     {
-                        _friendshipValue--;
+                        _friendshipValue -= 0.1f;
                     }
                 }
+
+                _friendshipBar.ChangeFriendship(_friendshipValue);
                 AdvanceDialogue();
                 Debug.Log(_friendshipValue);
             }

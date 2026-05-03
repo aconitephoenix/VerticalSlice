@@ -10,17 +10,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
-  m_Name: TestOutcome2
+  m_Name: Test2Outcome 2
   m_EditorClassIdentifier: 
   _dialogueType: 2
   _lines:
-  - '{NPC}What..'
-  - '{???}Yeah it''s not that cool.'
-  - Sorry
-  - '{NPC}{angry}y...You''re not cool......'
+  - '{???}Are you some sort of freak'
+  - or what
+  - '{NPC}....maybe'
   _playerReplyOptions:
-  - yea screw u
-  - wait why the hell did your friendship go up
-  _npcReplies:
-  - {fileID: 11400000, guid: 9787850e7fc9a094ba3ced2c0c996c7b, type: 2}
-  - {fileID: 11400000, guid: 048140e91db6f7f4b8a13701479f4a21, type: 2}
+  - what
+  - okay me too bro
+  _npcReplies: []
