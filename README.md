@@ -1,6 +1,8 @@
 # GDIM33 Vertical Slice
 ## Milestone 1 Devlog
-Milestone 1 Devlog goes here.
+
+<img width="1085" height="914" alt="jess tran (gdim 33) - vertical slice breakdown(1)" src="https://github.com/user-attachments/assets/e6dd9ab7-a07e-4535-b0d7-a87ba2b6f7a9" />
+
 ## Milestone 2 Devlog
 Milestone 2 Devlog goes here.
 ## Milestone 3 Devlog
