@@ -10,7 +10,7 @@ public class NPC : MonoBehaviour
 
     public DialogueNode _currentNode;
     public int _currentLine;
-    private List<DialogueNode> _selectedOptions = new List<DialogueNode>();
+    public List<DialogueNode> _selectedOptions = new List<DialogueNode>();
     public int _sameOptionCount;
     public float _friendshipValue;
 
