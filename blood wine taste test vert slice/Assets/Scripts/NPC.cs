@@ -11,8 +11,8 @@ public class NPC : MonoBehaviour
     public DialogueNode _currentNode;
     public int _currentLine;
     private List<DialogueNode> _selectedOptions = new List<DialogueNode>();
-    private int _sameOptionCount;
-    private float _friendshipValue;
+    public int _sameOptionCount;
+    public float _friendshipValue;
 
     // Start is called before the first frame update
     void Start()
@@ -116,6 +116,10 @@ public class NPC : MonoBehaviour
         else if (emotion == "happy")
         {
             _spriteRenderer.color = Color.yellow;
+        }
+        else if (emotion == "neutral")
+        {
+            _spriteRenderer.color = Color.white;
         }
     }
 
