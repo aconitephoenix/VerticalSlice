@@ -7,6 +7,9 @@ public class FriendshipBar : MonoBehaviour
 {
     [SerializeField] private Slider _friendshipBar;
 
+    private float _targetProgress = 0;
+    private float _fillSpeed = 0.5f;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,12 +19,18 @@ public class FriendshipBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if (_friendshipBar.value < _targetProgress)
+        {
+            _friendshipBar.value += _fillSpeed * Time.deltaTime;
+        } else if (_friendshipBar.value > _targetProgress)
+        {
+            _friendshipBar.value -= _fillSpeed * Time.deltaTime;
+        }
     }
 
     // Change the friendship bar based on the current level of friendship acquired
     public void ChangeFriendship(float friendship)
     {
-        _friendshipBar.value = friendship;
+        _targetProgress = friendship;
     }
 }
