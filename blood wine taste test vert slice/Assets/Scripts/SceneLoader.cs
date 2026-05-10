@@ -24,7 +24,6 @@ public class SceneLoader : MonoBehaviour
 
     public void SwitchScene(string sceneName)
     {
-        Scene scene = SceneManager.GetActiveScene();
         if (sceneName == "Start Screen")
         {
             _sceneToGo = 0;
@@ -33,17 +32,17 @@ public class SceneLoader : MonoBehaviour
             _sceneToGo = 1;
         }
 
-        StartCoroutine(AnimateFade(_sceneToGo));
+        StartCoroutine(AnimateFade());
         SceneManager.LoadScene(_sceneToGo);
     }
 
     
-    public IEnumerator AnimateFade(int scene)
+    public IEnumerator AnimateFade()
     {
-        if (scene == 0)
+        if (_sceneToGo == 0)
         {
             _fadeAnimator.SetTrigger("start");
-        } else if (scene == 1) { 
+        } else if (_sceneToGo == 1) { 
         }
         {
             _fadeAnimator.SetTrigger("end");
