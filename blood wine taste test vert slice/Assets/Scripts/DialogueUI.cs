@@ -50,15 +50,23 @@ public class DialogueUI : MonoBehaviour
             _npcDialogueBox.SetActive(true);
             _playerDialogueBox.SetActive(false);
             _dialogueLine = dialogue.Remove(0, _playerName.Length);
+            _npcNameText.text = "Jessi Atwood";
             if (dialogue.Contains("{angry}"))
             {
                 GameController.Instance.Npc.ChangeEmotion("angry");
                 _dialogueLine = _dialogueLine.Remove(0, "{angry}".Length);
-            } else if (dialogue.Contains("{happy}"))
+            }
+            else if (dialogue.Contains("{happy}"))
             {
                 GameController.Instance.Npc.ChangeEmotion("happy");
                 _dialogueLine = _dialogueLine.Remove(0, "{happy}".Length);
             }
+        } else if (dialogue.Contains("{Player}"))
+        {
+            _npcDialogueBox.SetActive(true);
+            _playerDialogueBox.SetActive(false);
+            _dialogueLine = dialogue.Remove(0, "{Player}".Length);
+            _npcNameText.text = "???";
         } else
         {
             _dialogueLine = dialogue;
