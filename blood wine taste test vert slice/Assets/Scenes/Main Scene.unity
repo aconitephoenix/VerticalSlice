@@ -1469,7 +1469,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cbd9752e431bb0f46830d2b4edc4e16d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _fadeOverlay: {fileID: 1606869218}
   _fadeAnimator: {fileID: 1606869220}
 --- !u!1 &1068268252
 GameObject:
@@ -2612,7 +2611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 0, g: 0, b: 0, a: 0}
   m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

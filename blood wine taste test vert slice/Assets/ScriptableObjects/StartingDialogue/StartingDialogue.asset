@@ -14,11 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _dialogueType: 0
   _lines:
-  - '{Player}Jessi Atwood is a terrible, terrible person.'
+  - '{Player}Jessi Atwood is human trash.'
   - She's self-absorbed,
   - unapologetically rude,
   - absurdly unintelligent,
-  - and socially incompetent in all ways possible.
+  - and socially incompetent;
+  - she manages to be worthless all around.
   - And tonight...she will be mine.
+  - "{NPC}Hey, don't know if you saw the sign, but we're\u2014"
+  - ...closed...
+  - Oh. It's you.
+  - '{???}Pleased to meet you as well.'
+  - '{NPC}What are you doing here? You didn''t tell me you were gonna show up.'
+  - '{???}Just thought it would be fun to surprise you. Keeping it fun, you know?'
+  - '{NPC}Well you know what''s not fun? Staying here after hours for no reason.'
+  - You don't contact me, you don't get the bar. GET OUT.
+  - '{???}No need to be so hostile, Jessi. I don''t intend to waste your precious
+    time for long.'
+  - '{NPC}Oh yeah? Well you''re already doing it.'
   _playerReplyOptions: []
   _npcReplies: []
