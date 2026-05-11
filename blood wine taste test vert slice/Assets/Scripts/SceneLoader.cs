@@ -41,11 +41,11 @@ public class SceneLoader : MonoBehaviour
     {
         if (_sceneToGo == 0)
         {
-            _fadeAnimator.SetTrigger("start");
+            _fadeAnimator.SetTrigger("outToIn");
         } else if (_sceneToGo == 1) { 
         }
         {
-            _fadeAnimator.SetTrigger("end");
+            _fadeAnimator.SetTrigger("inToOut");
         }
         
         yield return new WaitForSeconds(2.0f);
