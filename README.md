@@ -12,8 +12,15 @@ My complicating gameplay feature is to have the persuasion bar increase or decre
 #### Breakdown
 - Assign choice types to dialogue choices.
     - Each dialogue choice can have an enum to identify the type of choice it is.
+        - Currently there should be nice, mean, and neutral choices. Choice types outside of these are not available in this vertical slice.
 - Make a counter for how much of each type of choice has been made in a row.
+    - When the player selects an option, check what type of choice it is.
+        - If the choice is the same type of choice as the previous choice made, add to a counter that keeps track of how many of the same type of choice has been made since the most recently made choice with the same type.
+        - If the choice type is different from the choice type of the previous choice, reset the counter.
+        - If this is the first choice that has been made, don't add to the counter yet.
+    - The choice should then be stored as a variable to compare with the next player choice.
 - Increase or decrease the persuasion score based on how many choices have been made in a row and according to the previous dialogue sequence.
+    - 
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
 ## Milestone 4 Devlog
