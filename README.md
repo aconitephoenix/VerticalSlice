@@ -9,7 +9,7 @@ The state machine controls what UI is available on-screen as well as what player
 ## Milestone 2 Devlog
 ### Complicating Gameplay Feature
 My complicating gameplay feature is to have the persuasion bar increase or decrease depending on the amount of times a player has made a certain type of choice + if an increase/decrease makes sense in the context of the situation. For example, the player might be able to make up to 3 nice choices to increase persuasion before another nice choice will instead decrease persuasion.
-#### Breakdown
+#### 1. Breakdown
 - Assign choice types to dialogue choices.
     - Each dialogue choice can have an enum to identify the type of choice it is.
         - Currently there should be nice, mean, and neutral choices. Choice types outside of these are not available in this vertical slice.
@@ -19,11 +19,16 @@ My complicating gameplay feature is to have the persuasion bar increase or decre
         - If the choice type is different from the choice type of the previous choice, reset the counter.
         - If this is the first choice that has been made, don't add to the counter yet.
     - The choice should then be stored as a variable to compare with the next player choice.
-- Increase or decrease the persuasion score based on how many choices have been made in a row and according to the previous dialogue sequence.
+- Increase or decrease the persuasion score based on how many of the same type of choices have been made in a row and according to the previous dialogue sequence.
     - Each dialogue sequence should have a set number to compare to the number of "same choice type" choices made. This creates a way for the NPC to react according to the dialogue context without having to analyze the dialogue lines themselves through code.
     - Compare the number assigned to the dialogue sequence and the number of "same choice type" choices.
         - The persuasion bar should increase if the number of "same choice type" choices is less than or equal to the number assigned to the dialogue sequence.
         - Else, the persuasion bar should decrease.
+#### 2. Breakdown Reflection
+Reflection that I'll write later...
+
+3. 
+4. 
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
 ## Milestone 4 Devlog
