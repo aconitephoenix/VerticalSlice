@@ -20,7 +20,10 @@ My complicating gameplay feature is to have the persuasion bar increase or decre
         - If this is the first choice that has been made, don't add to the counter yet.
     - The choice should then be stored as a variable to compare with the next player choice.
 - Increase or decrease the persuasion score based on how many choices have been made in a row and according to the previous dialogue sequence.
-    - 
+    - Each dialogue sequence should have a set number to compare to the number of "same choice type" choices made. This creates a way for the NPC to react according to the dialogue context without having to analyze the dialogue lines themselves through code.
+    - Compare the number assigned to the dialogue sequence and the number of "same choice type" choices.
+        - The persuasion bar should increase if the number of "same choice type" choices is less than or equal to the number assigned to the dialogue sequence.
+        - Else, the persuasion bar should decrease.
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
 ## Milestone 4 Devlog
