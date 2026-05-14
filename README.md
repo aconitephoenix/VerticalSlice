@@ -28,6 +28,8 @@ My complicating gameplay feature is to have the persuasion bar increase or decre
 I think that the breakdown was ultimately helpful to help guide me through exactly what steps I needed to do, though I feel like I did end up deviating from my original plans (mainly because I discovered how to REALLY use ScriptableObjects...oops....). I think for future breakdowns I'd want to have a clearer idea of what I want to do and how to execute it.
 #### 3. Visual Scripting Graph
 Right now, my only visual scripting graph is still my state machine (though that will probably change once I add the visual effects... maybe). It's kind of a spiderwebbed mess, but I basically have a bunch of nodes calling methods and accessing variables from C# and grab a bunch of things from the same variable (check out the NPC node... eugh....). I mainly wanted to create this as a visual scripting graph over pure C# scripts so that I could easily visualize how the states operate (kind of looking at it from a designer perspective?? I guess). The C# scripts involved in this spaghetti mess are mainly the NPC script and the DialogueUI script.
+<img width="2655" height="1553" alt="hnjh227" src="https://github.com/user-attachments/assets/5cf2a3de-c924-4c44-8a6d-aedbcb44ad56" />
+
 #### 4. Unity System 
 The Unity system I'd like to be graded is my ScriptableObjects system.
 ## Milestone 3 Devlog
