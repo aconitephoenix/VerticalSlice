@@ -12,29 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TestOutcome2
   m_EditorClassIdentifier: 
-  _dialogueType: 2
   _lines:
-  - '{NPC}What..'
-  - '{???}Yeah it''s not that cool.'
-  - Sorry
-  - '{NPC}{angry}y...You''re not cool......'
-  _lines2:
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
     _dialogueLine: What..
-  - _speaker: 1
+  - _speaker: 0
     _charSprite: {fileID: 0}
     _dialogueLine: Yeah it's not that cool
-  - _speaker: 1
+  - _speaker: 0
     _charSprite: {fileID: 0}
     _dialogueLine: Sorry
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: y... You're not cool......
+    _dialogueLine: Y..you're not cool.....
   _playerReplyOptions:
-  - yea screw u
-  - wait why the hell did your friendship go up
-  _playerReplyOptions2:
   - _choiceType: 2
     _optionText: yea screw u
   - _choiceType: 0

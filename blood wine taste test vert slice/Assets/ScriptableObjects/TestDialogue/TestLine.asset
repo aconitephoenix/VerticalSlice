@@ -12,33 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TestLine
   m_EditorClassIdentifier: 
-  _dialogueType: 0
   _lines:
-  - '{NPC}This is dialogue'
-  - I am speaking
-  - Isn't that crazy
-  - '{???}Rather crazy indeed.'
-  - '{NPC}Exactly bro....'
-  _lines2:
-  - _speaker: 2
-    _charSprite: {fileID: 0}
-    _dialogueLine: This is dialogue
-  - _speaker: 2
-    _charSprite: {fileID: 0}
-    _dialogueLine: I am speaking
-  - _speaker: 2
-    _charSprite: {fileID: 0}
-    _dialogueLine: Isn't that crazy
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: Rather crazy indeed.
-  - _speaker: 2
+    _dialogueLine: This is dialogue
+  - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: Exactly bro...
+    _dialogueLine: I am speaking
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Isn't that crazy
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _dialogueLine: Rather crazy indeed.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Exactly bro.....
   _playerReplyOptions:
-  - Exactly....
-  - Actually. Not really
-  _playerReplyOptions2:
   - _choiceType: 1
     _optionText: Exactly....
   - _choiceType: 2

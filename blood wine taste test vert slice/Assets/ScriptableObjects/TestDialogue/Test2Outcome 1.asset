@@ -12,23 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: Test2Outcome 1
   m_EditorClassIdentifier: 
-  _dialogueType: 2
   _lines:
-  - '{NPC}oh you''re mean....'
-  - im kinda into that
-  _lines2:
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
     _dialogueLine: Oh you're mean....
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: im kinda into that
+    _dialogueLine: i'm kinda into that
   _playerReplyOptions:
-  - what
-  - okay me too bro
-  _playerReplyOptions2:
   - _choiceType: 0
     _optionText: what
-  - _choiceType: 2
+  - _choiceType: 1
     _optionText: okay me too bro
   _npcReplies: []

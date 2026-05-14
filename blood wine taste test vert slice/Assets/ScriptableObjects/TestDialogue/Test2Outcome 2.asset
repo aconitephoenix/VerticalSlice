@@ -12,25 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: Test2Outcome 2
   m_EditorClassIdentifier: 
-  _dialogueType: 2
   _lines:
-  - '{???}Are you some sort of freak'
-  - or what
-  - '{NPC}....maybe'
-  _lines2:
-  - _speaker: 1
+  - _speaker: 0
     _charSprite: {fileID: 0}
     _dialogueLine: Are you some sort of freak
-  - _speaker: 1
+  - _speaker: 0
     _charSprite: {fileID: 0}
     _dialogueLine: or what
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
     _dialogueLine: ....maybe
   _playerReplyOptions:
-  - what
-  - okay me too bro
-  _playerReplyOptions2:
   - _choiceType: 0
     _optionText: what
   - _choiceType: 1

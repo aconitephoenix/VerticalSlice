@@ -12,19 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: Test2Outcome
   m_EditorClassIdentifier: 
-  _dialogueType: 1
   _lines:
-  - '{NPC}you''re sooooo nice... nicenice.nice'
-  _lines2:
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
     _dialogueLine: you're sooooo nice... nicenice.nice
   _playerReplyOptions:
-  - I love u
-  - No i hate you
-  _playerReplyOptions2:
   - _choiceType: 1
     _optionText: I love u
   - _choiceType: 2
-    _optionText: No i hate you
+    _optionText: No i hate u
   _npcReplies: []

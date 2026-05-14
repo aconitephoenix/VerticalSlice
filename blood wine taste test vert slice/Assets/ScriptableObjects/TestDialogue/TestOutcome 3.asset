@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TestOutcome 3
   m_EditorClassIdentifier: 
-  _dialogueType: 2
   _lines:
-  - wehhhhh
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: wehhhhhh
   _playerReplyOptions: []
   _npcReplies: []
