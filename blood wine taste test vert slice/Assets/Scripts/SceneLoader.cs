@@ -30,9 +30,12 @@ public class SceneLoader : MonoBehaviour
         } else if (sceneName == "Main Scene")
         {
             _sceneToGo = 1;
+        } else if (sceneName == "Game Over")
+        {
+            _sceneToGo = 2;
         }
 
-        StartCoroutine(AnimateFade());
+            StartCoroutine(AnimateFade());
         SceneManager.LoadScene(_sceneToGo);
     }
 

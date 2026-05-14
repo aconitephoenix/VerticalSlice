@@ -13,6 +13,7 @@ public class NPC : MonoBehaviour
     public List<DialogueNode> _selectedOptions = new List<DialogueNode>();
     public int _sameOptionCount;
     public float _friendshipValue;
+    private bool _canContinue;
 
     // Start is called before the first frame update
     void Start()
@@ -20,19 +21,26 @@ public class NPC : MonoBehaviour
         _friendshipValue = 0.0f;
         _currentNode = _startingNode;
         _dialogue.SetDialogue(_currentNode._lines[_currentLine]);
+        _canContinue = true;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!_dialogue._waitingForPlayerResponse && (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.E)))
+        if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.E))
         {
-            if (_dialogue._isTyping && _dialogue._canSkip)
+            if (!_dialogue._waitingForPlayerResponse && _currentLine < _currentNode._lines.Length)
             {
-                _dialogue._skipDialogue = true;
-            }
+                if (_dialogue._isTyping && _dialogue._canSkip)
+                {
+                    _dialogue._skipDialogue = true;
+                }
 
-            AdvanceDialogue();
+                AdvanceDialogue();
+            } else if (_canContinue)
+            {
+                EndDialogue();
+            }         
         }
     }
 
@@ -45,13 +53,24 @@ public class NPC : MonoBehaviour
             {
                 _currentLine++;
                 _dialogue.SetDialogue(_currentNode._lines[_currentLine]);
+                _canContinue = true;
             }
             else if (_currentNode._playerReplyOptions != null && _currentNode._playerReplyOptions.Length > 0)
             {
                 _dialogue._waitingForPlayerResponse = true;
                 _dialogue.ShowPlayerOptions(_currentNode._playerReplyOptions);
+                _canContinue = false;
+            } else
+            {
+                EndDialogue();
+                _canContinue = true;
             }
         }
+    }
+
+    private void EndDialogue()
+    {
+        GameController.Instance.sceneLoader.SwitchScene("Game Over");
     }
 
     // When player selects an option
@@ -61,6 +80,7 @@ public class NPC : MonoBehaviour
         {
             _currentLine = -1;
             _dialogue._waitingForPlayerResponse = false;
+            _canContinue = true;
 
             if (option < _currentNode._npcReplies.Length)
             {
@@ -110,6 +130,9 @@ public class NPC : MonoBehaviour
                 _friendshipBar.ChangeFriendship(_friendshipValue);
                 AdvanceDialogue();
                 Debug.Log(_friendshipValue);
+            } else
+            {
+                EndDialogue();
             }
         }
     }

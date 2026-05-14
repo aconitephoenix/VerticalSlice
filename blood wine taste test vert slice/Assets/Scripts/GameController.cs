@@ -7,6 +7,8 @@ public class GameController : MonoBehaviour
     public static GameController Instance { get; private set; }
     public NPC Npc { get; private set; }
 
+    public SceneLoader sceneLoader { get; private set; }
+
     private void Awake()
     {
         if (Instance != null && Instance != this)
@@ -19,6 +21,9 @@ public class GameController : MonoBehaviour
 
         GameObject npcObj = GameObject.FindWithTag("NPC");
         Npc = npcObj.GetComponent<NPC>();
+
+        GameObject sceneLoaderObj = GameObject.FindWithTag("SceneLoader");
+        sceneLoader = sceneLoaderObj.GetComponent<SceneLoader>();
     }
 
     // Start is called before the first frame update
