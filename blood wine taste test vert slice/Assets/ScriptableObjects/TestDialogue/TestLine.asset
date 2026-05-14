@@ -19,9 +19,30 @@ MonoBehaviour:
   - Isn't that crazy
   - '{???}Rather crazy indeed.'
   - '{NPC}Exactly bro....'
+  _lines2:
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: This is dialogue
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: I am speaking
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: Isn't that crazy
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Rather crazy indeed.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: Exactly bro...
   _playerReplyOptions:
   - Exactly....
   - Actually. Not really
+  _playerReplyOptions2:
+  - _choiceType: 1
+    _optionText: Exactly....
+  - _choiceType: 2
+    _optionText: Actually. Not really
   _npcReplies:
   - {fileID: 11400000, guid: 8a434fd2234790349aa0e35075648902, type: 2}
   - {fileID: 11400000, guid: a7e26e2e494f9eb44b5b13f9612fda17, type: 2}

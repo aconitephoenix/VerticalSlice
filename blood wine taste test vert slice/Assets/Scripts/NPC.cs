@@ -10,7 +10,7 @@ public class NPC : MonoBehaviour
 
     public DialogueNode _currentNode;
     public int _currentLine;
-    public List<DialogueNode> _selectedOptions = new List<DialogueNode>();
+    public List<Options> _selectedOptions = new List<Options>();
     public int _sameOptionCount;
     public float _friendshipValue;
     private bool _canContinue;
@@ -37,10 +37,11 @@ public class NPC : MonoBehaviour
                 }
 
                 AdvanceDialogue();
-            } else if (_canContinue)
+            }
+            else if (_canContinue)
             {
                 EndDialogue();
-            }         
+            }
         }
     }
 
@@ -60,7 +61,8 @@ public class NPC : MonoBehaviour
                 _dialogue._waitingForPlayerResponse = true;
                 _dialogue.ShowPlayerOptions(_currentNode._playerReplyOptions);
                 _canContinue = false;
-            } else
+            }
+            else
             {
                 EndDialogue();
                 _canContinue = true;
@@ -85,9 +87,9 @@ public class NPC : MonoBehaviour
             if (option < _currentNode._npcReplies.Length)
             {
                 _currentNode = _currentNode._npcReplies[option];
-                _selectedOptions.Add(_currentNode);
-                
-                if (_selectedOptions.Count > 1 && _selectedOptions[_selectedOptions.IndexOf(_currentNode) - 1]._dialogueType == _selectedOptions[_selectedOptions.IndexOf(_currentNode)]._dialogueType)
+                _selectedOptions.Add(_currentNode._playerReplyOptions[option]);
+
+                if (_selectedOptions.Count > 1 && _selectedOptions[_selectedOptions.IndexOf(_currentNode._playerReplyOptions[option]) - 1]._choiceType == _selectedOptions[_selectedOptions.IndexOf(_currentNode._playerReplyOptions[option])]._choiceType)
                 {
                     // Checks if the chosen option's type matches the previous option's type and adds to the same option count
                     _sameOptionCount++;
@@ -100,7 +102,7 @@ public class NPC : MonoBehaviour
 
                 Debug.Log("same option count:" + _sameOptionCount);
 
-                if (_currentNode._dialogueType == DialogueType.Nice)
+                if (_currentNode._playerReplyOptions[option]._choiceType == DialogueType.Nice)
                 {
                     // Subtract from the friendship score if more than 2 nice choices have been made in a row,
                     // add to the friendship score if 2 or less nice choices have been made
@@ -113,7 +115,7 @@ public class NPC : MonoBehaviour
                         _friendshipValue += 0.1f;
                     }
                 }
-                else if (_currentNode._dialogueType == DialogueType.Mean)
+                else if (_currentNode._playerReplyOptions[option]._choiceType == DialogueType.Mean)
                 {
                     // Add to the friendship score if less than 3 mean choices have been made in a row.
                     // subtract from the friendship score if 3 or more mean choices have been made
@@ -130,7 +132,8 @@ public class NPC : MonoBehaviour
                 _friendshipBar.ChangeFriendship(_friendshipValue);
                 AdvanceDialogue();
                 Debug.Log(_friendshipValue);
-            } else
+            }
+            else
             {
                 EndDialogue();
             }

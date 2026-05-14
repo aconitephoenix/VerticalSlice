@@ -17,7 +17,22 @@ MonoBehaviour:
   - '{???}Are you some sort of freak'
   - or what
   - '{NPC}....maybe'
+  _lines2:
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Are you some sort of freak
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: or what
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: ....maybe
   _playerReplyOptions:
   - what
   - okay me too bro
+  _playerReplyOptions2:
+  - _choiceType: 0
+    _optionText: what
+  - _choiceType: 1
+    _optionText: okay me too bro
   _npcReplies: []

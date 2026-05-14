@@ -15,7 +15,16 @@ MonoBehaviour:
   _dialogueType: 1
   _lines:
   - '{NPC}you''re sooooo nice... nicenice.nice'
+  _lines2:
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: you're sooooo nice... nicenice.nice
   _playerReplyOptions:
   - I love u
   - No i hate you
+  _playerReplyOptions2:
+  - _choiceType: 1
+    _optionText: I love u
+  - _choiceType: 2
+    _optionText: No i hate you
   _npcReplies: []

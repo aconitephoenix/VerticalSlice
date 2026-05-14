@@ -17,9 +17,24 @@ MonoBehaviour:
   - '{???}It''s pretty cool. Really cool.'
   - '{NPC}{happy}I know right?!?!??!'
   - Good talk bro
+  _lines2:
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: It's pretty cool. Really cool.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: I know right?!?!??!
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: Good talk bro
   _playerReplyOptions:
   - Nooo you're so nice
   - Actually fuck you
+  _playerReplyOptions2:
+  - _choiceType: 1
+    _optionText: Nooo you're so nice
+  - _choiceType: 2
+    _optionText: Actually fuck you
   _npcReplies:
   - {fileID: 11400000, guid: d540bcf4377d31b4c894bd651e11bbb9, type: 2}
   - {fileID: 11400000, guid: 6291197f44b95374c9f3799ad4abb360, type: 2}

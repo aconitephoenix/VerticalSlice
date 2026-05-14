@@ -18,9 +18,27 @@ MonoBehaviour:
   - '{???}Yeah it''s not that cool.'
   - Sorry
   - '{NPC}{angry}y...You''re not cool......'
+  _lines2:
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: What..
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Yeah it's not that cool
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Sorry
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: y... You're not cool......
   _playerReplyOptions:
   - yea screw u
   - wait why the hell did your friendship go up
+  _playerReplyOptions2:
+  - _choiceType: 2
+    _optionText: yea screw u
+  - _choiceType: 0
+    _optionText: wait why the hell did your friendship go up
   _npcReplies:
   - {fileID: 11400000, guid: 9787850e7fc9a094ba3ced2c0c996c7b, type: 2}
   - {fileID: 11400000, guid: 048140e91db6f7f4b8a13701479f4a21, type: 2}
