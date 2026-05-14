@@ -102,11 +102,9 @@ public class NPC : MonoBehaviour
 
                 Debug.Log("same option count:" + _sameOptionCount);
 
-                if (_currentNode._playerReplyOptions[option]._choiceType == DialogueType.Nice)
+                if (_currentNode._playerReplyOptions[option]._choiceType == ChoiceType.Nice)
                 {
-                    // Subtract from the friendship score if more than 2 nice choices have been made in a row,
-                    // add to the friendship score if 2 or less nice choices have been made
-                    if (_sameOptionCount > 2 && _friendshipValue > 0)
+                    if (_sameOptionCount > _currentNode._sameOptionTarget && _friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
                     }
@@ -115,11 +113,9 @@ public class NPC : MonoBehaviour
                         _friendshipValue += 0.1f;
                     }
                 }
-                else if (_currentNode._playerReplyOptions[option]._choiceType == DialogueType.Mean)
+                else if (_currentNode._playerReplyOptions[option]._choiceType == ChoiceType.Mean)
                 {
-                    // Add to the friendship score if less than 3 mean choices have been made in a row.
-                    // subtract from the friendship score if 3 or more mean choices have been made
-                    if (_sameOptionCount < 3)
+                    if (_sameOptionCount < _currentNode._sameOptionTarget && _friendshipValue < 1)
                     {
                         _friendshipValue += 0.1f;
                     }

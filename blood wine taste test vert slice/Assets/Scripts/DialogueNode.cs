@@ -1,12 +1,14 @@
 using UnityEngine;
 
-public enum DialogueType
+// Type of choice
+public enum ChoiceType
 {
     Neutral,
     Nice,
     Mean
 }
 
+// Current speaker
 public enum Speaker
 {
     Player,
@@ -14,6 +16,7 @@ public enum Speaker
     Narrator
 }
 
+// Dialogue lines
 [System.Serializable]
 public struct Line
 {
@@ -23,10 +26,11 @@ public struct Line
     public string _dialogueLine;
 }
 
+// Player options
 [System.Serializable]
 public struct Options
 {
-    public DialogueType _choiceType;
+    public ChoiceType _choiceType;
 
     public string _optionText;
 }
@@ -35,6 +39,9 @@ public struct Options
 
 public class DialogueNode : ScriptableObject
 {
+    // compare how many times the player has made the same type of choice
+    public int _sameOptionTarget;
+
     // lines of dialogue
     public Line[] _lines;
 

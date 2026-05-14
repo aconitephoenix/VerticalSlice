@@ -33,6 +33,7 @@ public class DialogueUI : MonoBehaviour
     {
         _dialogueLine = dialogue._dialogueLine;
 
+        // Change the dialogue box based on the current speaker
         if (dialogue._speaker == Speaker.Player)
         {
             _playerDialogueBox.SetActive(true);

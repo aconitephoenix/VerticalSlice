@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TestOutcome2
   m_EditorClassIdentifier: 
+  _sameOptionTarget: 3
   _lines:
   - _speaker: 1
     _charSprite: {fileID: 0}
