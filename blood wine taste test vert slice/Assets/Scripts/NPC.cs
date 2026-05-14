@@ -19,6 +19,7 @@ public class NPC : MonoBehaviour
     {
         _friendshipValue = 0.0f;
         _currentNode = _startingNode;
+        _dialogue.SetDialogue(_currentNode._lines[_currentLine]);
     }
 
     // Update is called once per frame
@@ -53,6 +54,7 @@ public class NPC : MonoBehaviour
         }
     }
 
+    // When player selects an option
     public void SelectedOption(int option)
     {
         if (!_dialogue._isTyping)
@@ -64,13 +66,15 @@ public class NPC : MonoBehaviour
             {
                 _currentNode = _currentNode._npcReplies[option];
                 _selectedOptions.Add(_currentNode);
-
+                
                 if (_selectedOptions.Count > 1 && _selectedOptions[_selectedOptions.IndexOf(_currentNode) - 1]._dialogueType == _selectedOptions[_selectedOptions.IndexOf(_currentNode)]._dialogueType)
                 {
+                    // Checks if the chosen option's type matches the previous option's type and adds to the same option count
                     _sameOptionCount++;
                 }
                 else
                 {
+                    // Otherwise, reset the same option count
                     _sameOptionCount = 0;
                 }
 
@@ -78,6 +82,8 @@ public class NPC : MonoBehaviour
 
                 if (_currentNode._dialogueType == DialogueType.Nice)
                 {
+                    // Subtract from the friendship score if more than 2 nice choices have been made in a row,
+                    // add to the friendship score if 2 or less nice choices have been made
                     if (_sameOptionCount > 2 && _friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
@@ -89,7 +95,9 @@ public class NPC : MonoBehaviour
                 }
                 else if (_currentNode._dialogueType == DialogueType.Mean)
                 {
-                    if (_sameOptionCount < 2)
+                    // Add to the friendship score if less than 3 mean choices have been made in a row.
+                    // subtract from the friendship score if 3 or more mean choices have been made
+                    if (_sameOptionCount < 3)
                     {
                         _friendshipValue += 0.1f;
                     }
@@ -121,12 +129,5 @@ public class NPC : MonoBehaviour
         {
             _spriteRenderer.color = Color.white;
         }
-    }
-
-    public DialogueNode ResetDialogue()
-    {
-        _currentLine = 0;
-        _currentNode = _startingNode;
-        return _currentNode;
     }
 }

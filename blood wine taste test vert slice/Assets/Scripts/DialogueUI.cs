@@ -13,10 +13,8 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private TMP_Text _playerDialogueText;
     [SerializeField] private TMP_Text _option1;
     [SerializeField] private TMP_Text _option2;
-    [SerializeField] private DialogueNode _currentNode;
     [SerializeField] private float _typingSpeed = 0.04f;
 
-    private int _currentLine = 0;
     private string _npcName = "{NPC}";
     private string _playerName = "{???}";
     private Coroutine _typeLineCoroutine;
@@ -31,7 +29,6 @@ public class DialogueUI : MonoBehaviour
     {
         _npcDialogueBox.SetActive(true);
         _playerDialogueBox.SetActive(false);
-        SetDialogue(_currentNode._lines[_currentLine]);
     }
 
     // Set the dialogue text
