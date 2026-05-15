@@ -83,13 +83,13 @@ public class NPC : MonoBehaviour
             _currentLine = -1;
             _dialogue._waitingForPlayerResponse = false;
             _canContinue = true;
+            _selectedOptions.Add(_currentNode._playerReplyOptions[option]);
 
             if (option < _currentNode._npcReplies.Length)
             {
                 _currentNode = _currentNode._npcReplies[option];
-                _selectedOptions.Add(_currentNode._playerReplyOptions[option]);
 
-                if (_selectedOptions.Count > 1 && _selectedOptions[_selectedOptions.IndexOf(_currentNode._playerReplyOptions[option]) - 1]._choiceType == _selectedOptions[_selectedOptions.IndexOf(_currentNode._playerReplyOptions[option])]._choiceType)
+                if (_selectedOptions.Count > 1 && _selectedOptions[_selectedOptions.Count - 2]._choiceType == _selectedOptions[_selectedOptions.Count - 1]._choiceType)
                 {
                     // Checks if the chosen option's type matches the previous option's type and adds to the same option count
                     _sameOptionCount++;
@@ -102,27 +102,34 @@ public class NPC : MonoBehaviour
 
                 Debug.Log("same option count:" + _sameOptionCount);
 
-                if (_currentNode._playerReplyOptions[option]._choiceType == ChoiceType.Nice)
+                if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Nice)
                 {
                     if (_sameOptionCount > _currentNode._sameOptionTarget && _friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
+                        ChangeEmotion("angry");
                     }
                     else
                     {
                         _friendshipValue += 0.1f;
+                        ChangeEmotion("happy");
                     }
                 }
-                else if (_currentNode._playerReplyOptions[option]._choiceType == ChoiceType.Mean)
+                else if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Mean)
                 {
                     if (_sameOptionCount < _currentNode._sameOptionTarget && _friendshipValue < 1)
                     {
                         _friendshipValue += 0.1f;
+                        ChangeEmotion("happy");
                     }
                     else if (_friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
+                        ChangeEmotion("angry");
                     }
+                } else
+                {
+                    ChangeEmotion("neutral");
                 }
 
                 _friendshipBar.ChangeFriendship(_friendshipValue);

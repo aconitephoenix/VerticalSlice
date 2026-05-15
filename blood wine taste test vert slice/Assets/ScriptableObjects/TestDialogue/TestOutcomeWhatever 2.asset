@@ -10,18 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
-  m_Name: Test2Outcome
+  m_Name: TestOutcomeWhatever 2
   m_EditorClassIdentifier: 
-  _sameOptionTarget: 2
+  _sameOptionTarget: 0
   _lines:
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: you're sooooo nice... nicenice.nice
-  _playerReplyOptions:
-  - _choiceType: 1
-    _optionText: I love u
-  - _choiceType: 2
-    _optionText: No i hate u
-  _npcReplies:
-  - {fileID: 11400000, guid: 0e813ffd6bad5c74780839f15a77db18, type: 2}
-  - {fileID: 11400000, guid: 6291197f44b95374c9f3799ad4abb360, type: 2}
+    _dialogueLine: I literally just told u not to be nice to me you dingus
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Fuck off
+  _playerReplyOptions: []
+  _npcReplies: []

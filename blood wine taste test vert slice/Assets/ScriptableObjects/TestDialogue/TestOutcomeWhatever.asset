@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
+  m_Name: TestOutcomeWhatever
+  m_EditorClassIdentifier: 
+  _sameOptionTarget: 0
+  _lines:
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Okay now you're being too nice.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: I hate you.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Go eat a worm.
+  _playerReplyOptions:
+  - _choiceType: 2
+    _optionText: what the hell bro
+  - _choiceType: 1
+    _optionText: b...but you're so wonderful.....
+  _npcReplies:
+  - {fileID: 11400000, guid: 619da2eac0b74e64cb55c505794505b8, type: 2}
+  - {fileID: 11400000, guid: 4f2cddb9c14bcfc4b8cb808edd2d7066, type: 2}
