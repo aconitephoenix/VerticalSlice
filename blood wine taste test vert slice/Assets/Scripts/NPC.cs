@@ -5,7 +5,7 @@ public class NPC : MonoBehaviour
 {
     [SerializeField] public DialogueNode _startingNode;
     [SerializeField] private DialogueUI _dialogue;
-    [SerializeField] private SpriteRenderer _spriteRenderer;
+    public SpriteRenderer _spriteRenderer;
     [SerializeField] private FriendshipBar _friendshipBar;
 
     public DialogueNode _currentNode;
@@ -107,12 +107,12 @@ public class NPC : MonoBehaviour
                     if (_sameOptionCount > _currentNode._sameOptionTarget && _friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
-                        ChangeEmotion("angry");
+                        //ChangeEmotion("angry");
                     }
                     else
                     {
                         _friendshipValue += 0.1f;
-                        ChangeEmotion("happy");
+                        //ChangeEmotion("happy");
                     }
                 }
                 else if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Mean)
@@ -120,17 +120,19 @@ public class NPC : MonoBehaviour
                     if (_sameOptionCount < _currentNode._sameOptionTarget && _friendshipValue < 1)
                     {
                         _friendshipValue += 0.1f;
-                        ChangeEmotion("happy");
+                        //ChangeEmotion("happy");
                     }
                     else if (_friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
-                        ChangeEmotion("angry");
+                        //ChangeEmotion("angry");
                     }
-                } else
+                } 
+                /* else
                 {
                     ChangeEmotion("neutral");
                 }
+                */
 
                 _friendshipBar.ChangeFriendship(_friendshipValue);
                 AdvanceDialogue();

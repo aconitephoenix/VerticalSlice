@@ -15,7 +15,7 @@ MonoBehaviour:
   _sameOptionTarget: 3
   _lines:
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _dialogueLine: What..
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -24,7 +24,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _dialogueLine: Sorry
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _dialogueLine: Y..you're not cool.....
   _playerReplyOptions:
   - _choiceType: 2

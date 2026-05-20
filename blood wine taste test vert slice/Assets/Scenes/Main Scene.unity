@@ -240,7 +240,7 @@ GameObject:
   - component: {fileID: 245599976}
   - component: {fileID: 245599978}
   m_Layer: 0
-  m_Name: Placeholder NPC
+  m_Name: NPC
   m_TagString: NPC
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -287,7 +287,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -307,7 +307,7 @@ Transform:
   m_GameObject: {fileID: 245599975}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.01, y: -0.03, z: 0}
+  m_LocalPosition: {x: -0.01, y: -0.21, z: 0}
   m_LocalScale: {x: 3.5692432, y: 3.594178, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1383,7 +1383,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.025624998, y: 0.051666666}
   m_AnchorMax: {x: 0.9667501, y: 0.365}
-  m_AnchoredPosition: {x: -1.1201477, y: 0.37020874}
+  m_AnchoredPosition: {x: -1.1201172, y: 0.37020874}
   m_SizeDelta: {x: -1.8737793, y: 0.74037}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &683065258

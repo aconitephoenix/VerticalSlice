@@ -15,13 +15,13 @@ MonoBehaviour:
   _sameOptionTarget: 0
   _lines:
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _dialogueLine: Okay now you're being too nice.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _dialogueLine: I hate you.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _dialogueLine: Go eat a worm.
   _playerReplyOptions:
   - _choiceType: 2

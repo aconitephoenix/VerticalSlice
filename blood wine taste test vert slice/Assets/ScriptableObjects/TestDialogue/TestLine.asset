@@ -15,19 +15,19 @@ MonoBehaviour:
   _sameOptionTarget: 0
   _lines:
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _dialogueLine: This is dialogue
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _dialogueLine: I am speaking
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _dialogueLine: Isn't that crazy
   - _speaker: 0
     _charSprite: {fileID: 0}
     _dialogueLine: Rather crazy indeed.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _dialogueLine: Exactly bro.....
   _playerReplyOptions:
   - _choiceType: 1

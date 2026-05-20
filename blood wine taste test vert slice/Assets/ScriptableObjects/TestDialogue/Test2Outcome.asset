@@ -15,7 +15,7 @@ MonoBehaviour:
   _sameOptionTarget: 2
   _lines:
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 2fc62898a49bd0043b500a68477c6353, type: 3}
     _dialogueLine: you're sooooo nice... nicenice.nice
   _playerReplyOptions:
   - _choiceType: 1
