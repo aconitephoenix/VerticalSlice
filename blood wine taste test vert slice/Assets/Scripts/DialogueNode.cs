@@ -23,6 +23,7 @@ public struct Line
     public Speaker _speaker;
     public Sprite _charSprite;
 
+    [TextArea(3, 10)]
     public string _dialogueLine;
 }
 

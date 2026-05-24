@@ -325,7 +325,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c77a022cbbbf5e4492bac673b8c1e4b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _startingNode: {fileID: 11400000, guid: fe5263d306f8efb4f807f35730c27caf, type: 2}
+  _startingNode: {fileID: 11400000, guid: 10b62324ed5aab64db71421c5186057d, type: 2}
   _dialogue: {fileID: 661798270}
   _spriteRenderer: {fileID: 245599976}
   _friendshipBar: {fileID: 1692525866}

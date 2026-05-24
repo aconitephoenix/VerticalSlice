@@ -12,25 +12,75 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: StartingDialogue
   m_EditorClassIdentifier: 
-  _dialogueType: 0
+  _sameOptionTarget: 0
   _lines:
-  - '{Player}Jessi Atwood is human trash.'
-  - She's self-absorbed,
-  - unapologetically rude,
-  - absurdly unintelligent,
-  - and socially incompetent;
-  - she manages to be worthless all around.
-  - And tonight...she will be mine.
-  - "{NPC}Hey, don't know if you saw the sign, but we're\u2014"
-  - ...closed...
-  - Oh. It's you.
-  - '{???}Pleased to meet you as well.'
-  - '{NPC}What are you doing here? You didn''t tell me you were gonna show up.'
-  - '{???}Just thought it would be fun to surprise you. Keeping it fun, you know?'
-  - '{NPC}Well you know what''s not fun? Staying here after hours for no reason.'
-  - You don't contact me, you don't get the bar. GET OUT.
-  - '{???}No need to be so hostile, Jessi. I don''t intend to waste your precious
-    time for long.'
-  - '{NPC}Oh yeah? Well you''re already doing it.'
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: Jessi Atwood is human trash.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: Self-absorbed,
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: terribly ill-mannered,
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: absurdly unintelligent,
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: socially incompetent...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: I could go on for days about the amount of things wrong with her.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: There's no reason in the world to ever want to associate with
+      her.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: But that changes today.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: Jessi Atwood...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _dialogueLine: ...will be mine.
+  - _speaker: 1
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
+    _dialogueLine: "Ugh\u2014hey, I don't know if you saw the sign, but we're\u2014"
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: ...closed...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: ...oh. It's you.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _dialogueLine: Good evening to you as well.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Evening? It's midnight!! On the dot!!! You call that evening??
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: And and and, what do you think you're doing here??? You didn't
+      tell me you were coming!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _dialogueLine: Hmm, thought I'd surprise you. Am I not allowed to have a little
+      fun every now and then?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: You know the rules. You don't give me the heads up, you don't
+      get the bar!! Now GET OUT!!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _dialogueLine: Ouch, so hostile...though you'll find no need to be. I don't intend
+      to waste your time.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: Well you're already doing it!! Leave!!! Now!!!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _dialogueLine: Let me finish.
   _playerReplyOptions: []
   _npcReplies: []
