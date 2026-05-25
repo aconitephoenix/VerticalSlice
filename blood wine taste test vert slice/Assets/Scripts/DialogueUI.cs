@@ -1,6 +1,7 @@
 using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class DialogueUI : MonoBehaviour
 {
@@ -13,6 +14,8 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private TMP_Text _option1;
     [SerializeField] private TMP_Text _option2;
     [SerializeField] private float _typingSpeed = 0.04f;
+    [SerializeField] private Image _continueIndicator;
+    [SerializeField] private Image _playerContinueIndicator;
 
     private Coroutine _typeLineCoroutine;
     public bool _isTyping;
@@ -78,11 +81,13 @@ public class DialogueUI : MonoBehaviour
         {
             _playerDialogueText.text = dialogue;
             _playerDialogueText.maxVisibleCharacters = 0;
+            _playerContinueIndicator.gameObject.SetActive(false);
         }
         else if (_npcDialogueBox.activeSelf)
         {
             _npcDialogueText.text = dialogue;
             _npcDialogueText.maxVisibleCharacters = 0;
+            _continueIndicator.gameObject.SetActive(false);
         }
 
 
@@ -96,10 +101,12 @@ public class DialogueUI : MonoBehaviour
                 if (_playerDialogueBox.activeSelf)
                 {
                     _playerDialogueText.maxVisibleCharacters = dialogue.Length + 1;
+                    _playerContinueIndicator.gameObject.SetActive(true);
                 }
                 else if (_npcDialogueBox.activeSelf)
                 {
                     _npcDialogueText.maxVisibleCharacters = dialogue.Length + 1;
+                    _continueIndicator.gameObject.SetActive(true);
                 }
                 _skipDialogue = false;
                 _isTyping = false;
@@ -119,6 +126,14 @@ public class DialogueUI : MonoBehaviour
 
         _isTyping = false;
         _skipDialogue = false;
+        if (_playerDialogueBox.activeSelf)
+        {
+            _playerContinueIndicator.gameObject.SetActive(true);
+        }
+        else if (_npcDialogueBox.activeSelf)
+        {
+            _continueIndicator.gameObject.SetActive(true);
+        }
     }
 
     public void ShowPlayerOptions(Options[] options)
