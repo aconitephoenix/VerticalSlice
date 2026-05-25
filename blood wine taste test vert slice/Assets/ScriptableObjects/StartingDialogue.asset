@@ -74,7 +74,7 @@ MonoBehaviour:
       get the bar!! Now GET OUT!!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _dialogueLine: Ouch, so hostile...though you'll find no need to be. I don't intend
+    _dialogueLine: So hostile...though you'll find no need to be. I don't intend
       to waste your time.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -135,7 +135,7 @@ MonoBehaviour:
     _dialogueLine: '"Bonding opportunity?" What, am I 5?'
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _dialogueLine: Might as well be.
+    _dialogueLine: (Might as well be.)
   - _speaker: 0
     _charSprite: {fileID: 0}
     _dialogueLine: You could also use this chance to see if I'm worth your time.
@@ -175,10 +175,12 @@ MonoBehaviour:
     _dialogueLine: ...So...
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: ...what do we talk about?
+    _dialogueLine: ...what...do we talk about?
   _playerReplyOptions:
   - _choiceType: 0
     _optionText: Her job
   - _choiceType: 0
     _optionText: Life outside of work
-  _npcReplies: []
+  _npcReplies:
+  - {fileID: 11400000, guid: f80bb0c637b50dc4c905d92c6dc55b1b, type: 2}
+  - {fileID: 11400000, guid: 8b936c89b02736b479b77a57399df99d, type: 2}
