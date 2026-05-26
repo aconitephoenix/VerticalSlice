@@ -13,8 +13,9 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private TMP_Text _playerDialogueText;
     [SerializeField] private TMP_Text _option1;
     [SerializeField] private TMP_Text _option2;
-    [SerializeField] private float _typingSpeed = 0.04f;
+    //[SerializeField] private float _typingSpeed = 0.04f;
     [SerializeField] private Image _continueIndicator;
+    [SerializeField] private Image _cgDisplay;
 
     private Coroutine _typeLineCoroutine;
     public bool _isTyping;
@@ -52,10 +53,19 @@ public class DialogueUI : MonoBehaviour
         {
             _npcDialogueBox.SetActive(true);
             _playerDialogueBox.SetActive(false);
-            _npcNameText.text = "???";
+            _npcNameText.text = "";
         }
 
-        _playerOptions.SetActive(false);
+        if (dialogue._CG != null)
+        {
+            _cgDisplay.gameObject.SetActive(true);
+            _cgDisplay.sprite = dialogue._CG.sprite;
+        } else
+        {
+            _cgDisplay.gameObject.SetActive(false);
+        }
+
+            _playerOptions.SetActive(false);
 
         if (_typeLineCoroutine != null)
         {
@@ -118,7 +128,7 @@ public class DialogueUI : MonoBehaviour
             {
                 _npcDialogueText.maxVisibleCharacters = i;
             }
-            yield return new WaitForSeconds(0.1f - ((PlayerPrefs.GetFloat("textSpeed") * 100) / 100));
+            yield return new WaitForSeconds(0.1f - PlayerPrefs.GetFloat("textSpeed"));
         }
 
         _isTyping = false;

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 // Type of choice
 public enum ChoiceType
@@ -22,6 +23,7 @@ public struct Line
 {
     public Speaker _speaker;
     public Sprite _charSprite;
+    public Image _CG;
 
     [TextArea(3, 10)]
     public string _dialogueLine;

@@ -13,6 +13,64 @@ MonoBehaviour:
   m_Name: LifeLineStart
   m_EditorClassIdentifier: 
   _sameOptionTarget: 0
-  _lines: []
+  _lines:
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: I've never really paid attention to your life outside this place.
+      I'm curious as to how you spend your free time.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Oh, why do you want to know? So you can bang me in the parking
+      lot when I'm not busy?! You don't even hang out with me!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Don't take it personally. You know why.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: It's not that, it's just...I get asked that literally all the
+      damn time by drunkards trying to ask me out.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: '"Hurr durr hey baby what are you doing after this??? Oh you''re
+      just going straight home to rot on your bed and think about how much you wanna
+      kill everybody??? Well how would you like to have your back blown out while
+      you do that heh how about that baby???"'
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: At least once a week with that routine, so it's just a kneejerk
+      reaction to not want to say anything...half the time they don't even look good
+      enough to say shit like that.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: So MY BAD for getting defensive.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Of course she's managed to make it about herself in a way I DIDN'T
+      ask for. Though I suppose it's useful to gauge her reaction to my offer...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: I apologize for whatever turmoils you here. However, I believe
+      I asked for your details on your life OUTSIDE of this establishment.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Yeah yeah, I'll get to it. Jeez, desperate much?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Uhh, what I do in my free time...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Well, I guess I just kind of...loaf around...
   _playerReplyOptions: []
   _npcReplies: []

@@ -16,49 +16,78 @@ MonoBehaviour:
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: I'm curious...what is it like around here?
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: Well that's a basic ass question...
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: Honestly, if you're looking for anything interesting, you're not
       getting it. Every single day is just the same boring shit.
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: Customer comes in. Take the order. Serve the drink. Rinse and
       repeat.
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: Makes me wanna blow my brains out.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _dialogueLine: Rather extreme, don't you think?
+    _CG: {fileID: 0}
+    _dialogueLine: Well, that's rather extreme, don't you think?
   - _speaker: 0
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: Weren't you the one who opened this establishment? I assumed you'd
-      be a little more enthusiastic.
+      be a little more enthusiastic about this place.
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: Yeah, I thought that too, until I realized how boring everyone
       that comes here is.
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: All the time, it's either just happy-go-lucky assholes who just
-      go stupid after one drink,
+    _CG: {fileID: 0}
+    _dialogueLine: All the time, it's either just happy-go-lucky lightweight assholes
+      who go stupid after one drink,
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: or sad sacks of shit that want to complain to me about their miserable
-      lives while they drink it away.
+    _CG: {fileID: 0}
+    _dialogueLine: or sad sacks of shit that want to complain to me about the miserable
+      lives they're drinking away.
   - _speaker: 0
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: I thought that was the kind of thing you were into?
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: NO!!! It's so ANNOYING!!!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
     _dialogueLine: It's not even, like, fun to watch them do that shit. They're all
-      just normal-ass people that have no
-  _playerReplyOptions: []
-  _npcReplies: []
+      just normal-ass people that have absolutely nothing to show for their lives.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Another poor soul upset with their working conditions...how predictable.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: In any case, though, I wouldn't expect her to be happy in any
+      position. Her capabilities are just so few I'd imagine it'd be miserable to
+      try to do anything. Poor thing.
+  _playerReplyOptions:
+  - _choiceType: 1
+    _optionText: Agree with her
+  - _choiceType: 2
+    _optionText: Be honest
+  _npcReplies:
+  - {fileID: 11400000, guid: c082bf4dc55ccb74a881f89b7f01fee8, type: 2}
+  - {fileID: 11400000, guid: 2b71f8411335e744580a06ba4401f07a, type: 2}

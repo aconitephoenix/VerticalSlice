@@ -30,12 +30,17 @@ public class GameController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        _textSpeedSlider.value = PlayerPrefs.GetFloat("textSpeed");
+        //_textSpeedSlider.value = PlayerPrefs.GetFloat("textSpeed");
     }
 
     // Update is called once per frame
     void Update()
     {
         PlayerPrefs.SetFloat("textSpeed", _textSpeedSlider.value);
+    }
+
+    public void ChangeTextSpeedSliderValue()
+    {
+
     }
 }
