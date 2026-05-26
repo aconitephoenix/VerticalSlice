@@ -44,6 +44,21 @@ MonoBehaviour:
       that comes here is.
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _dialogueLine: 'All the time, it''s either just happy-go-lucky assholes who '
+    _dialogueLine: All the time, it's either just happy-go-lucky assholes who just
+      go stupid after one drink,
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: or sad sacks of shit that want to complain to me about their miserable
+      lives while they drink it away.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _dialogueLine: I thought that was the kind of thing you were into?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: NO!!! It's so ANNOYING!!!!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _dialogueLine: It's not even, like, fun to watch them do that shit. They're all
+      just normal-ass people that have no
   _playerReplyOptions: []
   _npcReplies: []

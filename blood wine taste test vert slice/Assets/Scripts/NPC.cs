@@ -127,7 +127,7 @@ public class NPC : MonoBehaviour
                         _friendshipValue -= 0.1f;
                         //ChangeEmotion("angry");
                     }
-                } 
+                }
                 /* else
                 {
                     ChangeEmotion("neutral");

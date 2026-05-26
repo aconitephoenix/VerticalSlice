@@ -1,9 +1,6 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using UnityEngine.UIElements;
 
 public class SceneLoader : MonoBehaviour
 {
@@ -19,7 +16,7 @@ public class SceneLoader : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void SwitchScene(string sceneName)
@@ -27,31 +24,35 @@ public class SceneLoader : MonoBehaviour
         if (sceneName == "Start Screen")
         {
             _sceneToGo = 0;
-        } else if (sceneName == "Main Scene")
+        }
+        else if (sceneName == "Main Scene")
         {
             _sceneToGo = 1;
-        } else if (sceneName == "Game Over")
+        }
+        else if (sceneName == "Game Over")
         {
             _sceneToGo = 2;
         }
 
-            StartCoroutine(AnimateFade());
+        StartCoroutine(AnimateFade());
         SceneManager.LoadScene(_sceneToGo);
     }
 
-    
+
     public IEnumerator AnimateFade()
     {
         if (_sceneToGo == 0)
         {
             _fadeAnimator.SetTrigger("outToIn");
-        } else if (_sceneToGo == 1) { 
+        }
+        else if (_sceneToGo == 1)
+        {
         }
         {
             _fadeAnimator.SetTrigger("inToOut");
         }
-        
+
         yield return new WaitForSeconds(2.0f);
     }
-    
+
 }
