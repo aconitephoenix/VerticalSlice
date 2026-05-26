@@ -108,5 +108,13 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _dialogueLine: No! I don't need the money, I just...uh...
-  _playerReplyOptions: []
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: ...
+  _playerReplyOptions:
+  - _choiceType: 2
+    _optionText: Pry the answer out of her
+  - _choiceType: 1
+    _optionText: Change the subject
   _npcReplies: []

@@ -54,12 +54,13 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _dialogueLine: Of course she's managed to make it about herself in a way I DIDN'T
-      ask for. Though I suppose it's useful to gauge her reaction to my offer...
+      ask for. Though I suppose it's useful information to gauge her reaction to
+      my offer...
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _dialogueLine: I apologize for whatever turmoils you here. However, I believe
-      I asked for your details on your life OUTSIDE of this establishment.
+    _dialogueLine: I apologize for whatever turmoils you here, but I believe I asked
+      for your details on your life OUTSIDE of this establishment. Care to answer?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -71,6 +72,18 @@ MonoBehaviour:
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _dialogueLine: Well, I guess I just kind of...loaf around...
+    _dialogueLine: I guess I just...talk...to people??
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: I guess I just...talk...to people??
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: You talk to people.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: W-well, yeah
   _playerReplyOptions: []
   _npcReplies: []
