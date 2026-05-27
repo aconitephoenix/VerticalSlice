@@ -2501,6 +2501,7 @@ MonoBehaviour:
   _continueIndicator: {fileID: 1774467969}
   _cgDisplay: {fileID: 644951627}
   _blankCG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+  _camera: {fileID: 519420033}
   _isTyping: 0
   _skipDialogue: 0
   _canSkip: 0

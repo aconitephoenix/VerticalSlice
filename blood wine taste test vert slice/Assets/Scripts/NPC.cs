@@ -79,11 +79,13 @@ public class NPC : MonoBehaviour
             if (_friendshipValue >= 0.75f)
             {
                 _currentNode = _successNode;
-            } else
+            }
+            else
             {
                 _currentNode = _failNode;
             }
-        } else
+        }
+        else
         {
             GameController.Instance.sceneLoader.SwitchScene("Game Over");
         }
@@ -113,8 +115,6 @@ public class NPC : MonoBehaviour
                     // Otherwise, reset the same option count
                     _sameOptionCount = 0;
                 }
-
-                //Debug.Log("same option count:" + _sameOptionCount);
 
                 if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Nice)
                 {

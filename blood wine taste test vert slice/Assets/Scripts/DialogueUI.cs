@@ -17,6 +17,7 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private Image _continueIndicator;
     [SerializeField] private Image _cgDisplay;
     [SerializeField] private Sprite _blankCG;
+    [SerializeField] private CameraShake _camera;
 
     private Coroutine _typeLineCoroutine;
     public bool _isTyping;
@@ -45,7 +46,8 @@ public class DialogueUI : MonoBehaviour
                 _npcDialogueBox.SetActive(true);
                 _playerDialogueBox.SetActive(false);
                 _npcNameText.text = "???";
-            } else
+            }
+            else
             {
                 _playerDialogueBox.SetActive(true);
                 if (dialogue._charSprite != null && _playerAvatar.sprite != dialogue._charSprite)
@@ -72,6 +74,7 @@ public class DialogueUI : MonoBehaviour
             _npcNameText.text = "";
         }
 
+        // Display a CG if there is one
         if (dialogue._CG != null)
         {
             _cgDisplay.gameObject.SetActive(true);
@@ -80,16 +83,18 @@ public class DialogueUI : MonoBehaviour
             if (dialogue._CG != _blankCG)
             {
                 _cgDisplay.color = Color.white;
-            } else
+            }
+            else
             {
                 _cgDisplay.color = Color.black;
             }
-        } else
+        }
+        else
         {
             _cgDisplay.gameObject.SetActive(false);
         }
 
-            _playerOptions.SetActive(false);
+        _playerOptions.SetActive(false);
 
         if (_typeLineCoroutine != null)
         {
@@ -101,6 +106,11 @@ public class DialogueUI : MonoBehaviour
         if (gameObject.activeInHierarchy)
         {
             _typeLineCoroutine = StartCoroutine(TypeLine(_dialogueLine));
+        }
+
+        if (dialogue._shakeCamera)
+        {
+            StartCoroutine(_camera.ShakeCamera());
         }
     }
 

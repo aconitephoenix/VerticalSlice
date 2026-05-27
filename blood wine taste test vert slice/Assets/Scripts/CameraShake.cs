@@ -1,35 +1,32 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class CameraShake : MonoBehaviour
 {
-    [SerializeField] private Camera _camera;
-
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    public IEnumerator ShakeCamera(float duration, float magnitude)
+    public IEnumerator ShakeCamera()
     {
-        Vector3 originalPos = _camera.transform.localPosition;
+        Vector3 originalPos = transform.localPosition;
 
         float elapsedTime = 0;
 
-        while (elapsedTime < duration)
+        while (elapsedTime < 0.2f)
         {
-            float xOffset = Random.Range(-0.5f, 0.5f) * magnitude;
-            float yOffset = Random.Range(-0.5f, 0.5f) * magnitude;
+            float xOffset = Random.Range(-0.5f, 0.5f) * 0.4f;
+            float yOffset = Random.Range(-0.5f, 0.5f) * 0.4f;
 
-            _camera.transform.localPosition = new Vector3(xOffset, yOffset, _camera.transform.localPosition.z);
+            transform.localPosition = new Vector3(xOffset, yOffset, transform.localPosition.z);
 
             elapsedTime += Time.deltaTime;
 
