@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
+  m_Name: FailSequence
+  m_EditorClassIdentifier: 
+  _sameOptionTarget: 0
+  _lines:
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Oh would you look at that; time's up.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: And what did I get out of that time? NOTHING!!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Ugh, don't even know what I expected, you're all just the same...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Sincerest apologies for disappointing you, Jessi. I suppose I
+      wasn't at my best today.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Not even close. Just get out of here. We're done.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Hmph. Very well then.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Failure..? It's not becoming of me to fail at something as simple
+      as entertaining that idiot.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: I planned everything perfectly, and yet...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: ...no, the fault doesn't lie within me.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: It's all her fault.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: You can't expect anything from scum like her.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: That worthless excuse of a human cannot possibly understand what
+      I could give her.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: Right...Jessi Atwood...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _dialogueLine: ...is human trash.
+  _playerReplyOptions: []
+  _npcReplies: []
+  _gameEnd: 0

@@ -16,6 +16,7 @@ public class DialogueUI : MonoBehaviour
     //[SerializeField] private float _typingSpeed = 0.04f;
     [SerializeField] private Image _continueIndicator;
     [SerializeField] private Image _cgDisplay;
+    [SerializeField] private Sprite _blankCG;
 
     private Coroutine _typeLineCoroutine;
     public bool _isTyping;
@@ -39,8 +40,16 @@ public class DialogueUI : MonoBehaviour
         // Change the dialogue box based on the current speaker
         if (dialogue._speaker == Speaker.Player)
         {
-            _playerDialogueBox.SetActive(true);
-            _npcDialogueBox.SetActive(false);
+            if (dialogue._CG != null)
+            {
+                _npcDialogueBox.SetActive(true);
+                _playerDialogueBox.SetActive(false);
+                _npcNameText.text = "???";
+            } else
+            {
+                _playerDialogueBox.SetActive(true);
+                _npcDialogueBox.SetActive(false);
+            }
         }
         else if (dialogue._speaker == Speaker.NPC)
         {
@@ -59,7 +68,15 @@ public class DialogueUI : MonoBehaviour
         if (dialogue._CG != null)
         {
             _cgDisplay.gameObject.SetActive(true);
-            _cgDisplay.sprite = dialogue._CG.sprite;
+            _cgDisplay.sprite = dialogue._CG;
+
+            if (dialogue._CG != _blankCG)
+            {
+                _cgDisplay.color = Color.white;
+            } else
+            {
+                _cgDisplay.color = Color.black;
+            }
         } else
         {
             _cgDisplay.gameObject.SetActive(false);

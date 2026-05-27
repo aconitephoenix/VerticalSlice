@@ -16,44 +16,44 @@ MonoBehaviour:
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: Jessi Atwood is human trash.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: Self-absorbed,
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: terribly ill-mannered,
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: absurdly unintelligent,
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: socially incompetent...
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: I could go on for days about the amount of things wrong with her.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: There's no reason in the world to ever want to associate with
       her.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: But that changes today.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: Jessi Atwood...
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _dialogueLine: ...will be mine.
   - _speaker: 1
     _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
@@ -233,3 +233,4 @@ MonoBehaviour:
   _npcReplies:
   - {fileID: 11400000, guid: f80bb0c637b50dc4c905d92c6dc55b1b, type: 2}
   - {fileID: 11400000, guid: 8b936c89b02736b479b77a57399df99d, type: 2}
+  _gameEnd: 0

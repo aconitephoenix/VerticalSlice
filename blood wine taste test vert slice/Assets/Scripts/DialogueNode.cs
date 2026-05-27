@@ -23,7 +23,8 @@ public struct Line
 {
     public Speaker _speaker;
     public Sprite _charSprite;
-    public Image _CG;
+    public Sprite _CG;
+    public AudioClip _music;
 
     [TextArea(3, 10)]
     public string _dialogueLine;
@@ -53,4 +54,7 @@ public class DialogueNode : ScriptableObject
 
     // player reply outcomes
     public DialogueNode[] _npcReplies;
+
+    // if this node ends the game
+    public bool _gameEnd;
 }

@@ -3,10 +3,12 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour
 {
-    [SerializeField] public DialogueNode _startingNode;
+    public DialogueNode _startingNode;
     [SerializeField] private DialogueUI _dialogue;
     public SpriteRenderer _spriteRenderer;
     [SerializeField] private FriendshipBar _friendshipBar;
+    [SerializeField] private DialogueNode _successNode;
+    [SerializeField] private DialogueNode _failNode;
 
     public DialogueNode _currentNode;
     public int _currentLine;
@@ -72,7 +74,19 @@ public class NPC : MonoBehaviour
 
     private void EndDialogue()
     {
-        GameController.Instance.sceneLoader.SwitchScene("Game Over");
+        if (_currentNode._gameEnd)
+        {
+            if (_friendshipValue >= 0.75f)
+            {
+                _currentNode = _successNode;
+            } else
+            {
+                _currentNode = _failNode;
+            }
+        } else
+        {
+            GameController.Instance.sceneLoader.SwitchScene("Game Over");
+        }
     }
 
     // When player selects an option
@@ -100,7 +114,7 @@ public class NPC : MonoBehaviour
                     _sameOptionCount = 0;
                 }
 
-                Debug.Log("same option count:" + _sameOptionCount);
+                //Debug.Log("same option count:" + _sameOptionCount);
 
                 if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Nice)
                 {
