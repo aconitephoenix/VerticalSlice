@@ -8,12 +8,12 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private GameObject _npcDialogueBox;
     [SerializeField] private GameObject _playerDialogueBox;
     [SerializeField] private GameObject _playerOptions;
+    [SerializeField] private Image _playerAvatar;
     [SerializeField] private TMP_Text _npcDialogueText;
     [SerializeField] private TMP_Text _npcNameText;
     [SerializeField] private TMP_Text _playerDialogueText;
     [SerializeField] private TMP_Text _option1;
     [SerializeField] private TMP_Text _option2;
-    //[SerializeField] private float _typingSpeed = 0.04f;
     [SerializeField] private Image _continueIndicator;
     [SerializeField] private Image _cgDisplay;
     [SerializeField] private Sprite _blankCG;
@@ -48,6 +48,10 @@ public class DialogueUI : MonoBehaviour
             } else
             {
                 _playerDialogueBox.SetActive(true);
+                if (dialogue._charSprite != null && _playerAvatar.sprite != dialogue._charSprite)
+                {
+                    _playerAvatar.sprite = dialogue._charSprite;
+                }
                 _npcDialogueBox.SetActive(false);
             }
         }
@@ -56,7 +60,10 @@ public class DialogueUI : MonoBehaviour
             _playerDialogueBox.SetActive(false);
             _npcDialogueBox.SetActive(true);
             _npcNameText.text = "Jessi Atwood";
-            GameController.Instance.Npc._spriteRenderer.sprite = dialogue._charSprite;
+            if (dialogue._charSprite != null && GameController.Instance.Npc._spriteRenderer.sprite != dialogue._charSprite)
+            {
+                GameController.Instance.Npc._spriteRenderer.sprite = dialogue._charSprite;
+            }
         }
         else if (dialogue._speaker == Speaker.Narrator)
         {

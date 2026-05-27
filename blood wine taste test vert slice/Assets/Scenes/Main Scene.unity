@@ -2478,6 +2478,7 @@ MonoBehaviour:
   _npcDialogueBox: {fileID: 683065256}
   _playerDialogueBox: {fileID: 1387526338}
   _playerOptions: {fileID: 371760556}
+  _playerAvatar: {fileID: 1483741213}
   _npcDialogueText: {fileID: 621527299}
   _npcNameText: {fileID: 1397438505}
   _playerDialogueText: {fileID: 1680608541}

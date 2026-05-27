@@ -121,12 +121,10 @@ public class NPC : MonoBehaviour
                     if (_sameOptionCount > _currentNode._sameOptionTarget && _friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
-                        //ChangeEmotion("angry");
                     }
                     else
                     {
                         _friendshipValue += 0.1f;
-                        //ChangeEmotion("happy");
                     }
                 }
                 else if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Mean)
@@ -134,19 +132,12 @@ public class NPC : MonoBehaviour
                     if (_sameOptionCount < _currentNode._sameOptionTarget && _friendshipValue < 1)
                     {
                         _friendshipValue += 0.1f;
-                        //ChangeEmotion("happy");
                     }
                     else if (_friendshipValue > 0)
                     {
                         _friendshipValue -= 0.1f;
-                        //ChangeEmotion("angry");
                     }
                 }
-                /* else
-                {
-                    ChangeEmotion("neutral");
-                }
-                */
 
                 _friendshipBar.ChangeFriendship(_friendshipValue);
                 AdvanceDialogue();
@@ -156,23 +147,6 @@ public class NPC : MonoBehaviour
             {
                 EndDialogue();
             }
-        }
-    }
-
-    // Changes NPC sprite based on emotion
-    public void ChangeEmotion(string emotion)
-    {
-        if (emotion == "angry")
-        {
-            _spriteRenderer.color = Color.red;
-        }
-        else if (emotion == "happy")
-        {
-            _spriteRenderer.color = Color.yellow;
-        }
-        else if (emotion == "neutral")
-        {
-            _spriteRenderer.color = Color.white;
         }
     }
 }
