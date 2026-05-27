@@ -9,7 +9,7 @@ public class AudioController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        _musicPlayer.volume = GameController.Instance._musicVolume;
     }
 
     // Update is called once per frame
