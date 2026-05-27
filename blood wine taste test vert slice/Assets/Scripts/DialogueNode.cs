@@ -25,6 +25,7 @@ public struct Line
     public Sprite _charSprite;
     public Sprite _CG;
     public AudioClip _music;
+    public bool _shakeCamera;
 
     [TextArea(3, 10)]
     public string _dialogueLine;
