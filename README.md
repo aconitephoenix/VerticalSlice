@@ -33,10 +33,13 @@ Right now, my only visual scripting graph is still my state machine (though that
 #### 4. Unity System 
 The Unity system I'd like to be graded is my ScriptableObjects system.
 ## Milestone 3 Devlog
-Milestone 3 Devlog goes here.
+1. 
+2. 
+3. I added like... basically everything. The sprites, updated UI, dialogue...yeah...
 ## Milestone 4 Devlog
 Milestone 4 Devlog goes here.
 ## Final Devlog
 Final Devlog goes here.
 ## Open-source assets
 - [Unity Dialogue System w/ ScriptableObjects - 2019 Update](https://youtu.be/YJLcanHcJxo) - Showed me what structs were and blew my mind...
+- [Essential Game Music Pack by Bell Kalengar](https://bellkalengar.itch.io/essential-game-music-pack) - BGM
