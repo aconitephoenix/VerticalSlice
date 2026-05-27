@@ -36,8 +36,6 @@ The Unity system I'd like to be graded is my ScriptableObjects system.
 1. 
 2. 
 3. I added like... basically everything. The sprites, updated UI, dialogue...yeah...
-## Milestone 4 Devlog
-Milestone 4 Devlog goes here.
 ## Final Devlog
 Final Devlog goes here.
 ## Open-source assets
