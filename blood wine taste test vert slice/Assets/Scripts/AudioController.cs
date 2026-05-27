@@ -21,5 +21,7 @@ public class AudioController : MonoBehaviour
             _musicPlayer.clip = GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._music;
             _musicPlayer.Play();
         }
+
+        _musicPlayer.volume = GameController.Instance._musicVolume;
     }
 }
