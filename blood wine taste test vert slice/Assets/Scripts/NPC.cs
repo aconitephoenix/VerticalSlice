@@ -86,7 +86,7 @@ public class NPC : MonoBehaviour
     {
         if (_currentNode._gameEnd)
         {
-            if (_friendshipValue >= 0.75f)
+            if (_friendshipValue >= 0.5f)
             {
                 _currentNode = _successNode;
             }

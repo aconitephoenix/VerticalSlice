@@ -17,104 +17,175 @@ MonoBehaviour:
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I feel great sorrow for you, Jessi. It's not fair for you to have
       to deal with pests like that on the daily. You deserve far better than to endure
       this living hell.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Ugh, right?! That's what I'm saying!
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: These people think it's soooo funny to waste my time...acting
       like they can just laze around here and not consider me at all...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: It's MY bar!!! Yet no one ever thinks of ME!!!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Truly a shame when people consider themselves before those who
       serve them.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Though, I do have to ask...why do you continue working here?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: '?'
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I'm aware it's easier said than done to get another job, but I
       have to admit, it does seem rather costly to manage a bar all on your own.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Not to mention, I hear that it's a cafe during morning hours?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Yeah...I did that 'cuz I thought it would be cool, but it's kinda
       just the same deal as running the bar...just with a lot more useless friendly
       chatter.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Adding to my point. If this place drains you so, have you not
       ever considered other opportunities? I'm sure there are other positions that
       would suit you better.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: With having your own structure as well, you could spin this thing
       around into something new.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I've heard that the money you used to make this place wasn't even
       yours to begin with.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: So why haven't you taken advantage of any of that?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Well?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...I know I just complained out of my ass about the customers,
       but...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I kind of...need them.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: "Didn't I just tell you that you don't have to worry about your
       finances? And I'm also sure our other friend of ours would be much more than
       willing to\u2014"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: No! I don't need the money, I just...uh...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Sigh...this is going to go nowhere if I don't do something quick.
   _playerReplyOptions:
   - _choiceType: 2
     _optionText: Pry the answer out of her
   - _choiceType: 1
     _optionText: Change the subject
   _npcReplies: []
+  _gameEnd: 0

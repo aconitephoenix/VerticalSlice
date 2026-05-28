@@ -277,13 +277,13 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: '"Bonding opportunity?" What, am I 5?'
-  - _speaker: 0
+  - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: (Might as well be.)
+    _dialogueLine: Might as well be.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
