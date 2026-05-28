@@ -150,11 +150,13 @@ MonoBehaviour:
 
       player
       wonders if social life is the most important matter to jessi, to which jessi
-      reluctantly agrees. '
+      agrees, slightly embarrassed. '
   _playerReplyOptions:
   - _choiceType: 0
     _optionText: 
   - _choiceType: 0
     _optionText: 
-  _npcReplies: []
+  _npcReplies:
+  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
   _gameEnd: 0

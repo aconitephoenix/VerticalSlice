@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
+  m_Name: PlaceholderEndingDecision
+  m_EditorClassIdentifier: 
+  _sameOptionTarget: 0
+  _lines:
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: hey so if you've made it to this dialogue it basically means the
+      dialogue is unfinished... mainly because the actual dialogue i have planned
+      is supposed to be Pretty Long...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: but you can check out the different endings and stuff!!!
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: just click accordingly.... but know that the good ending has the
+      shader graph in it *wink wonk* ;)
+  _playerReplyOptions:
+  - _choiceType: 0
+    _optionText: i want the good ending!
+  - _choiceType: 0
+    _optionText: give me the bad ending!
+  _npcReplies:
+  - {fileID: 11400000, guid: a29128abe099a6f40be646ce06a570a0, type: 2}
+  - {fileID: 11400000, guid: e8bcc89e2ca66d741a244c2035027cce, type: 2}
+  _gameEnd: 0

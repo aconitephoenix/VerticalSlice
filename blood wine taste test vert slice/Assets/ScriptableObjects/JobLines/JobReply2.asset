@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
+  m_Name: JobReply2
+  m_EditorClassIdentifier: 
+  _sameOptionTarget: 1
+  _lines:
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: If I may put in my two cents, have you considered that the problem
+      might not lie within your customers, but rather in you?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Um, excuse me?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Come on. Is it so absurd to believe that, instead of your customerbase
+      being so overwhelmingly underwhelming on their own, your judgments of these
+      individuals are flawed?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I cannot BELIEVE you're trying to defend those guys right now.
+      Did you not hear anything I said???
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I heard you loud and clear. And frankly, it seems to me that your
+      incompatibility is a fault of yours, not theirs.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Even just talking to you, I can see why you might find others
+      "boring;" simply because you are too defective to hold worthwhile conversation
+      with that conversations tend not to come your way at all.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Hey, I thought you wanted to talk all "friendly??" What's with
+      this crap?? Did you forget who owns this place????
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Do you not consider this friendly? As a friend, I am being honest
+      with you and informing you that you are the problem. Is that not what friends
+      do?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: NO!! You're supposed to tell me how awesome I am!!!! Not lecture
+      at me about how I'm apparently so terrible that people don't want to talk to
+      me!!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I'm simply trying to tell you the truth, Jessi. The sooner you
+      accept it, the better.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Though, I was under the impression it was something you already
+      accepted? How come you're so reluctant to realize this conclusion?
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: "plan: player tells jessi that she's the sack of shit, not her
+      customers. \n\njessi gets offended but player attempts to justify her reasoning,
+      saying that jessi is simply not cut out for social life as evidenced by her
+      poor social skills; jessi is simply unsatisfied because she cannot keep up
+      with everyone else rather than everyone else having to keep up with her. \n\nplayer
+      suggests that jessi stops trying to interact with these people and just accept
+      the social recluse that she was meant to be. jessi seems to be visibly emotionally
+      hurt by this, and the player then has the option to continue this line of thought
+      or move onto a different one."
+  _playerReplyOptions:
+  - _choiceType: 1
+    _optionText: Let it go
+  - _choiceType: 2
+    _optionText: Dig deeper
+  _npcReplies:
+  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  _gameEnd: 0
