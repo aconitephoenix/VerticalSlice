@@ -17,7 +17,7 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private Image _continueIndicator;
     [SerializeField] private Image _cgDisplay;
     [SerializeField] private Sprite _blankCG;
-    [SerializeField] private CameraShake _camera;
+    [SerializeField] private CameraShake _cameraShake;
 
     private Coroutine _typeLineCoroutine;
     public bool _isTyping;
@@ -110,7 +110,7 @@ public class DialogueUI : MonoBehaviour
 
         if (dialogue._shakeCamera)
         {
-            StartCoroutine(_camera.ShakeCamera());
+            StartCoroutine(_cameraShake.ShakeCamera());
         }
     }
 

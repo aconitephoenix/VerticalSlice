@@ -19,42 +19,49 @@ MonoBehaviour:
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Jessi Atwood is human trash.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Self-absorbed,
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: terribly ill-mannered,
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: absurdly unintelligent,
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: socially incompetent...
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I could go on for days about the amount of things wrong with her.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: There's no reason in the world to ever want to associate with
       her.
   - _speaker: 2
@@ -62,54 +69,63 @@ MonoBehaviour:
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: But that changes today.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Jessi Atwood...
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...will be mine.
   - _speaker: 1
     _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 8300000, guid: 9cfcb3fce373b5e47a01e7005bc945c3, type: 3}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: "Ugh\u2014hey, I don't know if you saw the sign, but we're\u2014"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
+    _triggerHeartbeat: 0
     _dialogueLine: ...closed...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...oh. It's you.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Good evening to you as well.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Evening? It's midnight!! On the dot!!! You call that evening??
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: And and and, what do you think you're doing here??? You didn't
       tell me you were coming.
   - _speaker: 0
@@ -117,6 +133,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Hmm, thought I'd surprise you. Am I not allowed to have a little
       fun every now and then?
   - _speaker: 1
@@ -124,6 +141,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: You know the rules. You don't give me the heads up, you don't
       get the bar!! Now GET OUT!!!!
   - _speaker: 0
@@ -131,6 +149,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: So hostile...though you'll find no need to be. I don't intend
       to waste your time.
   - _speaker: 1
@@ -138,42 +157,49 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Well you're already doing it!! Leave!!! Now!!!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Let me finish.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: '!'
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: As I was saying...I have a proposition for you.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Pro...poh...zishun..?
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...a deal, darling. I'd like to make a deal with you.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: If you wouldn't mind, I could run by the terms and we could proceed
       with seeing it through.
   - _speaker: 1
@@ -181,18 +207,21 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Okay, what makes you think I'm taking it??
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: '?'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: "You come into my bar unannounced\u2014during CLOSING HOURS by
       the way\u2014talking about some shady deal you want to make with me?"
   - _speaker: 1
@@ -200,6 +229,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: And you're acting all confident that I'm gonna take it like some
       sort of chump??
   - _speaker: 1
@@ -207,24 +237,28 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Who the fuck do you think you are?!
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Wouldn't you like to know?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Excuse me?
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: No matter. I understand your reluctance, but I really am interested
       in making this deal with you.
   - _speaker: 0
@@ -232,6 +266,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: 'How about this: we could have some little friendly chatter before
       getting into anything. I admit, we don''t know each other well enough for what
       I''m about to suggest, so I believe this could be a good bonding opportunity.'
@@ -240,18 +275,21 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: '"Bonding opportunity?" What, am I 5?'
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: (Might as well be.)
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: You could also use this chance to see if I'm worth your time.
       Let's say about...15 to 30 minutes of conversation?
   - _speaker: 0
@@ -259,6 +297,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: If you enjoy yourself during our talk, then you agree to listen
       to my proposal.
   - _speaker: 0
@@ -266,6 +305,7 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Otherwise, you're welcome to escort me off your premises and I'll
       stay out of your hair.
   - _speaker: 0
@@ -273,18 +313,21 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: How's that sound?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Ugh, fine...15 minutes isn't SO bad I guess...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: But I swear if you end up wasting that time you'll never be allowed
       in here again, okay? Consider this a warning.
   - _speaker: 0
@@ -292,36 +335,42 @@ MonoBehaviour:
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Warning considered.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Great.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...So...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...what...do we talk about?
   _playerReplyOptions:
   - _choiceType: 0

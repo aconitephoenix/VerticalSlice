@@ -18,139 +18,191 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Well, seems I've convinced her enough.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I suppose now is as good a time as any to finalize this arrangement.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I assume our time is up. Has my performance been satisfactory?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I guess you could say that. Talking to you was way more worth
       it than I thought it would be, honestly...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: So yeah, go ahead, say what your deal thing is or whatever.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: It would be my pleasure.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: As we both know, I've been using this bar to handle some...business
       matters every now and then, yes?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Yeah, and I've been having to stay here overtime for you guys.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: And for that I am thankful.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I couldn't help but think to myself, though, is it not unfair
       that you provide me with a service, only for me to not give anything in return?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: When you put it that way, I guess that makes sense...
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: There's nothing I loathe more than an unfair trade. It's simply
       an injustice to do such a thing.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: So, I carefully deliberated on what exactly I could provide for
       you...what exactly would someone like you deserve?
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Then it hit me. The perfect exchange.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: As thanks for your services, I propose...
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...that we engage in sexual relations.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ?!?!?!?!
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Ahaha, cat's finally out of the bag, huh?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...y..yeah??? A big fat one at that!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: You want to fuck??? You???? With me??????
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I'd refrain from using such vulgar language, but yes, that is
       what I'm getting at.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Uh, yeah right, what can a bitch in a wheelchair do???!!
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I'd be pleased to let you find out.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: "Agh\u2014whatever, just\u2014I wasn't expecting that!!! How was
       I supposed to know you had the hots for me??!!"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Mm, not the reason why I'm extending this offer, but I will have
       to admit you are quite a sight.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: So how the hell was sex the best thing you could think of anyway??!!
       Not, like, money or anything??? Aren't you a really powerful business person
       or whatever???!!
@@ -158,136 +210,359 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: I thought about that, but I figured that money would not be an
       appropriate for someone like you.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: '"Not appropriate??" What the hell are you talking about???'
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: If you'll allow me to explain.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 8300000, guid: 3493280a97932c747881f09ba5d20724, type: 3}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: 'Let me ask you this: how do you understand human worth?'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Human...worth?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Well...isn't it just how successful you are in life or whatever?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Some homeless bum is probably worth less than a billionaire, right?
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Hmm, close...
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: It's more about capability.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: One who lives in riches can be much less capable than one who
       lives in poverty.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Whether or not those capabilities have been exercised does not
       determine one's worth.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: 'Another question: do you believe in destiny?'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Ehh...kinda sounds like a load of bullcrap.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Or, well, if destiny was a thing, it'd make life infinitely more
       dull if I knew that everything that happened to me was supposed to happen.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: On the contrary; it makes life much more interesting.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: To know one's destiny is to know one's purpose and, thus, to know
       one's worth.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Knowing everything you're meant to be and sticking to it makes
       a truly distinguished and valuable person.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: Morality, wealth, accomplishments...none of those measure up to
       one's true fate.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: They're merely distractions we've created to hide from the truth.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: But I've seen through it all. I see through their lies, their
       cowardice, their shame.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: And I see where their destinies lie; where their value begins
       and ends.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: 'A final question:'
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: How valuable of a human are you?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
     _dialogueLine: ...me?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _dialogueLine: 
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Running into pure wastes of space on the daily, I'd have to say
+      at least above average.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Anything less than that and I'd have to consider restarting my
+      whole life, haha.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: But really, I am way more deserving of being alive than any of
+      those freaks. To even IMAGINE being that worthless...eugh...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...pfft...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...what's up with you?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: HAHAHAHA!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: HAHAHAhaha...oh...oh goodness, I need to catch my breath...wow.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: The hell's so funny?!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Ahaha, it's just...ha...you're so...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...incredibly wrong.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: What?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Allow me to educate you on the truth of the matter. Perhaps then
+      you will also find this hilarious.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I explained to you earlier that human worth is based on one's
+      capability and destiny, yes?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: How much you can and are destined to do sets your value up for
+      life; an immutable value resistant to desire.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: No matter how much you want to be something, you are only what
+      you're fated to be.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: And you...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...are not destined for anything.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: I can tell by how you conduct yourself and how miserably your
+      efforts fail.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: Your feeble attempts to assimilate into society, your inability
+      to be loved in any capacity, the sufffering you endure in your day-to-day life...it's
+      clear that you aren't destined to be someone meaningful.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: Your existence is pitiful and pointless, and it seems that you're
+      the only one that has yet to realize that.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: But that is precisely why I recommended something as crude as
+      sexual intercourse for our exchange.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: Because such a lowly act as that suits someone like you perfectly.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: W-what are you talking about??
   _playerReplyOptions: []
   _npcReplies: []
   _gameEnd: 0
