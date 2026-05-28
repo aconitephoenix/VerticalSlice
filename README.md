@@ -33,7 +33,7 @@ Right now, my only visual scripting graph is still my state machine (though that
 #### 4. Unity System 
 The Unity system I'd like to be graded is my ScriptableObjects system.
 ## Milestone 3 Devlog
-1. 
+1. My Shader Graph is a post-processing effect that periodically flashes a veiny-textured image onto the screen. It sort of functions similar to the post-processing effect we did for the activity, but I decided to change the wave to give it more of a "heartbeat" effect. 
 2. 
 3. I added like... basically everything. The sprites, updated UI, dialogue...yeah...
 ## Final Devlog
