@@ -33,9 +33,9 @@ Right now, my only visual scripting graph is still my state machine (though that
 #### 4. Unity System 
 The Unity system I'd like to be graded is my ScriptableObjects system.
 ## Milestone 3 Devlog
-1. My Shader Graph is a post-processing effect that periodically flashes a veiny-textured image onto the screen. It sort of functions similar to the post-processing effect we did for the activity, but I decided to change the wave to give it more of a "heartbeat" effect. 
-2. 
-3. I added like... basically everything. The sprites, updated UI, dialogue...yeah...
+1. My Shader Graph is a post-processing effect that periodically flashes a veiny-textured image onto the screen. It sort of functions similar to the post-processing effect we did for Activity 2C in Week 8, but I decided to change the wave to give it more of a "heartbeat" effect. I noticed that, in the Math category of nodes, there were groups of wave nodes that I could add that would give it a different rhythm compared to the Sine Time wave we worked with. I was particularly interested in the Sawtooth Wave, as the wave is much sharper than a sine wave and allows for a more sudden flash than the gradual in-and-out of a sine wave. To make it work in my game, I made a new renderer that the camera could switch to in order to trigger the effect. To make the switch, I added a bool to my dialogue lines that would trigger the effect; I specifically added it to my lines because I wanted to be able to turn it on and off during specific lines of dialogue rather than entire dialogue sequences. If the line is supposed to trigger the effect, the camera (which I put in the NPC script for now...) will set its renderer index to 1, which corresponds with the post-processing effect's renderer. Otherwise, it sets it to 0, which is the default renderer.
+2. Based on my playtest, I adjusted the UI to fit more with the game! The main feedback was just that the UI was very...default Unity-core (because it was) but in terms of gameplay the loop was fine! I did catch at some point that the friendship bar was interactable though, so I fixed that...
+3. Since the last milestone, I basically just added a bunch of dialogue, changed some UI around, added some assets, and a little music! I also added a way to adjust the text speed and volume for the game. As of now, the game isn't really content-complete yet, but I tried to polish the mechanics a little more since last time.
 ## Final Devlog
 Final Devlog goes here.
 ## Open-source assets
