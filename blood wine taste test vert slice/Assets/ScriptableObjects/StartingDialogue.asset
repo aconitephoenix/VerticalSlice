@@ -86,21 +86,21 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: ...will be mine.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 8300000, guid: 9cfcb3fce373b5e47a01e7005bc945c3, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: "Ugh\u2014hey, I don't know if you saw the sign, but we're\u2014"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
     _dialogueLine: ...closed...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -114,7 +114,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Good evening to you as well.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -167,7 +167,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Let me finish.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -203,7 +203,7 @@ MonoBehaviour:
     _dialogueLine: If you wouldn't mind, I could run by the terms and we could proceed
       with seeing it through.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -225,7 +225,7 @@ MonoBehaviour:
     _dialogueLine: "You come into my bar unannounced\u2014during CLOSING HOURS by
       the way\u2014talking about some shady deal you want to make with me?"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -247,7 +247,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Wouldn't you like to know?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -277,13 +277,13 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: '"Bonding opportunity?" What, am I 5?'
-  - _speaker: 2
-    _charSprite: {fileID: 0}
+  - _speaker: 0
+    _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Might as well be.
+    _dialogueLine: (Might as well be.)
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
@@ -316,14 +316,14 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: How's that sound?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: Ugh, fine...15 minutes isn't SO bad I guess...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -366,7 +366,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: ...So...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
