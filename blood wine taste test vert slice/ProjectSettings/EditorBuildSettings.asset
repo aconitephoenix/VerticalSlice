@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Content Warning Screen.unity
+    guid: 79c6bf589bbcec24f87129fec39d51f0
+  - enabled: 1
     path: Assets/Scenes/Start Screen.unity
     guid: d4cd03347c4eea54ea6d6b0d5498d636
   - enabled: 1

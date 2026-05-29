@@ -23,15 +23,15 @@ public class SceneLoader : MonoBehaviour
     {
         if (sceneName == "Start Screen")
         {
-            _sceneToGo = 0;
+            _sceneToGo = 1;
         }
         else if (sceneName == "Main Scene")
         {
-            _sceneToGo = 1;
+            _sceneToGo = 2;
         }
         else if (sceneName == "Game Over")
         {
-            _sceneToGo = 2;
+            _sceneToGo = 3;
         }
 
         StartCoroutine(AnimateFade());
@@ -41,6 +41,7 @@ public class SceneLoader : MonoBehaviour
 
     public IEnumerator AnimateFade()
     {
+        /*
         if (_sceneToGo == 0)
         {
             _fadeAnimator.SetTrigger("outToIn");
@@ -51,8 +52,13 @@ public class SceneLoader : MonoBehaviour
         {
             _fadeAnimator.SetTrigger("inToOut");
         }
+        */
+
+        _fadeAnimator.SetTrigger("outToIn");
 
         yield return new WaitForSeconds(2.0f);
+
+        _fadeAnimator.SetTrigger("inToOut");
     }
 
 }
