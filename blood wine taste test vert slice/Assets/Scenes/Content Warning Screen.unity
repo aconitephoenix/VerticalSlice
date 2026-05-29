@@ -793,18 +793,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'This game features minor flashes, mentions of sex, instances of explicit
-    language, sexual harassment, and manipulation, and a depiction of a toxic relationship.
+  m_text: 'This game features minor flashes, discussions of sex, instances of explicit
+    language, sexual harassment, and manipulation.
 
 
-    All
-    characters and events are fictitious and any resemblance to real life persons
-    or occurrences is purely coincidental. Do not imitate the behaviors in this work.
+    All characters and events
+    are fictitious and any resemblance to real life persons or occurrences is purely
+    coincidental. Do not imitate the behaviors in this work.
 
 
-    By
-    clicking the button below, you acknowledge this disclaimer and agree to proceed
-    with the game.
+    By clicking the
+    button below, you acknowledge this disclaimer and agree to proceed with the game.
 
 
 '
@@ -834,7 +833,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 28.05
+  m_fontSize: 28.65
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1

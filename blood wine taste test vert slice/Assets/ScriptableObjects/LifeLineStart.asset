@@ -109,13 +109,6 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: I guess I just...talk...to people??
-  - _speaker: 1
-    _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
-    _music: {fileID: 0}
-    _shakeCamera: 0
-    _triggerHeartbeat: 0
-    _dialogueLine: I guess I just...talk...to people??
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
