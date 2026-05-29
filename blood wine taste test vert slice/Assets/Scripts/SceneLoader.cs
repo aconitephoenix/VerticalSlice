@@ -41,24 +41,13 @@ public class SceneLoader : MonoBehaviour
 
     public IEnumerator AnimateFade()
     {
-        /*
-        if (_sceneToGo == 0)
-        {
-            _fadeAnimator.SetTrigger("outToIn");
-        }
-        else if (_sceneToGo == 1)
-        {
-        }
-        {
-            _fadeAnimator.SetTrigger("inToOut");
-        }
-        */
-
         _fadeAnimator.SetTrigger("outToIn");
 
         yield return new WaitForSeconds(2.0f);
 
         _fadeAnimator.SetTrigger("inToOut");
+
+        yield return new WaitForSeconds(2.0f);
     }
 
 }

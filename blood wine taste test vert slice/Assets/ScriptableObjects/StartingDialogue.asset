@@ -107,7 +107,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: ...oh. It's you.
   - _speaker: 0
-    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -129,7 +129,7 @@ MonoBehaviour:
     _dialogueLine: And and and, what do you think you're doing here??? You didn't
       tell me you were coming.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -145,7 +145,7 @@ MonoBehaviour:
     _dialogueLine: You know the rules. You don't give me the heads up, you don't
       get the bar!! Now GET OUT!!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -160,7 +160,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Well you're already doing it!! Leave!!! Now!!!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 2ba22cf812ea822458d34d49423a97c3, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -174,7 +174,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: '!'
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -188,14 +188,14 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Pro...poh...zishun..?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: ...a deal, darling. I'd like to make a deal with you.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -240,7 +240,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Who the fuck do you think you are?!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -254,7 +254,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Excuse me?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -262,7 +262,7 @@ MonoBehaviour:
     _dialogueLine: No matter. I understand your reluctance, but I really am interested
       in making this deal with you.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -285,7 +285,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Might as well be.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -331,7 +331,7 @@ MonoBehaviour:
     _dialogueLine: But I swear if you end up wasting that time you'll never be allowed
       in here again, okay? Consider this a warning.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -345,7 +345,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Great.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
