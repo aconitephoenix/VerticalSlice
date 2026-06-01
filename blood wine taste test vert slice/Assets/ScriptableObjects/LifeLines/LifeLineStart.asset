@@ -51,10 +51,23 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: '"Hurr durr hey baby what are you doing after this??? Oh you''re
-      just going straight home to rot on your bed and think about how much you wanna
-      kill everybody??? Well how would you like to have your back blown out while
-      you do that heh how about that baby???"'
+    _dialogueLine: '"Hurr durr hey baby what are you doing after this???'
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Oh you're just going straight home to rot on your bed and think
+      about how much you wanna kill everybody???
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Well how would you like to have your back blown out while you
+      do that heh how about that baby???"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -129,7 +142,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Forgive me, I'm not trying to poke fun at you. I just wasn't expecting
+    _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
       such a simple answer.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -143,13 +156,13 @@ MonoBehaviour:
 
       player
       wonders if social life is the most important matter to jessi, to which jessi
-      agrees, slightly embarrassed. '
+      agrees, slightly embarrassed.'
   _playerReplyOptions:
+  - _choiceType: 1
+    _optionText: Give her some tips
   - _choiceType: 0
-    _optionText: 
-  - _choiceType: 0
-    _optionText: 
+    _optionText: Pick apart her brain
   _npcReplies:
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  - {fileID: 11400000, guid: 2736e8f2826c6ea419a146426ea3fca4, type: 2}
+  - {fileID: 11400000, guid: 53077af4f13396a448642201020ac121, type: 2}
   _gameEnd: 0

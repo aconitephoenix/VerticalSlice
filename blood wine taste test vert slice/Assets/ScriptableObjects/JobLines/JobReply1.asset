@@ -188,6 +188,6 @@ MonoBehaviour:
   - _choiceType: 1
     _optionText: Change the subject
   _npcReplies:
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  - {fileID: 11400000, guid: 574271e99be2bda43b6dc59bd0ca2f7c, type: 2}
+  - {fileID: 11400000, guid: 072c4853f57c72c40bfe0ca88af2da12, type: 2}
   _gameEnd: 0
