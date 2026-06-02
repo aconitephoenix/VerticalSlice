@@ -12,6 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: LifeLineStart
   m_EditorClassIdentifier: 
+  _description: 'plan: player asks about jessi''s life outside of work, and jessi
+    has nearly nothing to answer back other than her attempts at socializing.
+
+
+    player
+    wonders if social life is the most important matter to jessi, to which jessi
+    agrees, slightly embarrassed.'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
@@ -144,19 +151,6 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
       such a simple answer.
-  - _speaker: 2
-    _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
-    _music: {fileID: 0}
-    _shakeCamera: 0
-    _triggerHeartbeat: 0
-    _dialogueLine: 'plan: player asks about jessi''s life outside of work, and jessi
-      has nearly nothing to answer back other than her attempts at socializing.
-
-
-      player
-      wonders if social life is the most important matter to jessi, to which jessi
-      agrees, slightly embarrassed.'
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Give her some tips
