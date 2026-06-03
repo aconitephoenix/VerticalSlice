@@ -170,7 +170,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _dialogueLine: ?!?!?!?!
   - _speaker: 0
@@ -566,7 +566,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 1
     _dialogueLine: Your feeble attempts to assimilate into society, your inability
-      to be loved in any capacity, the sufffering you endure in your day-to-day life...
+      to be loved in any capacity, the suffering you endure in your day-to-day life...
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -634,8 +634,8 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
-    _dialogueLine: It's up to those who rank higher than them to provide them that
-      service and supplement their pathetic existence.
+    _dialogueLine: It's up to us who rank higher than them to provide them that service
+      and supplement their pathetic existence.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -1021,14 +1021,14 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 1
+    _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: ...spills a quarter of its volume to a hasty landing.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 1
+    _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: "Damn it, I'm just...aghh I can't think straight right now!!!
       I'll go fill it up again, hang on\u2014"
@@ -1074,8 +1074,15 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: But I won't allow her to be cautious. I grab her by her collar
-      and close the distance between us, our lips meeting each other in the middle.
+    _dialogueLine: But I won't allow her to be cautious.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _dialogueLine: I grab her by her collar and close the distance between us, our
+      lips meeting each other in the middle.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

@@ -163,7 +163,7 @@ public class DialogueUI : MonoBehaviour
             {
                 _npcDialogueText.maxVisibleCharacters = i;
             }
-            yield return new WaitForSeconds(0.1f - PlayerPrefs.GetFloat("textSpeed"));
+            yield return new WaitForSeconds(0.05f - PlayerPrefs.GetFloat("textSpeed"));
         }
 
         _isTyping = false;
