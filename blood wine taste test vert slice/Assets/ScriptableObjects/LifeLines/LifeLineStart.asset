@@ -12,13 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: LifeLineStart
   m_EditorClassIdentifier: 
-  _description: 'plan: player asks about jessi''s life outside of work, and jessi
-    has nearly nothing to answer back other than her attempts at socializing.
+  _description: 'player asks about jessi''s life outside of work, and jessi has nearly
+    nothing to answer back other than her attempts at socializing.
 
 
-    player
-    wonders if social life is the most important matter to jessi, to which jessi
-    agrees, slightly embarrassed.'
+    player wonders
+    if social life is the most important matter to jessi, to which jessi agrees,
+    slightly embarrassed. player how that''s been going, not really expecting any
+    other answer other than "horribly"
+
+
+'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
