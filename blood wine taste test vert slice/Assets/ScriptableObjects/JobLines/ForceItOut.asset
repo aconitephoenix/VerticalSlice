@@ -13,7 +13,15 @@ MonoBehaviour:
   m_Name: ForceItOut
   m_EditorClassIdentifier: 
   _description: 'the player wants the answer and she wants it NOW. she demands that
-    jessi tell her '
+    jessi tell her if she really wants any of her help. there''s nothing more helpful
+    than learning the life someone has lived thus far.
+
+
+    jessi refuses, telling
+    the player to drop it, but the player continues to egg on. frustrated, jessi
+    angrily explains how she was forced into being a social recluse by her shitty
+    parents because of her shitty brother that got kidnapped by shitty people and
+    god it''s all so fucking shit. there are you fucking happy i said it'
   _sameOptionTarget: 3
   _lines:
   - _speaker: 2
