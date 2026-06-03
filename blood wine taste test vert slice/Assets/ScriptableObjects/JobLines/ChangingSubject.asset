@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: ChangingSubject
   m_EditorClassIdentifier: 
+  _description: 'player is not interested in dealing with jessi''s emotions. they''re
+    not necessary for this conversation. so, player decides to change the subject
+    to '
   _sameOptionTarget: 0
   _lines: []
   _playerReplyOptions: []

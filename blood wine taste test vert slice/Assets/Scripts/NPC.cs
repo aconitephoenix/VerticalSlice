@@ -97,6 +97,7 @@ public class NPC : MonoBehaviour
         }
         else
         {
+            _selectedOptions.Clear();
             GameController.Instance.sceneLoader.SwitchScene("Game Over");
         }
     }

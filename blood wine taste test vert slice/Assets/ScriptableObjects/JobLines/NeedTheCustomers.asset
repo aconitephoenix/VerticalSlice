@@ -49,6 +49,12 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: Well, yeah, but...
-  _playerReplyOptions: []
-  _npcReplies: []
+  _playerReplyOptions:
+  - _choiceType: 2
+    _optionText: Force it out of her
+  - _choiceType: 1
+    _optionText: Be subtle about it
+  _npcReplies:
+  - {fileID: 11400000, guid: 49ac67e3b50c7e849a8543b56b43b15c, type: 2}
+  - {fileID: 11400000, guid: a7c0c35f315b94d428844f9d90f09321, type: 2}
   _gameEnd: 0

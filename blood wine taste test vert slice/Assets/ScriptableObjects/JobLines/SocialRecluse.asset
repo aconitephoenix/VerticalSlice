@@ -12,8 +12,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: SocialRecluse
   m_EditorClassIdentifier: 
+  _description: 'player continues to drive home to jessi how socially inept she truly
+    is. pointing out all her failures in basic conversation, she has no idea why
+    jessi even tries so hard when she clearly can''t do it; it''s obviously wasted
+    effort that just takes up time more valuable than hers.
+
+
+    jessi seems like
+    she''s about to cry out of frustration, but she holds it in. through gritted
+    teeth, she expresses that she doesn''t care; she just has to keep trying. she
+    has to. she needs to.
+
+
+    she NEEDS to? what kind of obligation does she have
+    to be a social butterfly? who is demanding this from her other than herself?
+    certainly not anyone else, for that matter. the player wonders why jessi''s life
+    is so driven by this need to interact with other people, and wants to pry further.
+    she gets to decide how she wants to go about it.'
   _sameOptionTarget: 0
   _lines: []
-  _playerReplyOptions: []
-  _npcReplies: []
+  _playerReplyOptions:
+  - _choiceType: 2
+    _optionText: Force it out of her
+  - _choiceType: 1
+    _optionText: Be subtle about it
+  _npcReplies:
+  - {fileID: 11400000, guid: 49ac67e3b50c7e849a8543b56b43b15c, type: 2}
+  - {fileID: 11400000, guid: a7c0c35f315b94d428844f9d90f09321, type: 2}
   _gameEnd: 0
