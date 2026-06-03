@@ -15,7 +15,17 @@ MonoBehaviour:
   _description: 'the player wants the answer and she wants it NOW. she demands that
     jessi tell her '
   _sameOptionTarget: 3
-  _lines: []
-  _playerReplyOptions: []
-  _npcReplies: []
+  _lines:
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: placeholder line
+  _playerReplyOptions:
+  - _choiceType: 0
+    _optionText: proceed
+  _npcReplies:
+  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
   _gameEnd: 0

@@ -151,6 +151,13 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
       such a simple answer.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: placeholder line
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Give her some tips
