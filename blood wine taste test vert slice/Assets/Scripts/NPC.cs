@@ -94,6 +94,9 @@ public class NPC : MonoBehaviour
             {
                 _currentNode = _failNode;
             }
+
+            _currentLine = 0;
+            _dialogue.SetDialogue(_currentNode._lines[_currentLine]);
         }
         else
         {
@@ -133,16 +136,16 @@ public class NPC : MonoBehaviour
                     {
                         _friendshipValue -= 0.1f;
                     }
-                    else
+                    else if (_friendshipValue < 1)
                     {
-                        _friendshipValue += 0.1f;
+                        _friendshipValue += 0.2f;
                     }
                 }
                 else if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Mean)
                 {
                     if (_sameOptionCount < _currentNode._sameOptionTarget && _friendshipValue < 1)
                     {
-                        _friendshipValue += 0.1f;
+                        _friendshipValue += 0.2f;
                     }
                     else if (_friendshipValue > 0)
                     {

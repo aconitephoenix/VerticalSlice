@@ -87,8 +87,15 @@ MonoBehaviour:
     jessi continues to look dazed, but she nods her head
     oh so slightly. there''s a sliver of a smile on her face. perfect, the player
     thinks. her satisfaction will do well for her proposition.'
-  _sameOptionTarget: 0
-  _lines: []
+  _sameOptionTarget: 5
+  _lines:
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: placeholder line
   _playerReplyOptions: []
   _npcReplies: []
   _gameEnd: 1

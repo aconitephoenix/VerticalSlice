@@ -12,8 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: ForceItOut
   m_EditorClassIdentifier: 
-  _description: 
-  _sameOptionTarget: 0
+  _description: 'the player wants the answer and she wants it NOW. she demands that
+    jessi tell her '
+  _sameOptionTarget: 3
   _lines: []
   _playerReplyOptions: []
   _npcReplies: []

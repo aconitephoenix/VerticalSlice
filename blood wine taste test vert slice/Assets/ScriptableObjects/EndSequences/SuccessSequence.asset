@@ -247,8 +247,8 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: I thought about that, but I figured that money would not be an
-      appropriate for someone like you.
+    _dialogueLine: I thought about that, but I figured that money would not be appropriate
+      for someone like you.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -467,7 +467,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _dialogueLine: HAHAHAHA!!!
   - _speaker: 0
@@ -566,8 +566,14 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 1
     _dialogueLine: Your feeble attempts to assimilate into society, your inability
-      to be loved in any capacity, the sufffering you endure in your day-to-day life...it's
-      clear that you aren't destined to be someone meaningful.
+      to be loved in any capacity, the sufffering you endure in your day-to-day life...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 1
+    _dialogueLine: It's clear that you aren't destined to be anything meaningful.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -712,7 +718,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Huh...did I go too far in my pitch?
+    _dialogueLine: Hmm...did I go too far in my pitch?
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

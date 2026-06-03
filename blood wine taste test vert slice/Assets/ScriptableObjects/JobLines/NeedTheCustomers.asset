@@ -26,7 +26,7 @@ MonoBehaviour:
     of it entails; she's curious, but not with good intentions.\n\njessi begs player
     to just drop it, as she's already said enough. player is determined to push this
     boundary, and gets to decide in what way she wants to do it."
-  _sameOptionTarget: 0
+  _sameOptionTarget: 2
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 0}
