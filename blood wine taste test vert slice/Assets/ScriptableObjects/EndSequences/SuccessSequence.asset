@@ -1230,13 +1230,20 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Our glasses clink and we each take a sip. For a piece of filth,
       her taste in alcohol is rather pleasant.
-  - _speaker: 2
+  - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Once I finish, I bid her farewell and take my leave.
+    _dialogueLine: Hah...thank you so much, Shuron. You're what I needed in life.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Once my glass is empty, I bid her farewell and take my leave.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
