@@ -50,4 +50,9 @@ public class SceneLoader : MonoBehaviour
         yield return new WaitForSeconds(2.0f);
     }
 
+    public void SetInitialValues()
+    {
+        PlayerPrefs.SetFloat("textSpeed", 0.04f);
+        PlayerPrefs.SetFloat("volume", 1);
+    }
 }
