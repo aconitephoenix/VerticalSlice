@@ -114,6 +114,13 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Though, I was under the impression it was something you already
       accepted? How come you're so reluctant to realize this conclusion?
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: placeholder line
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Let it go
