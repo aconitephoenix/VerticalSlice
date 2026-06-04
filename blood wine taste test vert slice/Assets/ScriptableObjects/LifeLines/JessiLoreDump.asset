@@ -12,7 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: JessiLoreDump
   m_EditorClassIdentifier: 
-  _description: 
+  _description: 'the player decides she''s prying into jessi''s brain as much as
+    she can. might as well find out how the clock ticks before buying it.
+
+
+    she
+    tells jessi that she can see jessi trying to feel better about herself, and it''s
+    really not doing her any favors. why reject the facts when you can just face
+    them?
+
+
+    jessi lies and says that she''s not trying to spare her own feelings;
+    it''s really not that bad!!! but the player immediately shuts her down by telling
+    her to cut the crap.
+
+
+'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 2

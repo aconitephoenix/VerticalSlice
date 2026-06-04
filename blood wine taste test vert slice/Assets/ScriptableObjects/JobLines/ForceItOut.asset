@@ -25,7 +25,22 @@ MonoBehaviour:
 
 
     the
-    player notices that jessi''s eyes start to water'
+    player notices that jessi''s eyes start to water, but can''t feel any remorse
+    for her. all she comments is that she''s got some useful information now. she
+    just wishes jessi would get herself together because it''s difficult to make
+    a deal with someone seconds away from bursting into tears.
+
+
+    didn''t it feel
+    so good to let that out, asks the player. isn''t jessi so thankful that the player
+    had encouraged her to be so vulnerable? jessi blinks away her tears, admitting
+    that it did feel good. she had yet to tell anyone because of her fear of rejection,
+    but it feels so so SO good to finally admit how shitty her life is.
+
+
+    it
+    seems that jessi is in a better mood about now. perfect. time to go in for the
+    kill.'
   _sameOptionTarget: 3
   _lines:
   - _speaker: 2
@@ -40,4 +55,4 @@ MonoBehaviour:
     _optionText: proceed
   _npcReplies:
   - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
-  _gameEnd: 0
+  _gameEnd: 1

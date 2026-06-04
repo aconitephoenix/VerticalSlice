@@ -13,8 +13,38 @@ MonoBehaviour:
   m_Name: ChangingSubject
   m_EditorClassIdentifier: 
   _description: 'player is not interested in dealing with jessi''s emotions. they''re
-    not necessary for this conversation. so, player decides to change the subject
-    to '
+    not necessary for this conversation. so, player decides to stick with a lighter
+    subject: how''s she managing to deal with the hours?
+
+
+    from what the player
+    knows, jessi makes an effort to show up daily with little employees to help her
+    around. such a schedule like that seems so demanding for someone like her, doesn''t
+    it?
+
+
+    jessi says that, while the customers are not pleasant to deal with,
+    the actual job isn''t so bad. she was initially kind of hesitant to stick with
+    what would seem to be a monotonous job, but having different orders kind of spices
+    things up, especially with the stark difference between an order at a cafe and
+    an order at a bar.
+
+
+    the player laughs to herself and remarks how adorable
+    it is that jessi is so satisfied by simple things like that. look at this filth
+    getting satisfied by just doing something as simple as taking orders; so subservient...
+
+
+    jessi
+    gets a little flustered at the idea of submitting to these customers, arguing
+    instead that she has the control over whether their orders are good or not. she
+    knows the difference between a good and a bad drink, and anyone who pisses her
+    off can just get fucked with a poison-adjacent mixture.
+
+
+    suuuure, the player
+    remarks. like jessi could ever have any semblance of dominance over anyone; she
+    gets ordered around like a dog to satiate people''s addictions.'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 2
