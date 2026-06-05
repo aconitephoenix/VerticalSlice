@@ -13,7 +13,8 @@ public enum Speaker
 {
     Player,
     NPC,
-    Narrator
+    Narrator,
+    Shuron
 }
 
 // Dialogue lines

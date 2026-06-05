@@ -40,22 +40,32 @@ public class DialogueUI : MonoBehaviour
         _dialogueLine = dialogue._dialogueLine;
 
         // Change the dialogue box based on the current speaker
-        if (dialogue._speaker == Speaker.Player)
+        if (dialogue._speaker == Speaker.Player || dialogue._speaker == Speaker.Shuron)
         {
             if (dialogue._CG != null)
             {
-                _npcDialogueBox.SetActive(true);
-                _playerDialogueBox.SetActive(false);
-                _npcNameText.text = "???";
+                if (dialogue._speaker == Speaker.Player)
+                {
+                    _npcDialogueBox.SetActive(true);
+                    _playerDialogueBox.SetActive(false);
+                    _npcNameText.text = "???";
+                }
+                else if (dialogue._speaker == Speaker.Shuron)
+                {
+                    _playerDialogueBox.SetActive(true);
+                    _npcDialogueBox.SetActive(false);
+                    _npcNameText.text = "Shuron";
+                }
             }
             else
             {
                 _playerDialogueBox.SetActive(true);
-                if (dialogue._charSprite != null && _playerAvatar.sprite != dialogue._charSprite)
-                {
-                    _playerAvatar.sprite = dialogue._charSprite;
-                }
                 _npcDialogueBox.SetActive(false);
+            }
+
+            if (dialogue._charSprite != null && _playerAvatar.sprite != dialogue._charSprite)
+            {
+                _playerAvatar.sprite = dialogue._charSprite;
             }
         }
         else if (dialogue._speaker == Speaker.NPC)

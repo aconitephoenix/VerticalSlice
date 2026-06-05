@@ -220,7 +220,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _dialogueLine: "Agh\u2014whatever, just\u2014I wasn't expecting that!!! How was
       I supposed to know you had the hots for me??!!"
@@ -424,8 +424,8 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Running into pure wastes of space on the daily, I'd have to say
-      at least above average.
+    _dialogueLine: ...well, running into pure wastes of space on the daily, I'd have
+      to say at least above average.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -433,7 +433,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: Anything less than that and I'd have to consider restarting my
-      whole life, haha.
+      whole life...
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -885,14 +885,14 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: ...huhu, as you wish.
+    _dialogueLine: ...as you wish.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Seems this will be much more fun than I expected. I'm looking
+    _dialogueLine: Seems this will be much more amusing than I expected. I'm looking
       forward to seeing this deal through with you, Jessi.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -955,7 +955,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: OH, oh, sure!!! What would you like?
+    _dialogueLine: "OH, oh\u2014sure!!! What would you like?"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -1237,6 +1237,13 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: Hah...thank you so much, Shuron. You're what I needed in life.
+  - _speaker: 3
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: It's my pleasure.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}

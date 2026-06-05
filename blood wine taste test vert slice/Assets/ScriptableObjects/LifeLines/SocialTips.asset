@@ -12,8 +12,48 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: SocialTips
   m_EditorClassIdentifier: 
-  _description: 
-  _sameOptionTarget: 0
+  _description: 'wouldn''t hurt to give her some advice. poor thing needs it.
+
+
+    the
+    player offers a helping hand to jessi, saying that she can guide her towards
+    living her life out as she''s meant to. jessi thinks this is a little odd, but
+    really has nothing better to do right now (other than go home, but the player
+    has already taken that opportunity from her.)
+
+
+    the player first tells jessi
+    that she needs to stop trying to act all high and mighty. no one likes someone
+    who''s all in over their head; you have to realize how much you actually matter
+    and act accordingly.
+
+
+    jessi doesn''t really see how she''s acting all "high
+    and mighty," she''s just reacting to the stupid world around her.
+
+
+    silly
+    jessi. the only reason it seems "stupid" to her is because she''s simply not
+    GETTING what it''s trying to tell her. the interactions she''s having are going
+    south because she wants them to be enjoyable for her, but it''s just not meant
+    to be enjoyable at all. you gotta work with what you got, whether you like it
+    or not.
+
+
+    so what is she supposed to do? well, once she gets rid of that
+    unwarranted ego, she should just listen to whatever other people tell her to
+    do. they probably would know better than her anyway (jessi is a little offended
+    at this and asks what that''s suposed to mean, but the player doesn''t elaborate.
+    that''s for later.)
+
+
+    she''s already done good with choosing a position that
+    lets her take orders, it''s good reinforcement for what she should be doing.
+    now she just needs to apply that to real life.
+
+
+'
+  _sameOptionTarget: 2
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}

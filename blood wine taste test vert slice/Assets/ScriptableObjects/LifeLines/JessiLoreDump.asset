@@ -24,7 +24,14 @@ MonoBehaviour:
 
     jessi lies and says that she''s not trying to spare her own feelings;
     it''s really not that bad!!! but the player immediately shuts her down by telling
-    her to cut the crap.
+    her to cut the crap. it''s so obvious that it''s laughable, so stop trying.
+
+
+    jessi
+    angrily gives up and admits that Fine, she is just trying to feel better about
+    herself. the hell is wrong with that? player argues that EVERYTHING is wrong
+    with that. there''s no merit to trying to run away from the truth; it just leads
+    to more shortcomings.
 
 
 '
@@ -38,6 +45,8 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: placeholder line
   _playerReplyOptions:
+  - _choiceType: 0
+    _optionText: proceed
   - _choiceType: 0
     _optionText: proceed
   _npcReplies:
