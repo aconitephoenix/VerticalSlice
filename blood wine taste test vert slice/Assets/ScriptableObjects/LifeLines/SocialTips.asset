@@ -52,7 +52,17 @@ MonoBehaviour:
     now she just needs to apply that to real life.
 
 
-'
+    she''s also gotta be less
+    picky with the attention she gets... being so picky with who you talk to only
+    makes people hate you more. besides, it''s not like she has the privilege to
+    pick and choose who interacts with her; any and all interaction is pure luck.
+
+
+    jessi''s
+    kind of just. shut up now, mostly internally noting down the player''s advice.
+    player asks if jessi finds the advice helpful and jessi says she''s willing to
+    try it. now she''s just mainly wondering how to integrate change into other parts
+    of her life, like the "friends" she already has or her basic every day life'
   _sameOptionTarget: 2
   _lines:
   - _speaker: 2
@@ -64,7 +74,10 @@ MonoBehaviour:
     _dialogueLine: placeholder line
   _playerReplyOptions:
   - _choiceType: 0
-    _optionText: proceed
+    _optionText: Ask about her existing relationships
+  - _choiceType: 0
+    _optionText: Ask how she's been taking care of herself
   _npcReplies:
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  - {fileID: 11400000, guid: 26077efd7e7990540b619eaec8301022, type: 2}
+  - {fileID: 11400000, guid: cdf18fb57801b2544b2f365417b6db77, type: 2}
   _gameEnd: 0

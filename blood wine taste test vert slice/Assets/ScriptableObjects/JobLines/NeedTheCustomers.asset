@@ -55,7 +55,59 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: placeholder line
+    _dialogueLine: ...if I tell you, you're just going to think even less of me.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Like that's even possible.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I'm sure that whatever reason you have for continuing to interact
+      with these people should be crucial enough to be so hesitant about letting
+      them go. Tell me.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ....aghhh, fineeee...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I, uh, kind of...use the customers as...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...talking...practice...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Talking practice?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Yeah, like...just learning how to talk to people...seeing what
+      works and what doesn't...
   _playerReplyOptions:
   - _choiceType: 2
     _optionText: Force it out of her

@@ -35,7 +35,10 @@ MonoBehaviour:
     brushed aside as some weird chick who no one likes (although that is what the
     player would have done had she not needed something from jessi). jessi laments
     about how things shouldn''t be this way, but the player disagrees. things are
-    exactly how they need to be.'
+    exactly how they need to be.
+
+
+    she''ll decide to explain why.'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 2
@@ -45,9 +48,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _dialogueLine: placeholder line
-  _playerReplyOptions:
-  - _choiceType: 0
-    _optionText: proceed
+  _playerReplyOptions: []
   _npcReplies:
   - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
-  _gameEnd: 0
+  _gameEnd: 1

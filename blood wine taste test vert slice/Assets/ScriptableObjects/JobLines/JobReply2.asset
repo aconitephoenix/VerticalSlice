@@ -114,13 +114,66 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Though, I was under the impression it was something you already
       accepted? How come you're so reluctant to realize this conclusion?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Reluctant to accept what? That you're totally shittalking me right
+      now??
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Because that's a pretty easy conclusion to make!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Relax, Jessi. I think you're taking this the wrong way.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: What I'm telling you right now is not a means of petty insult,
+      but moreso just...opening your eyes to the truth.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I can tell that you've struggled to accept it, but I'm here to
+      help you with that.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Oh yeah?! How so??!! Are you gonna just keep running my name into
+      the ground like everyone else??!!
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: placeholder line
+    _dialogueLine: So defensive...that might be a problem.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Is it really worth it to see this through?
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Let it go

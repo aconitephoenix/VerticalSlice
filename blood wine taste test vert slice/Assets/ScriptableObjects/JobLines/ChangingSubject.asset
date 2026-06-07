@@ -44,8 +44,16 @@ MonoBehaviour:
 
     suuuure, the player
     remarks. like jessi could ever have any semblance of dominance over anyone; she
-    gets ordered around like a dog to satiate people''s addictions.'
-  _sameOptionTarget: 0
+    gets ordered around like a dog to satiate people''s addictions. in truth, she
+    probably just loves fetching things for people and being an obedient little servant,
+    huh? that''s why she shows up?
+
+
+    jessi is even more flustered at the suggestion,
+    but seems to oppose it a little less. she tries to deny it, but a small part
+    of her is a little excited to be talked down like this (she''s not ready to explore
+    that though.. at least Not Yet.)'
+  _sameOptionTarget: 4
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}

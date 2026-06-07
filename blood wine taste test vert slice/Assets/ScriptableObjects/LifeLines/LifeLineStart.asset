@@ -166,13 +166,102 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
       such a simple answer.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Well SORRY, that's really just all it is.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Heh, does your life really revolve around meaningless socialization
+      that much?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: I...I wouldn't call it meaningless......
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: Really? How's it going for you?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ........
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ....a little.....unexpected.........
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: placeholder line
+    _dialogueLine: Is she really trying to lie to me right now?
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: As if I can't already tell her social life is going horribly.
+      How egotistical she is to believe she can just fool me like that.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: How is it possible to deny reality this much? Just face the facts
+      like everyone else.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...I'll have to hold my tongue. It's not time to hit her with
+      that yet.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: But where exactly can I lead this conversation?
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...I suppose I could try to help the poor thing out and give her
+      some advice...
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _dialogueLine: ...or I could try to figure out how she ticks...
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Give her some tips

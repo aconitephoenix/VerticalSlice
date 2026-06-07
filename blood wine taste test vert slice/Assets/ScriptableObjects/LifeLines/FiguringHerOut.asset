@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
-  m_Name: JessiLoreDump
+  m_Name: FiguringHerOut
   m_EditorClassIdentifier: 
   _description: 'the player decides she''s prying into jessi''s brain as much as
     she can. might as well find out how the clock ticks before buying it.
@@ -34,7 +34,17 @@ MonoBehaviour:
     to more shortcomings.
 
 
-'
+    okay well is the player knows so much, why doesn''t
+    she just tell her exactly whats wrong with her???!! why not just tell it to her
+    face if she wants her to Face It so bad???!??!
+
+
+    with pleasure.
+
+
+    though,
+    that''s quite a loaded question, isn''t it? what Terrible part of her does she
+    wanna grapple in the time that she has now?'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 2
@@ -45,10 +55,11 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _dialogueLine: placeholder line
   _playerReplyOptions:
-  - _choiceType: 0
-    _optionText: proceed
-  - _choiceType: 0
-    _optionText: proceed
+  - _choiceType: 2
+    _optionText: Her innate incapabilities
+  - _choiceType: 2
+    _optionText: Her terrible personality
   _npcReplies:
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  - {fileID: 11400000, guid: 6fac4b126c457b4428c3628a362abe92, type: 2}
+  - {fileID: 11400000, guid: b3708a6e3b5696345bfa3902f91d2149, type: 2}
   _gameEnd: 0
