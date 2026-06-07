@@ -61,7 +61,203 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: placeholder line
+    _maxFriendship: 0
+    _dialogueLine: I'm not really interested in having her be an emotional mess before
+      I even outline my terms. She'll be in no state to accept at that point.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I'll just have to direct this conversation elsewhere...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: ...Say, how do you manage to keep up with your hours anyway?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: From what I understand, you come to work on-time every day, with
+      little to no extra help on the scene at that.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Doesn't that kind of daily schedule seem too...demanding of someone
+      like you?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Eh, it's not that bad.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Well, yeah, the customers are complete assholes, but the whole
+      drink-mixing and food-serving thing is pretty easy if I'm gonna be honest.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Originally, I thought it was going to be so mindnumbingly boring...but
+      you'd be surprised at how many people order crazy shit I've never seen before.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I swear some people just come in here asking me to make potions
+      like I'm some sort of witch...it's honestly kind of hilarious seeing them try
+      to come up with mixtures that'll straight up kill them.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Buuut I gotta go by safety protocol or whatever so this place
+      doesn't get shut down, so there's limits I gotta enforce or whatever...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: It's also a little fun switching between a cafe and a bar every
+      day; kinda keeps you on your toes...I guess.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Hehe, so satisfied by such simple routines. It's quite adorable
+      to see you trying to make the most of your experience.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: So happy to run around and take orders like a submissive little
+      dog...it's cute.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: H-hey, that's NOT what it is!!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I'm not these people's servant or whatever; in fact, I'm the one
+      that has the upper hand over them, okay??!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Sure, they ask me for the drink, but I get to control how good
+      that drink is depending on if I think they deserve it!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: People who piss me off can just chug straight-up toxins for all
+      I care!!! Or well, as long as it's within safety code...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Suuuure. Like you could ever have any semblance of dominance over
+      anyone.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You just get ordered about to satiate people's addictions without
+      thought. I bet you like this job because you love being sooo obedient, don't
+      you?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: That's why you show up every day, isn't it? To be reminded of
+      how much you love surrendering control to other people?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "Okay cut that out!!! That's\u2014just\u2014AGHHH STOP TALKING
+      ABOUT IT!!!"
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Pfft, so simple, so easily excitable...what a piece of work.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Can she make her enjoyment of this any less obvious?
   _playerReplyOptions:
   - _choiceType: 0
     _optionText: proceed

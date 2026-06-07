@@ -47,7 +47,7 @@ MonoBehaviour:
     think any better right now.\n\nit drips into her glass, adding ripples of red
     to her drink. they toast to this new chapter and drink.\n\nplayer cements that
     she was correct /pos: jessi atwood is human trash."
-  _sameOptionTarget: 0
+  _sameOptionTarget: 50
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -55,6 +55,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Well, seems I've convinced her enough.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -62,6 +63,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I suppose now is as good a time as any to finalize this arrangement.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -69,6 +71,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I assume our time is up. Has my performance been satisfactory?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -76,6 +79,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I guess you could say that. Talking to you was way more worth
       it than I thought it would be, honestly...
   - _speaker: 1
@@ -84,6 +88,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: So yeah, go ahead, say what your deal thing is or whatever.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -91,6 +96,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: It would be my pleasure.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -98,6 +104,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: As we both know, I've been using this bar to handle some...business
       matters every now and then, yes?
   - _speaker: 1
@@ -106,6 +113,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Yeah, and I've been having to stay here overtime for you guys.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -113,6 +121,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: And for that I am thankful.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -120,6 +129,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I couldn't help but think to myself, though, is it not unfair
       that you provide me with a service, only for me to not give anything in return?
   - _speaker: 1
@@ -128,6 +138,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: When you put it that way, I guess that makes sense...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -135,6 +146,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: There's nothing I loathe more than an unfair trade. It's simply
       an injustice to do such a thing.
   - _speaker: 0
@@ -143,6 +155,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: So, I carefully deliberated on what exactly I could provide for
       you...what exactly would someone like you deserve?
   - _speaker: 0
@@ -151,6 +164,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Then it hit me. The perfect exchange.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -158,6 +172,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: As thanks for your services, I propose...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -165,6 +180,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...that we engage in sexual relations.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -172,6 +188,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ?!?!?!?!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -179,6 +196,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Ahaha, cat's finally out of the bag, huh?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -186,6 +204,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...y..yeah??? A big fat one at that!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -193,6 +212,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You want to fuck??? You???? With me??????
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -200,6 +220,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I'd refrain from using such vulgar language, but yes, that is
       what I'm getting at.
   - _speaker: 1
@@ -208,6 +229,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Uh, yeah right, what can a bitch in a wheelchair do???!!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -215,6 +237,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I'd be pleased to let you find out.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -222,6 +245,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "Agh\u2014whatever, just\u2014I wasn't expecting that!!! How was
       I supposed to know you had the hots for me??!!"
   - _speaker: 0
@@ -230,6 +254,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Mm, not the reason why I'm extending this offer, but I will have
       to admit you are quite a sight.
   - _speaker: 1
@@ -238,6 +263,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: So how the hell was sex the best thing you could think of anyway??!!
       Not, like, money or anything??? Aren't you a really powerful business person
       or whatever???!!
@@ -247,6 +273,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I thought about that, but I figured that money would not be appropriate
       for someone like you.
   - _speaker: 1
@@ -255,6 +282,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: '"Not appropriate??" What the hell are you talking about???'
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -262,6 +290,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: If you'll allow me to explain.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -269,6 +298,7 @@ MonoBehaviour:
     _music: {fileID: 8300000, guid: 3493280a97932c747881f09ba5d20724, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: 'Let me ask you this: how do you understand human worth?'
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -276,6 +306,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Human...worth?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -283,6 +314,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Well...isn't it just how successful you are in life or whatever?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -290,6 +322,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Some homeless bum is probably worth less than a billionaire, right?
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -297,6 +330,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Hmm, close...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -304,6 +338,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: It's more about capability.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -311,6 +346,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: One who lives in riches can be much less capable than one who
       lives in poverty.
   - _speaker: 0
@@ -319,6 +355,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Whether or not those capabilities have been exercised does not
       determine one's worth.
   - _speaker: 0
@@ -327,6 +364,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: 'Another question: do you believe in destiny?'
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -334,6 +372,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Ehh...kinda sounds like a load of bullcrap.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -341,6 +380,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Or, well, if destiny was a thing, it'd make life infinitely more
       dull if I knew that everything that happened to me was supposed to happen.
   - _speaker: 0
@@ -349,6 +389,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: On the contrary; it makes life much more interesting.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -356,6 +397,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: To know one's destiny is to know one's purpose and, thus, to know
       one's worth.
   - _speaker: 0
@@ -364,6 +406,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Knowing everything you're meant to be and sticking to it makes
       a truly distinguished and valuable person.
   - _speaker: 0
@@ -372,6 +415,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Morality, wealth, accomplishments...none of those measure up to
       one's true fate.
   - _speaker: 0
@@ -380,6 +424,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: They're merely distractions we've created to hide from the truth.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -387,6 +432,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: But I've seen through it all. I see through their lies, their
       cowardice, their shame.
   - _speaker: 0
@@ -395,6 +441,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: And I see where their destinies lie; where their value begins
       and ends.
   - _speaker: 0
@@ -403,6 +450,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: 'A final question:'
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -410,6 +458,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: How valuable of a human are you?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -417,6 +466,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...me?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -424,6 +474,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...well, running into pure wastes of space on the daily, I'd have
       to say at least above average.
   - _speaker: 1
@@ -432,6 +483,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Anything less than that and I'd have to consider restarting my
       whole life...
   - _speaker: 1
@@ -440,6 +492,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: But really, I am way more deserving of being alive than any of
       those freaks. To even IMAGINE being that worthless...eugh...
   - _speaker: 0
@@ -448,6 +501,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -455,6 +509,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...pfft...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -462,6 +517,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...what's up with you?
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -469,6 +525,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: HAHAHAHA!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -476,6 +533,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: HAHAHAhaha...oh...oh goodness, I need to catch my breath...wow.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -483,6 +541,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: The hell's so funny?!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -490,6 +549,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Ahaha, it's just...ha...you're so...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -497,6 +557,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...incredibly wrong.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -504,6 +565,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: What?
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -511,6 +573,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Allow me to educate you on the truth of the matter. Perhaps then
       you will also find this hilarious.
   - _speaker: 0
@@ -519,6 +582,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I explained to you earlier that human worth is based on one's
       capability and destiny, yes?
   - _speaker: 0
@@ -527,6 +591,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: How much you can and are destined to do sets your value up for
       life; an immutable value resistant to desire.
   - _speaker: 0
@@ -535,6 +600,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: No matter how much you want to be something, you are only what
       you're fated to be.
   - _speaker: 0
@@ -543,6 +609,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: And you...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -550,6 +617,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...are not destined for anything.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -557,6 +625,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: I can tell by how you conduct yourself and how miserably your
       efforts fail.
   - _speaker: 0
@@ -565,6 +634,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: Your feeble attempts to assimilate into society, your inability
       to be loved in any capacity, the suffering you endure in your day-to-day life...
   - _speaker: 0
@@ -573,6 +643,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: It's clear that you aren't destined to be anything meaningful.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -580,6 +651,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: Your existence is pitiful and pointless, and it seems that you're
       the only one that has yet to realize that.
   - _speaker: 0
@@ -588,6 +660,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: But that is precisely why I recommended something as crude as
       sexual intercourse for our exchange.
   - _speaker: 0
@@ -596,6 +669,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: Because such a lowly act as that suits someone like you perfectly.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -603,6 +677,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: W-what are you talking about?? "Lowly act????"
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -610,6 +685,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: Sex is a means of easy transaction. Anyone can offer their body
       up to indulge in lust.
   - _speaker: 0
@@ -618,6 +694,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: 'Unlike money, fame, or success, it''s a completely thoughtless
       means of compensation. '
   - _speaker: 0
@@ -626,6 +703,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: People destined for nothing in life just succumb to instinct and
       chase after trivial urges like lust, because it's all that they can do.
   - _speaker: 0
@@ -634,6 +712,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: It's up to us who rank higher than them to provide them that service
       and supplement their pathetic existence.
   - _speaker: 0
@@ -642,6 +721,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: And I have come to the conclusion that the only way I can repay
       you is to fulfill the desires intrinsic to your kind.
   - _speaker: 0
@@ -650,6 +730,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: But it disgusts me to be forced in that position. How dare your
       destiny be so cruel to make you such a useless person?
   - _speaker: 0
@@ -658,6 +739,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: So I've altered the conditions to maximize this opportunity I've
       been granted to reinstate your worth.
   - _speaker: 0
@@ -666,6 +748,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: Simple fornication is not enough to satiate my sheer distaste
       for you.
   - _speaker: 0
@@ -674,6 +757,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: I want to destroy you from the inside out. Ruin every part of
       you until they're barely recognizable.
   - _speaker: 0
@@ -682,6 +766,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: The only way I'll fuck you is if it kills you.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -689,6 +774,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
+    _maxFriendship: 0
     _dialogueLine: I will make sure that your life will end by my hands, Jessi Atwood.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -696,6 +782,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -703,6 +790,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -710,6 +798,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -717,6 +806,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Hmm...did I go too far in my pitch?
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -724,6 +814,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Perhaps I could've worded all of that in a more...formal manner.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -731,6 +822,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Either way, I'll need her response.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -738,6 +830,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "...Listen\u2014"
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -745,6 +838,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Ehe...he...hehehe...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -752,6 +846,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: '?'
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -759,20 +854,15 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 1
     _dialogueLine: AHAHAHAHA!!!
-  - _speaker: 0
-    _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
-    _music: {fileID: 0}
-    _shakeCamera: 0
-    _triggerHeartbeat: 0
-    _dialogueLine: '!!!'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Oh...you are AMAZING!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -780,6 +870,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Haah...I've been waiting for someone like you my entire life......
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -787,6 +878,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Oho..ohohoho.....the adrenaline.....it's unreal!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -794,6 +886,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I've never felt anything like that before...the excitement....
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -801,6 +894,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You're really not anything like them...you're not boring or dull
       or a waste of time...
   - _speaker: 1
@@ -809,6 +903,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You're so PERFECT!!! Aghhh...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -816,6 +911,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I want to carve this moment into my brain and never forget it!!!
       Ahaha!!!
   - _speaker: 1
@@ -824,6 +920,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Ahh, fuck...my heart is going crazy......it's so wonderful........
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -831,6 +928,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You're the first person to ever make me feel this way.....to ever
       make me feel ANYTHING.....
   - _speaker: 1
@@ -839,6 +937,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: All those other dumb fucks that come here are the same. They're
       all too predictable and too scared to do anything exciting.
   - _speaker: 1
@@ -847,6 +946,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: They just want to look and feel good by refusing to be with someone
       as worthless as me...haha...I get it now...
   - _speaker: 1
@@ -855,6 +955,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You're...you're so perfect...so much better than everyone else......
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -862,6 +963,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: To have someone care about my pathetic existence so much to want
       to end my miserable, worthless life with their own hands...haah...fuck!!!!
   - _speaker: 1
@@ -870,6 +972,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: FINE!!! I'LL DO IT!!!!! PLEASE LET ME HAVE LIFE-ENDING SEX WITH
       YOU!!!!!!! SHOW ME HOW YOU'LL RIP ME APART AND KILL ME ONCE AND FOR ALL!!!!!!!!
   - _speaker: 0
@@ -878,6 +981,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -885,6 +989,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...as you wish.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -892,6 +997,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Seems this will be much more amusing than I expected. I'm looking
       forward to seeing this deal through with you, Jessi.
   - _speaker: 1
@@ -900,6 +1006,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "Hah, yeah, whatever, just, when do we start??!! Please, I need
       it as soon as possible\u2014I need to be living the life I was MEANT TO LIVE!!!"
   - _speaker: 0
@@ -908,6 +1015,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Patience, my friend. We've just settled on this arrangement. Its
       execution will come further down the line.
   - _speaker: 1
@@ -916,6 +1024,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: But, I'm all pent up right now!!! You can't just leave me like
       this!!!! PLEASE!!!!!!
   - _speaker: 0
@@ -924,6 +1033,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You really are worthless scum, aren't you? Begging to be fucked
       so desperately...
   - _speaker: 0
@@ -932,6 +1042,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Though, I'm going to have to make some preparations before our
       first encounter, so you have no other option but to wait.
   - _speaker: 1
@@ -940,6 +1051,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: UGHHH BUT I CAN'T!!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -947,6 +1059,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Perhaps you need something to calm yourself down. How about we
       have a drink or two?
   - _speaker: 1
@@ -955,6 +1068,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "OH, oh\u2014sure!!! What would you like?"
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -962,6 +1076,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Hmm, I can't say I'm particularly looking for a specific flavor
       right now...
   - _speaker: 0
@@ -970,6 +1085,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You can choose for yourself and surprise me with a second glass.
       Does that sound good?
   - _speaker: 1
@@ -978,6 +1094,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: What I want..? Hah, okay, whatever you say!
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -985,6 +1102,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: She turns around and browses the shelves behind her, eyes scrolling
       through the arrays of bottles. When it seems she finally lands on one, she
       haphazardly grabs two glasses and pours a crimson liquid into each.
@@ -994,6 +1112,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Jeez, is she that excited that she forgot how to serve drinks
       correctly?
   - _speaker: 1
@@ -1002,6 +1121,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Okay, I got everything!
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1009,6 +1129,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "One glass is placed on the counter. The other\u2014"
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1016,6 +1137,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: FUCK!
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1023,6 +1145,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...spills a quarter of its volume to a hasty landing.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1030,6 +1153,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "Damn it, I'm just...aghh I can't think straight right now!!!
       I'll go fill it up again, hang on\u2014"
   - _speaker: 0
@@ -1038,6 +1162,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Just a second.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -1045,6 +1170,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I think I have a better idea.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1052,6 +1178,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: '?'
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -1059,6 +1186,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Come closer.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1066,6 +1194,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: She leans over the counter, careful not to get any of the pool
       of wasted liquid onto her clothes.
   - _speaker: 2
@@ -1074,6 +1203,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: But I won't allow her to be cautious.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1081,6 +1211,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I grab her by her collar and close the distance between us, our
       lips meeting each other in the middle.
   - _speaker: 2
@@ -1089,6 +1220,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I can feel her shock without having to look at her face. She's
       clawing onto the counter to find a semblance of balance, but my pull is stronger.
   - _speaker: 2
@@ -1097,6 +1229,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Her mouth is still, but quickly succumbs to the motions of my
       own. What a fast learner.
   - _speaker: 2
@@ -1105,6 +1238,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: It isn't long before she's fully melted into the kiss I've gifted
       her. To be expected of her pathetic nature, surrendering to such pleasures
       so easily.
@@ -1114,6 +1248,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: But this is far from a gift.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1121,6 +1256,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: '*CHOMP*'
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1128,6 +1264,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: '!!!'
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1135,6 +1272,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: "My teeth waste no time sinking into her flesh\u2014her bottom
       lip becomes hopelessly ensnared."
   - _speaker: 2
@@ -1143,6 +1281,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: She tries to escape, but I've got her beat once again. Her attempts
       to pull away only makes me bite harder, and every tug only makes the tear in
       her skin bigger.
@@ -1152,6 +1291,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Only when a metallic taste enters my mouth do I let go, and she
       nearly falls back onto the shelves until she manages to catch the counter.
   - _speaker: 2
@@ -1160,6 +1300,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Eyes wide, her free hand darts to her mouth to check the damage.
       I examine her wound as well, making sure I have succeeded.
   - _speaker: 2
@@ -1168,6 +1309,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: A concoction of blood and saliva run down her chin, some dripping
       onto already stained shirt. My idea has worked beautifully.
   - _speaker: 0
@@ -1176,6 +1318,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You may use that to refill your glass.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1183,6 +1326,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1190,6 +1334,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...haha...hahahahaHAHAHA! Oh, you're a fucking genius!!!
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1197,6 +1342,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: She grabs her glass to catch the dripping mixture, bringing it
       closer to make sure she doesn't miss a drop.
   - _speaker: 2
@@ -1205,6 +1351,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Ripples of red fall continously into her glass until it seems
       she's satisfied, wiping her mouth with her sleeve. In accordance, I raise my
       drink.
@@ -1214,6 +1361,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Here's to this new chapter.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -1221,6 +1369,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Hell yeah!!!
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1228,6 +1377,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Our glasses clink and we each take a sip. For a piece of filth,
       her taste in alcohol is rather pleasant.
   - _speaker: 1
@@ -1236,6 +1386,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Hah...thank you so much, Shuron. You're what I needed in life.
   - _speaker: 3
     _charSprite: {fileID: 0}
@@ -1243,6 +1394,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: It's my pleasure.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1250,6 +1402,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Once my glass is empty, I bid her farewell and take my leave.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1257,6 +1410,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: That truly couldn't have gone any smoother. A perfectly balanced
       transaction is one I love to see.
   - _speaker: 2
@@ -1265,6 +1419,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: My judgment has proven correct once again. It always does, because
       this is just how the world works. How people are.
   - _speaker: 2
@@ -1273,6 +1428,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: And Jessi Atwood...
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -1280,6 +1436,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...is human trash.
   _playerReplyOptions: []
   _npcReplies: []

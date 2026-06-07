@@ -25,11 +25,22 @@ public class FriendshipBar : MonoBehaviour
         {
             _friendshipBar.value -= _fillSpeed * Time.deltaTime;
         }
+
+        if (GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._maxFriendship)
+        {
+            MaxOutBar();
+        }
     }
 
     // Change the friendship bar based on the current level of friendship acquired
     public void ChangeFriendship(float friendship)
     {
         _targetProgress = friendship;
+    }
+
+    public void MaxOutBar()
+    {
+        _targetProgress = 50;
+        _fillSpeed = 5;
     }
 }

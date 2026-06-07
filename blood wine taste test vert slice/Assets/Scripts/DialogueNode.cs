@@ -27,6 +27,7 @@ public struct Line
     public AudioClip _music;
     public bool _shakeCamera;
     public bool _triggerHeartbeat;
+    public bool _maxFriendship;
 
     [TextArea(3, 10)]
     public string _dialogueLine;

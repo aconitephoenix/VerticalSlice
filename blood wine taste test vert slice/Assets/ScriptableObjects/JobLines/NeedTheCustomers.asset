@@ -34,6 +34,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You say you need the customers? For what reason?
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -41,6 +42,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Seems to be like you'd prefer to be without them.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -48,6 +50,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Well, yeah, but...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -55,6 +58,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...if I tell you, you're just going to think even less of me.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -62,6 +66,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Like that's even possible.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -69,6 +74,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I'm sure that whatever reason you have for continuing to interact
       with these people should be crucial enough to be so hesitant about letting
       them go. Tell me.
@@ -78,6 +84,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ....aghhh, fineeee...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -85,6 +92,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I, uh, kind of...use the customers as...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -92,6 +100,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...talking...practice...
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -99,6 +108,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Talking practice?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -106,8 +116,135 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Yeah, like...just learning how to talk to people...seeing what
       works and what doesn't...
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You know...that stuff......
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: What could you possibly need practice for? Is socialization not
+      just a natural part of human life?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You basically get enough experience for it by simply existing,
+      if I'm being honest.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: That's easy for you to say!!! You're nothing like me!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: How so?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: ...like I'm telling you.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Jessi.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: AHHH FINE, since we're learning SO MUCH about me today!!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I...I never got to "simply exist," okay?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I barely talked to anyone up until a year or two ago when I opened
+      this place.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Not even because I just didn't want to; believe me, I really wanted
+      to.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: But that chance was robbed from me before I could even reach for
+      it. So I just...never got to do it.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: There. Is that good enough for you?
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Mm...not quite.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: '"Robbed from me?" Those are some choice words. I''ll have to
+      press her even more.'
   _playerReplyOptions:
   - _choiceType: 2
     _optionText: Force it out of her
