@@ -621,7 +621,7 @@ MonoBehaviour:
     _dialogueLine: ...are not destined for anything.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -630,7 +630,7 @@ MonoBehaviour:
       efforts fail.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -639,7 +639,7 @@ MonoBehaviour:
       to be loved in any capacity, the suffering you endure in your day-to-day life...
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -647,7 +647,7 @@ MonoBehaviour:
     _dialogueLine: It's clear that you aren't destined to be anything meaningful.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -656,7 +656,7 @@ MonoBehaviour:
       the only one that has yet to realize that.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -665,7 +665,7 @@ MonoBehaviour:
       sexual intercourse for our exchange.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -673,7 +673,7 @@ MonoBehaviour:
     _dialogueLine: Because such a lowly act as that suits someone like you perfectly.
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -681,7 +681,7 @@ MonoBehaviour:
     _dialogueLine: W-what are you talking about?? "Lowly act????"
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -690,7 +690,7 @@ MonoBehaviour:
       up to indulge in lust.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -699,7 +699,7 @@ MonoBehaviour:
       means of compensation. '
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -708,7 +708,7 @@ MonoBehaviour:
       chase after trivial urges like lust, because it's all that they can do.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -717,7 +717,7 @@ MonoBehaviour:
       and supplement their pathetic existence.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -726,7 +726,7 @@ MonoBehaviour:
       you is to fulfill the desires intrinsic to your kind.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -735,7 +735,7 @@ MonoBehaviour:
       destiny be so cruel to make you such a useless person?
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -744,7 +744,7 @@ MonoBehaviour:
       been granted to reinstate your worth.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -753,7 +753,7 @@ MonoBehaviour:
       for you.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -762,7 +762,7 @@ MonoBehaviour:
       you until they're barely recognizable.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -770,7 +770,7 @@ MonoBehaviour:
     _dialogueLine: The only way I'll fuck you is if it kills you.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1

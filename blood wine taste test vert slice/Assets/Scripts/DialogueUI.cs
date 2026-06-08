@@ -16,9 +16,10 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private TMP_Text _option1;
     [SerializeField] private TMP_Text _option2;
     [SerializeField] private Image _continueIndicator;
-    [SerializeField] private Image _cgDisplay;
+    [SerializeField] private SpriteRenderer _cgDisplay;
     [SerializeField] private Sprite _blankCG;
     [SerializeField] private CameraShake _cameraShake;
+    [SerializeField] private GameObject _friendshipBar;
 
     private Coroutine _typeLineCoroutine;
     public bool _isTyping;
@@ -89,6 +90,7 @@ public class DialogueUI : MonoBehaviour
         if (dialogue._CG != null)
         {
             _cgDisplay.gameObject.SetActive(true);
+            _friendshipBar.SetActive(false);
             _cgDisplay.sprite = dialogue._CG;
 
             if (dialogue._CG != _blankCG)
@@ -103,6 +105,7 @@ public class DialogueUI : MonoBehaviour
         else
         {
             _cgDisplay.gameObject.SetActive(false);
+            _friendshipBar.SetActive(true);
         }
 
         _playerOptions.SetActive(false);

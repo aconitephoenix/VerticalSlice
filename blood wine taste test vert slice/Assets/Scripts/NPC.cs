@@ -10,7 +10,6 @@ public class NPC : MonoBehaviour
     [SerializeField] private FriendshipBar _friendshipBar;
     [SerializeField] private DialogueNode _successNode;
     [SerializeField] private DialogueNode _failNode;
-    [SerializeField] private Camera _camera;
 
     public DialogueNode _currentNode;
     public int _currentLine;
@@ -43,11 +42,11 @@ public class NPC : MonoBehaviour
 
                 if (_currentNode._lines[_currentLine]._triggerHeartbeat)
                 {
-                    _camera.GetUniversalAdditionalCameraData().SetRenderer(1);
+                    Camera.main.GetUniversalAdditionalCameraData().SetRenderer(1);
                 }
                 else
                 {
-                    _camera.GetUniversalAdditionalCameraData().SetRenderer(0);
+                    Camera.main.GetUniversalAdditionalCameraData().SetRenderer(0);
                 }
             }
             else if (_canContinue)
