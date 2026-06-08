@@ -12,7 +12,36 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: HerOtherRelationships
   m_EditorClassIdentifier: 
-  _description: 
+  _description: 'player asks how jessi''s current relationships are going
+
+
+    jessi
+    admits that they''re not really going all that well, nor does she have many
+
+
+    she
+    probably has like. a friend or two. and one of them is mutual with the player
+    (he who shall not be named)
+
+
+    she doesnt really get invited out by her friends
+    a lot
+
+
+    overall unfulfilling relationships. or at least she''s not allowing
+    them to be.
+
+
+    player points out that her friends obviously Hate Her probably
+    or at the very least aren''t fond of her. jessi wants to deny this, but she knows
+    it''s true.
+
+
+    well, no wonder, player says. a person like jessi doesn''t
+    really deserve relationships like that anyways, if someone like her can even
+    KEEP those relationships. her life is just misery because she''s trying to match
+    up to these people and be friends with them when clearly she''s not deserving
+    of that title.'
   _sameOptionTarget: 0
   _lines: []
   _playerReplyOptions: []

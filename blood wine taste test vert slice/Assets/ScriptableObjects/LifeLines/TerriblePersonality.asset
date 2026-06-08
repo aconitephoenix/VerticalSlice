@@ -12,7 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TerriblePersonality
   m_EditorClassIdentifier: 
-  _description: 
+  _description: '- player says jessi has an AWFUL personality that no one can bear.
+    that''s why no one likes her.
+
+
+    according to the player, jessi is:
+
+    -
+    awfully inconsiderate
+
+    - terrible at reading the room
+
+    - completely self-absorbed,
+    makes everything about herself
+
+    - thoughtlessly impulsive
+
+    - way too
+    immature
+
+
+    jeez. anything else????!!! jessi replies'
   _sameOptionTarget: 0
   _lines: []
   _playerReplyOptions: []
