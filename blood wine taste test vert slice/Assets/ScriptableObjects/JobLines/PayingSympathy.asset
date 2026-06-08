@@ -295,6 +295,5 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: 'Though, I''m getting ahead of myself. '
   _playerReplyOptions: []
-  _npcReplies:
-  - {fileID: 11400000, guid: 6ec327516f3321e4eb5435c01fb6219c, type: 2}
+  _npcReplies: []
   _gameEnd: 1
