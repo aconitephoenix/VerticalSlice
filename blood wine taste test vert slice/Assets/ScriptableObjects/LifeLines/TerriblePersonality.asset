@@ -21,20 +21,148 @@ MonoBehaviour:
     -
     awfully inconsiderate
 
-    - terrible at reading the room
-
-    - completely self-absorbed,
-    makes everything about herself
+    - completely self-absorbed, makes everything about
+    herself
 
     - thoughtlessly impulsive
 
-    - way too
-    immature
+    - way too immature
 
 
-    jeez. anything else????!!! jessi replies'
+    jeez. anything
+    else????!!! jessi replies'
   _sameOptionTarget: 0
-  _lines: []
+  _lines:
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: For starters, I can say with confidence you have an abhorrent
+      personality. Downright unbearable, in other words.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Wow. No one's ever said THAT to me before. Thanks.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I'm not finished.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: By all accounts, your personality is an incessant pool of undesirable
+      traits.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You're an awfully inconsiderate person that has no regard for
+      anyone but yourself,
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: which, in turn, causes you to make everything about yourself because
+      you are the only subject matter you ever wish to talk about,
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: not to mention how thoughtlessly impulsive you are, acting without
+      any semblance of hesitation or scrutiny,
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: and, arguably most offensive of all, you're much too immature
+      to even be considered an adult, let alone anything but a toddler.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Jeez, anything else?!!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Actually, why don't you just tell the whole world about how awful
+      of a person I am?? Since you're just SOOO eager to say all this shit that you
+      might as well screech it at the top of your damn lungs!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Don't take this the wrong way, Jessi. I'm simply answering your
+      question.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You ask for what's wrong with you; I answer. Just a simple exchange.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I WASN'T BEING SERIOUS!!! And it's not like I knew you hated me
+      THAT much anyway, god...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Is honesty really that hateful?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Hah, YOUR honesty is.
   _playerReplyOptions: []
   _npcReplies: []
   _gameEnd: 0

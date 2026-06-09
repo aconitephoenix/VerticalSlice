@@ -32,7 +32,15 @@ MonoBehaviour:
     especially get yourself hurt. you''re already impulsive anyway, your nature is
     basically telling you to go kill yourself'
   _sameOptionTarget: 0
-  _lines: []
+  _lines:
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: 
   _playerReplyOptions: []
   _npcReplies: []
   _gameEnd: 0
