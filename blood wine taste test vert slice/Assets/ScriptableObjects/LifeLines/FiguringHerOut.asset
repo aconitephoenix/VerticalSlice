@@ -45,7 +45,7 @@ MonoBehaviour:
     though,
     that''s quite a loaded question, isn''t it? what Terrible part of her does she
     wanna grapple in the time that she has now?'
-  _sameOptionTarget: 0
+  _sameOptionTarget: 2
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}

@@ -3,10 +3,12 @@ using UnityEngine;
 
 public class CameraShake : MonoBehaviour
 {
+    private Vector3 _originalPos;
+
     // Start is called before the first frame update
     void Start()
     {
-
+        _originalPos = transform.localPosition;
     }
 
     // Update is called once per frame
@@ -17,8 +19,6 @@ public class CameraShake : MonoBehaviour
 
     public IEnumerator ShakeCamera()
     {
-        Vector3 originalPos = transform.localPosition;
-
         float elapsedTime = 0;
 
         while (elapsedTime < 0.2f)
@@ -33,6 +33,6 @@ public class CameraShake : MonoBehaviour
             yield return null;
         }
 
-        transform.localPosition = originalPos;
+        transform.localPosition = _originalPos;
     }
 }

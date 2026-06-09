@@ -41,7 +41,7 @@ MonoBehaviour:
     it
     seems that jessi is in a better mood about now. perfect. time to go in for the
     kill.'
-  _sameOptionTarget: 3
+  _sameOptionTarget: 0
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 0}

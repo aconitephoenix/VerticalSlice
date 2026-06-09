@@ -39,7 +39,7 @@ MonoBehaviour:
 
 
     she''ll decide to explain why.'
-  _sameOptionTarget: 0
+  _sameOptionTarget: 1
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}

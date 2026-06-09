@@ -85,7 +85,7 @@ public class NPC : MonoBehaviour
     {
         if (_currentNode._gameEnd)
         {
-            if (_friendshipValue >= 0.5f)
+            if (_friendshipValue >= 0.6f)
             {
                 _currentNode = _successNode;
             }
@@ -131,24 +131,24 @@ public class NPC : MonoBehaviour
 
                 if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Nice)
                 {
-                    if (_sameOptionCount > _currentNode._sameOptionTarget && _friendshipValue > 0)
+                    if (_sameOptionCount >= _currentNode._sameOptionTarget && _friendshipValue > 0)
                     {
-                        _friendshipValue -= 0.1f;
+                        _friendshipValue -= 0.2f;
                     }
                     else if (_friendshipValue < 1)
                     {
-                        _friendshipValue += 0.2f;
+                        _friendshipValue += 0.4f;
                     }
                 }
                 else if (_selectedOptions[_selectedOptions.Count - 1]._choiceType == ChoiceType.Mean)
                 {
-                    if (_sameOptionCount < _currentNode._sameOptionTarget && _friendshipValue < 1)
+                    if (_sameOptionCount <= _currentNode._sameOptionTarget && _friendshipValue < 1)
                     {
-                        _friendshipValue += 0.2f;
+                        _friendshipValue += 0.4f;
                     }
                     else if (_friendshipValue > 0)
                     {
-                        _friendshipValue -= 0.1f;
+                        _friendshipValue -= 0.2f;
                     }
                 }
 

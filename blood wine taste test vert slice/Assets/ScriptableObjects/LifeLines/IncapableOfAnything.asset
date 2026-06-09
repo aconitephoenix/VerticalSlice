@@ -30,7 +30,7 @@ MonoBehaviour:
     -
     be mindful of the space she''s given; instead she forces herself into spaces
     she doesn''t belong in'
-  _sameOptionTarget: 0
+  _sameOptionTarget: 1
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -39,7 +39,141 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: 
+    _dialogueLine: Haven't you noticed just how much you're incapable of? I thought
+      it would be clear to you by now.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Your ability is far below that of the average person. It's honestly
+      a little sad.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Oh yeah? Like what?!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I'm getting to that now.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: For someone who wants to pretend to be a normal human being so
+      badly, you really can't do many things.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You can't understand the simplest of concepts even when boiled
+      down to its most basic form.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You always need copious amounts of clarification or lead the conversation
+      in a completely unfavorable direction.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: On that note, it's as if you were born without the ability to
+      think critically.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You never take your mistakes as lessons and continue to exhibit
+      stupidity whenever the opportunity arises.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You can't even handle normal human interaction without blowing
+      a fuse; your circuitry immediately goes haywire at the thought of participating
+      in common dialogue.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Yet you attempt to involve yourself in every opening for a conversation
+      and manage to waste everyone's space and time.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You lack the ability to be mindful of the space that you're granted
+      and squeeze your way into those that you don't belong. Thinking about it alone
+      is a bother.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Man, I guess I should just drop dead, shouldn't I??
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: If I can't do anything, at least I can fertilize the dirt with
+      my lifeless, otherwise useless body!!!
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Hmm, no, I think that would be a poor fate for the crops.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 1
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Are you seriously feeling bad for some stupid plants because of
+      me? Am I really that disgusting to you?!
   _playerReplyOptions: []
   _npcReplies: []
-  _gameEnd: 0
+  _gameEnd: 1

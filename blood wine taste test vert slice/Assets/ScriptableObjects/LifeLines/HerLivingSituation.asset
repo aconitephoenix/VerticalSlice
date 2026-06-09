@@ -31,7 +31,7 @@ MonoBehaviour:
     not like she has anything worth protecting. go out more, take more risks, and
     especially get yourself hurt. you''re already impulsive anyway, your nature is
     basically telling you to go kill yourself'
-  _sameOptionTarget: 0
+  _sameOptionTarget: 2
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -43,4 +43,4 @@ MonoBehaviour:
     _dialogueLine: 
   _playerReplyOptions: []
   _npcReplies: []
-  _gameEnd: 0
+  _gameEnd: 1

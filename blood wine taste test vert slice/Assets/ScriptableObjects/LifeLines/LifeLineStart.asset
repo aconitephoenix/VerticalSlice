@@ -295,7 +295,7 @@ MonoBehaviour:
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Give her some tips
-  - _choiceType: 0
+  - _choiceType: 2
     _optionText: Pick apart her brain
   _npcReplies:
   - {fileID: 11400000, guid: 2736e8f2826c6ea419a146426ea3fca4, type: 2}

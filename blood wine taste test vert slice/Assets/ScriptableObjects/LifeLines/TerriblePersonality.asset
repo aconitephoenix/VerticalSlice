@@ -31,7 +31,7 @@ MonoBehaviour:
 
     jeez. anything
     else????!!! jessi replies'
-  _sameOptionTarget: 0
+  _sameOptionTarget: 1
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -163,6 +163,24 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Hah, YOUR honesty is.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I guess I gotta give it to you, though. Not everyone's brave enough
+      to beat someone down like that...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: It's less bravery and more of basic decency to tell you any of
+      that information.
   _playerReplyOptions: []
   _npcReplies: []
-  _gameEnd: 0
+  _gameEnd: 1

@@ -381,7 +381,15 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: If anything, the fact that you can get interactions like this
-      is pure luck. So instead of being critical of your social blunders, be grateful
+      is pure luck.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: So instead of being critical of your social blunders, be grateful
       that the opportunity even came to you in the first place.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -444,9 +452,9 @@ MonoBehaviour:
     _dialogueLine: Hmm...with the time I'm allotted, I'll only be able to address
       one of those concerns.
   _playerReplyOptions:
-  - _choiceType: 0
+  - _choiceType: 2
     _optionText: Address her existing relationships
-  - _choiceType: 0
+  - _choiceType: 2
     _optionText: Address how she's been taking care of herself
   _npcReplies:
   - {fileID: 11400000, guid: 26077efd7e7990540b619eaec8301022, type: 2}

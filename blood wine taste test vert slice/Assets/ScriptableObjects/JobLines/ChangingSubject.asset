@@ -260,4 +260,4 @@ MonoBehaviour:
     _dialogueLine: Can she make her enjoyment of this any less obvious?
   _playerReplyOptions: []
   _npcReplies: []
-  _gameEnd: 0
+  _gameEnd: 1

@@ -29,6 +29,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: If I may put in my two cents, have you considered that the problem
       might not lie within your customers, but rather in you?
   - _speaker: 1
@@ -37,6 +38,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Um, excuse me?
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -44,7 +46,16 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: Come on. Is it so absurd to believe that, instead of your customerbase
+    _maxFriendship: 0
+    _dialogueLine: Come on.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Is it so absurd to believe that, instead of your customerbase
       being so overwhelmingly underwhelming on their own, your judgments of these
       individuals are flawed?
   - _speaker: 1
@@ -53,6 +64,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I cannot BELIEVE you're trying to defend those guys right now.
       Did you not hear anything I said???
   - _speaker: 0
@@ -61,6 +73,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I heard you loud and clear. And frankly, it seems to me that your
       incompatibility is a fault of yours, not theirs.
   - _speaker: 0
@@ -69,8 +82,17 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Even just talking to you, I can see why you might find others
-      "boring;" simply because you are too defective to hold worthwhile conversation
+      "boring."
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Simply because you are too defective to hold worthwhile conversation
       with that conversations tend not to come your way at all.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -78,6 +100,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Hey, I thought you wanted to talk all "friendly??" What's with
       this crap?? Did you forget who owns this place????
   - _speaker: 0
@@ -86,6 +109,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Do you not consider this friendly? As a friend, I am being honest
       with you and informing you that you are the problem. Is that not what friends
       do?
@@ -95,6 +119,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: NO!! You're supposed to tell me how awesome I am!!!! Not lecture
       at me about how I'm apparently so terrible that people don't want to talk to
       me!!!!
@@ -104,6 +129,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I'm simply trying to tell you the truth, Jessi. The sooner you
       accept it, the better.
   - _speaker: 0
@@ -112,6 +138,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Though, I was under the impression it was something you already
       accepted? How come you're so reluctant to realize this conclusion?
   - _speaker: 1
@@ -120,6 +147,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Reluctant to accept what? That you're totally shittalking me right
       now??
   - _speaker: 1
@@ -128,6 +156,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Because that's a pretty easy conclusion to make!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -135,6 +164,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Relax, Jessi. I think you're taking this the wrong way.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -142,6 +172,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: What I'm telling you right now is not a means of petty insult,
       but moreso just...opening your eyes to the truth.
   - _speaker: 0
@@ -150,6 +181,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I can tell that you've struggled to accept it, but I'm here to
       help you with that.
   - _speaker: 1
@@ -158,6 +190,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Oh yeah?! How so??!! Are you gonna just keep running my name into
       the ground like everyone else??!!
   - _speaker: 2
@@ -166,6 +199,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: So defensive...that might be a problem.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -173,6 +207,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Is it really worth it to see this through?
   _playerReplyOptions:
   - _choiceType: 1
