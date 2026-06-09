@@ -124,7 +124,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: It's this STUPID FUCKING WORLD!!!! THEY made me this way, it's
@@ -238,7 +238,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: It's not fair!!! Things shouldn't be this way!!!!
@@ -257,7 +257,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: What?!
+    _dialogueLine: What?
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -294,6 +294,82 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: 'Though, I''m getting ahead of myself. '
-  _playerReplyOptions: []
-  _npcReplies: []
-  _gameEnd: 1
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Before I get into any of that, I'm curious...what specific circumstances
+      have led you down this path?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Huh? What does that mean?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I'd like to understand a little more about your general background.
+      The history informs the person, no?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "Uh-huh\u2014and why would you want to know that???"
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: 'You said it yourself: you didn''t choose this for yourself, the
+      world did. But what exactly did the world choose for you is my question.'
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Okay, look, that's enough. I get it, the world sucks or whatever,
+      but I'm not telling you any more than I already have, alright?!
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You've played enough detective for one night. I'm not giving you
+      anything else. Take it or leave it.
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Looks like I'll have to risk upsetting her if I want to pry any
+      further. Oh well.
+  _playerReplyOptions:
+  - _choiceType: 2
+    _optionText: Force it out of her
+  - _choiceType: 1
+    _optionText: Be subtle about it
+  _npcReplies:
+  - {fileID: 11400000, guid: 49ac67e3b50c7e849a8543b56b43b15c, type: 2}
+  - {fileID: 11400000, guid: a7c0c35f315b94d428844f9d90f09321, type: 2}
+  _gameEnd: 0

@@ -71,12 +71,383 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: placeholder line
+    _maxFriendship: 0
+    _dialogueLine: Well, I suppose it'd be a community service to help her out. I'd
+      almost feel bad if I didn't at least try.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: If I may, Jessi. Perhaps I could offer you some advice to live
+      your life to its intended potential?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You...wanna help me?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Why of course. I wouldn't just leave a poor soul like you all
+      alone to fend for yourself like this. Sometimes all one needs is a little support.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Gee, thanks I guess.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Alright, whatever, not like I really have anything better to do
+      other than pack my shit and leave. Lay it on me.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: With pleasure.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: My first piece of advice to you is to tone down that ego of yours.
+      Might seem easier than done, but it's of utmost priority if you're to get along
+      with anyone else.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: No one likes someone who's all in over their head; a respectable
+      person knows how much they actually matter to the world and acts accordingly.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Soooo you're saying I'm some sort of narcissist or whatever?
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Mm, if you want to call it that, then I suppose so.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Okay, that already doesn't make sense. How am *I* a narcissist???
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: It's not like I think I'm the shit for no reason; I'm literally
+      just reacting to all the idiots around me!!! Is it my fault for having standards???
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I believe there's a fatal misunderstanding at play here.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Your perception of the world is very distorted, to the point where
+      you feel like you are the only sane one walking this earth.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: However, you couldn't be more incorrect.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: The reason why all your interactions have failed thus far is not
+      an external problem, but rather internal.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You always seek some sort of enjoyment or benefit for yourself
+      out of every conversation you have, but that's not what the system intended
+      for you.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Rather, your conversations are not meant to be enjoyable for you
+      at all. At least, not in the manner that you're looking for.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You simply have to let these conversations come and go without
+      letting your expectations get in the way. You work with what you get, and that's
+      all there is to it.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "Okay\u2014so if I'm supposed to just let people run their mouths
+      at me and not give them any piece of my mind, what else is there for me to
+      do???"
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Just sit there, listen, and nod like some sort of robot???
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Impressive. You've beaten me to my point.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: That practice is precisely what you should exercise. Listening
+      to others and keeping your inferior thoughts to yourself is the best that you
+      can do.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "What kind of advice is that???? That sounds stupid as\u2014"
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Ah-ah-ah. Hold that thought. Why don't you start applying that
+      practice starting now?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "Wh\u2014"
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Anyway. Getting rid of your unwarranted ego will do wonders for
+      your listening skills, as it'll get rid of all that clutter in your brain convincing
+      you to act pretentiously.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Besides, others know better than you do. Wouldn't you agree that
+      listening to those wiser than you only results in benefit?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "B-better?? The fuck\u2014"
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You're already doing well with the position you've chosen. to
+      work as a server. Taking orders like this is good reinforcement for the conventions
+      you should adhere to.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: ...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: 'Second piece of advice: don''t be so picky with the attention
+      you receive.'
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: That kind of selectiveness only makes people dislike you even
+      further, especially if it's coming from someone like you.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Someone who doesn't even have the privilege to pick and choose
+      who interacts with them should not be speaking on who's "worth their time."
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: If anything, the fact that you can get interactions like this
+      is pure luck. So instead of being critical of your social blunders, be grateful
+      that the opportunity even came to you in the first place.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: ...
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Well? Did you find any of that helpful?
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: ...I guess I got nothing to lose if I try it...I dunno.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I feel like what you said mostly applies to the new people I meet
+      here, though.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: What do I do about the people I already know? Aren't they gonna
+      know something's up and figure me out??
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: And what about my life outside of just talking to people? How
+      the hell do I fix that??
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Hmm...with the time I'm allotted, I'll only be able to address
+      one of those concerns.
   _playerReplyOptions:
   - _choiceType: 0
-    _optionText: Ask about her existing relationships
+    _optionText: Address her existing relationships
   - _choiceType: 0
-    _optionText: Ask how she's been taking care of herself
+    _optionText: Address how she's been taking care of herself
   _npcReplies:
   - {fileID: 11400000, guid: 26077efd7e7990540b619eaec8301022, type: 2}
   - {fileID: 11400000, guid: cdf18fb57801b2544b2f365417b6db77, type: 2}

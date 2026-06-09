@@ -42,6 +42,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I've never really paid attention to your life outside this place.
       I'm curious as to how you spend your free time.
   - _speaker: 1
@@ -50,6 +51,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Oh, why do you want to know? So you can bang me in the parking
       lot when I'm not busy?! You don't even hang out with me!!!
   - _speaker: 0
@@ -58,6 +60,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Don't take it personally. You know why.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -65,6 +68,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: It's not that, it's just...I get asked that literally all the
       damn time by drunkards trying to ask me out.
   - _speaker: 1
@@ -73,6 +77,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: '"Hurr durr hey baby what are you doing after this???'
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -80,6 +85,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Oh you're just going straight home to rot on your bed and think
       about how much you wanna kill everybody???
   - _speaker: 1
@@ -88,6 +94,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Well how would you like to have your back blown out while you
       do that heh how about that baby???"
   - _speaker: 1
@@ -96,6 +103,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: At least once a week with that routine, so it's just a kneejerk
       reaction to not want to say anything...half the time they don't even look good
       enough to say shit like that.
@@ -105,6 +113,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: So MY BAD for getting defensive.
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -112,6 +121,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Of course she's managed to make it about herself in a way I DIDN'T
       ask for. Though I suppose it's useful information to gauge her reaction to
       my offer...
@@ -121,6 +131,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I apologize for whatever turmoils you here, but I believe I asked
       for your details on your life OUTSIDE of this establishment. Care to answer?
   - _speaker: 1
@@ -129,6 +140,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Yeah yeah, I'll get to it. Jeez, desperate much?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -136,6 +148,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Uhh, what I do in my free time...
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -143,6 +156,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I guess I just...talk...to people??
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -150,6 +164,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: You talk to people.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -157,6 +172,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Well if you have a better answer why'd you even bother to ask??!!
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -164,6 +180,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
       such a simple answer.
   - _speaker: 1
@@ -172,6 +189,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Well SORRY, that's really just all it is.
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -179,6 +197,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Heh, does your life really revolve around meaningless socialization
       that much?
   - _speaker: 1
@@ -187,6 +206,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: I...I wouldn't call it meaningless......
   - _speaker: 0
     _charSprite: {fileID: 0}
@@ -194,6 +214,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Really? How's it going for you?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -201,6 +222,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ........
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -208,6 +230,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ....a little.....unexpected.........
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -215,6 +238,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: Is she really trying to lie to me right now?
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -222,6 +246,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: As if I can't already tell her social life is going horribly.
       How egotistical she is to believe she can just fool me like that.
   - _speaker: 2
@@ -230,6 +255,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: How is it possible to deny reality this much? Just face the facts
       like everyone else.
   - _speaker: 2
@@ -238,6 +264,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...I'll have to hold my tongue. It's not time to hit her with
       that yet.
   - _speaker: 2
@@ -246,6 +273,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: But where exactly can I lead this conversation?
   - _speaker: 2
     _charSprite: {fileID: 0}
@@ -253,6 +281,7 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
+    _maxFriendship: 0
     _dialogueLine: ...I suppose I could try to help the poor thing out and give her
       some advice...
   - _speaker: 2
@@ -261,7 +290,8 @@ MonoBehaviour:
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
-    _dialogueLine: ...or I could try to figure out how she ticks...
+    _maxFriendship: 0
+    _dialogueLine: ...or I could attempt to figure out how she ticks...
   _playerReplyOptions:
   - _choiceType: 1
     _optionText: Give her some tips
