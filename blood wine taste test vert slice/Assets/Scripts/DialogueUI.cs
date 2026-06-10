@@ -13,6 +13,7 @@ public class DialogueUI : MonoBehaviour
     [SerializeField] private TMP_Text _npcDialogueText;
     [SerializeField] private TMP_Text _npcNameText;
     [SerializeField] private TMP_Text _playerDialogueText;
+    [SerializeField] private TMP_Text _playerNameText;
     [SerializeField] private TMP_Text _option1;
     [SerializeField] private TMP_Text _option2;
     [SerializeField] private Image _continueIndicator;
@@ -55,7 +56,7 @@ public class DialogueUI : MonoBehaviour
                 {
                     _playerDialogueBox.SetActive(true);
                     _npcDialogueBox.SetActive(false);
-                    _npcNameText.text = "Shuron";
+                    _playerNameText.text = "Shuron";
                 }
             }
             else

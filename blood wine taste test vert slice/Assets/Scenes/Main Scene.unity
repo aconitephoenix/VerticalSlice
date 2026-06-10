@@ -2422,6 +2422,7 @@ MonoBehaviour:
   _npcDialogueText: {fileID: 621527299}
   _npcNameText: {fileID: 1397438505}
   _playerDialogueText: {fileID: 1680608541}
+  _playerNameText: {fileID: 499188715}
   _option1: {fileID: 1370864599}
   _option2: {fileID: 1602317799}
   _continueIndicator: {fileID: 1774467969}
