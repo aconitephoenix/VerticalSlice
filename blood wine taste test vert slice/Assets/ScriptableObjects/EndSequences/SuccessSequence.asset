@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: SuccessSequence
   m_EditorClassIdentifier: 
-  _sameOptionTarget: 50
+  _sameOptionTarget: 10
   _lines:
   - _speaker: 2
     _charSprite: {fileID: 0}

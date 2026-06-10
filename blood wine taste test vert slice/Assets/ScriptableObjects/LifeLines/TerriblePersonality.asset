@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TerriblePersonality
   m_EditorClassIdentifier: 
-  _sameOptionTarget: 1
+  _sameOptionTarget: 0
   _lines:
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
