@@ -12,29 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: TerriblePersonality
   m_EditorClassIdentifier: 
-  _description: '- player says jessi has an AWFUL personality that no one can bear.
-    that''s why no one likes her.
-
-
-    according to the player, jessi is:
-
-    -
-    awfully inconsiderate
-
-    - completely self-absorbed, makes everything about
-    herself
-
-    - thoughtlessly impulsive
-
-    - way too immature
-
-
-    jeez. anything
-    else????!!! jessi replies'
   _sameOptionTarget: 1
   _lines:
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -59,7 +40,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I'm not finished.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -122,7 +103,7 @@ MonoBehaviour:
       of a person I am?? Since you're just SOOO eager to say all this shit that you
       might as well screech it at the top of your damn lungs!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

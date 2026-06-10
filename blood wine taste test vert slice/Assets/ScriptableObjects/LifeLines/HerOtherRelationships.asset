@@ -12,40 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: HerOtherRelationships
   m_EditorClassIdentifier: 
-  _description: 'player asks how jessi''s current relationships are going
-
-
-    jessi
-    admits that they''re not really going all that well, nor does she have many
-
-
-    she
-    probably has like. a friend or two. and one of them is mutual with the player
-    (he who shall not be named)
-
-
-    she doesnt really get invited out by her friends
-    a lot
-
-
-    overall unfulfilling relationships. or at least she''s not allowing
-    them to be.
-
-
-    player points out that her friends obviously Hate Her probably
-    or at the very least aren''t fond of her. jessi wants to deny this, but she knows
-    it''s true.
-
-
-    well, no wonder, player says. a person like jessi doesn''t
-    really deserve relationships like that anyways, if someone like her can even
-    KEEP those relationships. her life is just misery because she''s trying to match
-    up to these people and be friends with them when clearly she''s not deserving
-    of that title.'
   _sameOptionTarget: 2
   _lines:
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -214,13 +184,13 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: No...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Seems to me that they don't actually like you at all then.
+    _dialogueLine: Seems to me that they don't actually like you at all.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -230,7 +200,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Huh?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -238,7 +208,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: At the very least, they aren't fond of you.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -256,7 +226,7 @@ MonoBehaviour:
     _dialogueLine: However, it appears as though they only talk to you to pass the
       time. They just happen to be tolerant enough to bother with you.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -306,15 +276,22 @@ MonoBehaviour:
     _dialogueLine: Yeah, but how do I make it NOT awful??? Is that not the whole
       point of you helping me???
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Well, it's no wonder you find your relationships so miserable.
-      You simply don't deserve those kinds of relationships; that is, if you're even
-      capable of keeping them.
+  - _speaker: 0
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You simply don't deserve those kinds of relationships; that is,
+      if you're even capable of keeping them.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -323,8 +300,16 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: You're enduring unnecessary suffering just because you're trying
-      to match up to people that are too far above your level. There's no point in
-      reaching for something that you can never grasp.
+      to match up to people that are too far above your level.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: There's no point in reaching for something that you can never
+      grasp.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -335,7 +320,7 @@ MonoBehaviour:
     _dialogueLine: It's better to stop treating those connections as a means of reaching
       an impossible benchmark and more of a means to keep yourself in check.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

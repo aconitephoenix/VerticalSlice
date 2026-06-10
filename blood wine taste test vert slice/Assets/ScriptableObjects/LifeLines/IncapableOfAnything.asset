@@ -12,28 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: IncapableOfAnything
   m_EditorClassIdentifier: 
-  _description: 'player starts talking about how much jessi CAN''T do; a lot of which
-    are things "normal human beings" CAN
-
-
-    according to the player, jessi can''t:
-
-    -
-    understand even the simplest of concepts, constantly needing to ask for clarification
-    or leading the conversation in a totally wrong direction
-
-    - ^ related: think
-    critically
-
-    - handle normal human interaction without blowing a fuse
-
-    -
-    be mindful of the space she''s given; instead she forces herself into spaces
-    she doesn''t belong in'
   _sameOptionTarget: 1
   _lines:
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -94,7 +76,7 @@ MonoBehaviour:
     _dialogueLine: You always need copious amounts of clarification or lead the conversation
       in a completely unfavorable direction.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -122,7 +104,7 @@ MonoBehaviour:
       a fuse; your circuitry immediately goes haywire at the thought of participating
       in common dialogue.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

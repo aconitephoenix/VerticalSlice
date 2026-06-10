@@ -73,7 +73,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I'll just have to direct this conversation elsewhere...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -153,7 +153,7 @@ MonoBehaviour:
     _dialogueLine: It's also a little fun switching between a cafe and a bar every
       day; kinda keeps you on your toes...I guess.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -206,7 +206,7 @@ MonoBehaviour:
     _dialogueLine: People who piss me off can just chug straight-up toxins for all
       I care!!! Or well, as long as it's within safety code...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -215,7 +215,7 @@ MonoBehaviour:
     _dialogueLine: Suuuure. Like you could ever have any semblance of dominance over
       anyone.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

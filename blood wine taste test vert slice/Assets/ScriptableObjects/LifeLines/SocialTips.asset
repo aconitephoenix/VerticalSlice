@@ -12,57 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: SocialTips
   m_EditorClassIdentifier: 
-  _description: 'wouldn''t hurt to give her some advice. poor thing needs it.
-
-
-    the
-    player offers a helping hand to jessi, saying that she can guide her towards
-    living her life out as she''s meant to. jessi thinks this is a little odd, but
-    really has nothing better to do right now (other than go home, but the player
-    has already taken that opportunity from her.)
-
-
-    the player first tells jessi
-    that she needs to stop trying to act all high and mighty. no one likes someone
-    who''s all in over their head; you have to realize how much you actually matter
-    and act accordingly.
-
-
-    jessi doesn''t really see how she''s acting all "high
-    and mighty," she''s just reacting to the stupid world around her.
-
-
-    silly
-    jessi. the only reason it seems "stupid" to her is because she''s simply not
-    GETTING what it''s trying to tell her. the interactions she''s having are going
-    south because she wants them to be enjoyable for her, but it''s just not meant
-    to be enjoyable at all. you gotta work with what you got, whether you like it
-    or not.
-
-
-    so what is she supposed to do? well, once she gets rid of that
-    unwarranted ego, she should just listen to whatever other people tell her to
-    do. they probably would know better than her anyway (jessi is a little offended
-    at this and asks what that''s suposed to mean, but the player doesn''t elaborate.
-    that''s for later.)
-
-
-    she''s already done good with choosing a position that
-    lets her take orders, it''s good reinforcement for what she should be doing.
-    now she just needs to apply that to real life.
-
-
-    she''s also gotta be less
-    picky with the attention she gets... being so picky with who you talk to only
-    makes people hate you more. besides, it''s not like she has the privilege to
-    pick and choose who interacts with her; any and all interaction is pure luck.
-
-
-    jessi''s
-    kind of just. shut up now, mostly internally noting down the player''s advice.
-    player asks if jessi finds the advice helpful and jessi says she''s willing to
-    try it. now she''s just mainly wondering how to integrate change into other parts
-    of her life, like the "friends" she already has or her basic every day life'
   _sameOptionTarget: 2
   _lines:
   - _speaker: 2
@@ -75,7 +24,7 @@ MonoBehaviour:
     _dialogueLine: Well, I suppose it'd be a community service to help her out. I'd
       almost feel bad if I didn't at least try.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -92,7 +41,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: You...wanna help me?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -126,7 +75,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: With pleasure.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -153,7 +102,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Soooo you're saying I'm some sort of narcissist or whatever?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -178,7 +127,7 @@ MonoBehaviour:
     _dialogueLine: It's not like I think I'm the shit for no reason; I'm literally
       just reacting to all the idiots around me!!! Is it my fault for having standards???
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -259,7 +208,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Just sit there, listen, and nod like some sort of robot???
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -267,7 +216,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Impressive. You've beaten me to my point.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -302,7 +251,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "Wh\u2014"
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -312,7 +261,7 @@ MonoBehaviour:
       your listening skills, as it'll get rid of all that clutter in your brain convincing
       you to act pretentiously.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

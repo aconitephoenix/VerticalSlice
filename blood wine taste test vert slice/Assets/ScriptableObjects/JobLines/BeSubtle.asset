@@ -90,7 +90,7 @@ MonoBehaviour:
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -115,7 +115,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Huh?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -124,7 +124,7 @@ MonoBehaviour:
     _dialogueLine: Well, I say this as an observer, but I believe that there's something
       deeper that's been troubling you.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -616,7 +616,7 @@ MonoBehaviour:
     _dialogueLine: The lives we want to lead are often not the lives we're supposed
       to.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -634,7 +634,7 @@ MonoBehaviour:
     _dialogueLine: You can only learn how to live alongside it and follow its logic,
       whether you like it or not.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

@@ -12,29 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: HerLivingSituation
   m_EditorClassIdentifier: 
-  _description: '- talk about how she''s been living to be so bored
-
-    - jessi''s
-    kinda just been living the same way she lived when she grew up: alone in her
-    apartment just staring at the ceiling.....
-
-    - well no wonder she''s miserable!
-    she''s trying to recreate a loving environment for herself where she feels safe
-    and protected, but that''s not what she really needs!
-
-    - jessi asks what
-    she means.... player explains that living in too safe of an environment is not
-    for her. she doesnt deserve to be safe, she''s not made for that silly!
-
-    -
-    instead, she''s supposed to deny that safety and live recklessly, because it''s
-    not like she has anything worth protecting. go out more, take more risks, and
-    especially get yourself hurt. you''re already impulsive anyway, your nature is
-    basically telling you to go kill yourself'
   _sameOptionTarget: 2
   _lines:
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -94,7 +75,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...nothing...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -120,7 +101,7 @@ MonoBehaviour:
     _dialogueLine: Honest!!! I stare at the ceiling all damn day 'cuz I don't know
       what else to do!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

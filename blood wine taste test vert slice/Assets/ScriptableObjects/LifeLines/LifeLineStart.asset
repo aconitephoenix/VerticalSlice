@@ -37,7 +37,7 @@ MonoBehaviour:
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -126,7 +126,7 @@ MonoBehaviour:
       ask for. Though I suppose it's useful information to gauge her reaction to
       my offer...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -175,7 +175,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well if you have a better answer why'd you even bother to ask??!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -192,13 +192,13 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well SORRY, that's really just all it is.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Heh, does your life really revolve around meaningless socialization
+    _dialogueLine: Hehe, does your life really revolve around meaningless socialization
       that much?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -209,7 +209,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I...I wouldn't call it meaningless......
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

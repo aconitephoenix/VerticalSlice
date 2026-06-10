@@ -47,8 +47,10 @@ public struct Options
 public class DialogueNode : ScriptableObject
 {
     // temp description for each dialogue node
+    /*
     [TextArea(10, 50)]
     public string _description;
+    */
 
     // compare how many times the player has made the same type of choice
     public int _sameOptionTarget;

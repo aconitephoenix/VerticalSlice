@@ -60,7 +60,7 @@ MonoBehaviour:
     _dialogueLine: It would be quite disadvantageous to have her too distressed to
       give me a chance. At least, for now.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -78,7 +78,7 @@ MonoBehaviour:
     _dialogueLine: It's simply what the world had planned for you. You would've had
       no other decision other than to be as pathetic as you are now.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -87,7 +87,7 @@ MonoBehaviour:
     _dialogueLine: A shame, really, but what can you do? Life is quite cruel, but
       we all have to manage one way or another.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -139,7 +139,7 @@ MonoBehaviour:
     _dialogueLine: I'm sorry that you've been dealt such a bad hand. It's pitiful,
       really.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -243,7 +243,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: It's not fair!!! Things shouldn't be this way!!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -259,7 +259,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: What?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -336,7 +336,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: 'You said it yourself: you didn''t choose this for yourself, the
-      world did. But what exactly did the world choose for you is my question.'
+      world did. But what exactly did the world choose for you?'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

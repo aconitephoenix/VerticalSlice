@@ -12,39 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: FiguringHerOut
   m_EditorClassIdentifier: 
-  _description: 'the player decides she''s prying into jessi''s brain as much as
-    she can. might as well find out how the clock ticks before buying it.
-
-
-    she
-    tells jessi that she can see jessi trying to feel better about herself, and it''s
-    really not doing her any favors. why reject the facts when you can just face
-    them?
-
-
-    jessi lies and says that she''s not trying to spare her own feelings;
-    it''s really not that bad!!! but the player immediately shuts her down by telling
-    her to cut the crap. it''s so obvious that it''s laughable, so stop trying.
-
-
-    jessi
-    angrily gives up and admits that Fine, she is just trying to feel better about
-    herself. the hell is wrong with that? player argues that EVERYTHING is wrong
-    with that. there''s no merit to trying to run away from the truth; it just leads
-    to more shortcomings.
-
-
-    okay well is the player knows so much, why doesn''t
-    she just tell her exactly whats wrong with her???!! why not just tell it to her
-    face if she wants her to Face It so bad???!??!
-
-
-    with pleasure.
-
-
-    though,
-    that''s quite a loaded question, isn''t it? what Terrible part of her does she
-    wanna grapple in the time that she has now?'
   _sameOptionTarget: 2
   _lines:
   - _speaker: 2
@@ -56,7 +23,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Might as well dissect her brain to figure out how it works.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -83,7 +50,7 @@ MonoBehaviour:
     _dialogueLine: "Okay\u2014no\u2014I'm not trying to spare any \"feelings\" right
       now; things just aren't as bad as you say they are, alright?"
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 2ba22cf812ea822458d34d49423a97c3, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -109,7 +76,7 @@ MonoBehaviour:
     _dialogueLine: I AM trying to feel better about myself. Okay? And what's wrong
       with that?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -126,7 +93,7 @@ MonoBehaviour:
     _dialogueLine: You and I both know that there's no merit to avoiding the truth;
       it just leads to more shortcomings.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

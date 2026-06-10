@@ -12,41 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: SuccessSequence
   m_EditorClassIdentifier: 
-  _description: "player admits to jessi that the deal this whole time was to Get
-    Down To Fuck. but not for lustful reasons\n\nplayer tells jessi that she thinks
-    that jessi is one Utterly Worthless human being and the only exchange she could
-    think of that would best suit someone as Worthless as jessi would be Sex. \n\nto
-    the player, sex is a purely transactional act done as a lowly quick favor, not
-    an emotionally intimate act. any such emotion is just feigned to make the experience
-    better when in reality those who are of low worth just do it to satiate their
-    instincts of lust (according to the player).\n\nit is up to people who are \"more
-    worthy\" to provide the services to satisfy the worthless, and the player has
-    bestowed herself the opportunity to do so to jessi, but she's not simply satisfied
-    with that\n\nshe wants to destroy jessi with her own hands; to get rid of one
-    of many pieces of filth that dares to breathe the same air as her. she wants
-    to turn sex into carnage and fulfill her \"duty\" as one of \"high worth\"\n\njessi
-    goes silent but eventually bursts with excitement; she's never felt this way
-    before, pumped full of adrenaline and not able to come back down. the player
-    is a little taken aback by this, but attempts to keep her composure.\n\njessi
-    goes on and on about how the player is the only one that really makes her feel
-    anything; everyone else is just Dumb Boring Fucks that refuse her at every turn...
-    but for someone to \"care\" about her so much to educate her about how worthless
-    she truly is and want to end her existence with their own hands....... she Likes
-    It!\n\nthe player comments that this will turn out to be more fun than she expected,
-    and the two start to deliberate plans and such..\n\nbefore the player leaves,
-    she suggests they make a toast to commemorate this deal. she orders two glasses
-    of wine, one for her and one for jessi. jessi excitedly pours the order and sets
-    them on the table a little too forcefully, splashing some wine on the counter.\n\njessi
-    notices and curses while still in a state of euphoria, offeriing to pour it again,
-    but player has another idea. player orders jessi to come close to her and they
-    lock lips with each other. jessi, taken aback, struggles to keep up with the
-    player, but melts into the kiss....until a jolt of pain rushes to her brain.\n\nshe
-    darts back, lip bleeding from the player's forceful bite. player tells jessi
-    to let it drip into her own glass to make up for the missing wine. jessi's a
-    little weirded out, but she complies because she's honestly too turned on to
-    think any better right now.\n\nit drips into her glass, adding ripples of red
-    to her drink. they toast to this new chapter and drink.\n\nplayer cements that
-    she was correct /pos: jessi atwood is human trash."
   _sameOptionTarget: 50
   _lines:
   - _speaker: 2
@@ -66,7 +31,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I suppose now is as good a time as any to finalize this arrangement.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -91,7 +56,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: So yeah, go ahead, say what your deal thing is or whatever.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -99,7 +64,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: It would be my pleasure.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -116,7 +81,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Yeah, and I've been having to stay here overtime for you guys.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -124,7 +89,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: And for that I am thankful.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -141,7 +106,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: When you put it that way, I guess that makes sense...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -150,7 +115,7 @@ MonoBehaviour:
     _dialogueLine: There's nothing I loathe more than an unfair trade. It's simply
       an injustice to do such a thing.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -159,7 +124,7 @@ MonoBehaviour:
     _dialogueLine: So, I carefully deliberated on what exactly I could provide for
       you...what exactly would someone like you deserve?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -167,7 +132,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Then it hit me. The perfect exchange.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -191,7 +156,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ?!?!?!?!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -215,7 +180,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: You want to fuck??? You???? With me??????
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -232,7 +197,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Uh, yeah right, what can a bitch in a wheelchair do???!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -249,7 +214,7 @@ MonoBehaviour:
     _dialogueLine: "Agh\u2014whatever, just\u2014I wasn't expecting that!!! How was
       I supposed to know you had the hots for me??!!"
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -285,7 +250,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: '"Not appropriate??" What the hell are you talking about???'
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -325,7 +290,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Some homeless bum is probably worth less than a billionaire, right?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -359,7 +324,7 @@ MonoBehaviour:
     _dialogueLine: Whether or not those capabilities have been exercised does not
       determine one's worth.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -384,7 +349,7 @@ MonoBehaviour:
     _dialogueLine: Or, well, if destiny was a thing, it'd make life infinitely more
       dull if I knew that everything that happened to me was supposed to happen.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -427,7 +392,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: They're merely distractions we've created to hide from the truth.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -504,7 +469,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -520,7 +485,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...what's up with you?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: eebba17b56161c943b6184130fc22df9, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -528,7 +493,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: HAHAHAHA!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -552,7 +517,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Ahaha, it's just...ha...you're so...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 37612b0b4484bb5459a86f7ae9887020, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -568,7 +533,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: What?
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -577,7 +542,7 @@ MonoBehaviour:
     _dialogueLine: Allow me to educate you on the truth of the matter. Perhaps then
       you will also find this hilarious.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -604,7 +569,7 @@ MonoBehaviour:
     _dialogueLine: No matter how much you want to be something, you are only what
       you're fated to be.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -612,7 +577,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: And you...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: eebba17b56161c943b6184130fc22df9, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -825,7 +790,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Either way, I'll need her response.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -841,7 +806,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Ehe...he...hehehe...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -874,109 +839,109 @@ MonoBehaviour:
     _dialogueLine: Haah...I've been waiting for someone like you my entire life......
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: Oho..ohohoho.....the adrenaline.....it's unreal!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: I've never felt anything like that before...the excitement....
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: You're really not anything like them...you're not boring or dull
       or a waste of time...
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: You're so PERFECT!!! Aghhh...
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: I want to carve this moment into my brain and never forget it!!!
       Ahaha!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: Ahh, fuck...my heart is going crazy......it's so wonderful........
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: You're the first person to ever make me feel this way.....to ever
       make me feel ANYTHING.....
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: All those other dumb fucks that come here are the same. They're
       all too predictable and too scared to do anything exciting.
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: They just want to look and feel good by refusing to be with someone
       as worthless as me...haha...I get it now...
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: You're...you're so perfect...so much better than everyone else......
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: To have someone care about my pathetic existence so much to want
       to end my miserable, worthless life with their own hands...haah...fuck!!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
-    _shakeCamera: 0
-    _triggerHeartbeat: 0
+    _shakeCamera: 1
+    _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: FINE!!! I'LL DO IT!!!!! PLEASE LET ME HAVE LIFE-ENDING SEX WITH
       YOU!!!!!!! SHOW ME HOW YOU'LL RIP ME APART AND KILL ME ONCE AND FOR ALL!!!!!!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 2ba22cf812ea822458d34d49423a97c3, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -984,7 +949,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1010,7 +975,7 @@ MonoBehaviour:
     _dialogueLine: "Hah, yeah, whatever, just, when do we start??!! Please, I need
       it as soon as possible\u2014I need to be living the life I was MEANT TO LIVE!!!"
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1028,7 +993,7 @@ MonoBehaviour:
     _dialogueLine: But, I'm all pent up right now!!! You can't just leave me like
       this!!!! PLEASE!!!!!!
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1037,7 +1002,7 @@ MonoBehaviour:
     _dialogueLine: You really are worthless scum, aren't you? Begging to be fucked
       so desperately...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1071,7 +1036,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "OH, oh\u2014sure!!! What would you like?"
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1080,7 +1045,7 @@ MonoBehaviour:
     _dialogueLine: Hmm, I can't say I'm particularly looking for a specific flavor
       right now...
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1157,7 +1122,7 @@ MonoBehaviour:
     _dialogueLine: "Damn it, I'm just...aghh I can't think straight right now!!!
       I'll go fill it up again, hang on\u2014"
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1216,7 +1181,7 @@ MonoBehaviour:
       lips meeting each other in the middle.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1225,7 +1190,7 @@ MonoBehaviour:
       clawing onto the counter to find a semblance of balance, but my pull is stronger.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1234,7 +1199,7 @@ MonoBehaviour:
       own. What a fast learner.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1244,7 +1209,7 @@ MonoBehaviour:
       so easily.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1252,7 +1217,7 @@ MonoBehaviour:
     _dialogueLine: But this is far from a gift.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
@@ -1260,7 +1225,7 @@ MonoBehaviour:
     _dialogueLine: '*CHOMP*'
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 0
@@ -1268,7 +1233,7 @@ MonoBehaviour:
     _dialogueLine: '!!!'
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1277,7 +1242,7 @@ MonoBehaviour:
       lip becomes hopelessly ensnared."
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1287,7 +1252,7 @@ MonoBehaviour:
       her skin bigger.
   - _speaker: 2
     _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
+    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
@@ -1313,7 +1278,7 @@ MonoBehaviour:
     _dialogueLine: A concoction of blood and saliva run down her chin, some dripping
       onto already stained shirt. My idea has worked beautifully.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1356,7 +1321,7 @@ MonoBehaviour:
       she's satisfied, wiping her mouth with her sleeve. In accordance, I raise my
       drink.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1389,7 +1354,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Hah...thank you so much, Shuron. You're what I needed in life.
   - _speaker: 3
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
