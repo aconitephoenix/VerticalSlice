@@ -12,35 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: ForceItOut
   m_EditorClassIdentifier: 
-  _description: 'the player wants the answer and she wants it NOW. she demands that
-    jessi tell her if she really wants any of her help. there''s nothing more helpful
-    than learning the life someone has lived thus far.
-
-
-    jessi refuses, telling
-    the player to drop it, but the player continues to egg on. frustrated, jessi
-    angrily explains how she was forced into being a social recluse by her shitty
-    parents because of her shitty brother that got kidnapped by shitty people and
-    god it''s all so fucking shit. there are you fucking happy i said it
-
-
-    the
-    player notices that jessi''s eyes start to water, but can''t feel any remorse
-    for her. all she comments is that she''s got some useful information now. she
-    just wishes jessi would get herself together because it''s difficult to make
-    a deal with someone seconds away from bursting into tears.
-
-
-    didn''t it feel
-    so good to let that out, asks the player. isn''t jessi so thankful that the player
-    had encouraged her to be so vulnerable? jessi blinks away her tears, admitting
-    that it did feel good. she had yet to tell anyone because of her fear of rejection,
-    but it feels so so SO good to finally admit how shitty her life is.
-
-
-    it
-    seems that jessi is in a better mood about now. perfect. time to go in for the
-    kill.'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
@@ -66,7 +37,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: You best be out with it if you want any of my help.
+    _dialogueLine: You'd best be out with it if you want any of my help.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

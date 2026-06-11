@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: StartingDialogue
   m_EditorClassIdentifier: 
-  _description: 
   _sameOptionTarget: 0
   _lines:
   - _speaker: 2
@@ -62,7 +61,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I could go on for days about the amount of things wrong with her.
+    _dialogueLine: I could go on for days about everything wrong with her.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
@@ -135,7 +134,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Evening? It's midnight!! On the dot!!! You call that evening??
+    _dialogueLine: Evening? It's midnight!! On the dot!!! You call that "evening"??
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -143,8 +142,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: And and and, what do you think you're doing here??? You didn't
-      tell me you were coming.
+    _dialogueLine: "And- and- and\u2014what do you think you're doing here??? You
+      didn't tell me you were coming."
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
@@ -152,7 +151,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Hmm, thought I'd surprise you. Am I not allowed to have a little
+    _dialogueLine: Hmm... thought I'd surprise you. Am I not allowed to have a little
       fun every now and then?
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -170,8 +169,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: So hostile...though you'll find no need to be. I don't intend
-      to waste your time.
+    _dialogueLine: So hostile...though you'll find there's no need to be. I don't
+      intend to waste your time.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -179,7 +178,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Well you're already doing it!! Leave!!! Now!!!!!
+    _dialogueLine: Well, you're already doing it!! Leave!!! Now!!!!!
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 2ba22cf812ea822458d34d49423a97c3, type: 3}
     _CG: {fileID: 0}
@@ -203,7 +202,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: As I was saying...I have a proposition for you.
+    _dialogueLine: As I was saying... I have a proposition for you.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -211,7 +210,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Pro...poh...zishun..?
+    _dialogueLine: Pro...poh...zi-shun..?
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
@@ -227,8 +226,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: If you wouldn't mind, I could run by the terms and we could proceed
-      with seeing it through.
+    _dialogueLine: If you wouldn't mind, I could run through the terms and we could
+      proceed with seeing it through.
   - _speaker: 1
     _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
@@ -297,23 +296,23 @@ MonoBehaviour:
     _dialogueLine: No matter. I understand your reluctance, but I really am interested
       in making this deal with you.
   - _speaker: 0
-    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
+    _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: 'How about this: we could have some little friendly chatter before
+    _dialogueLine: 'How about this: let''s really get familiar with each other before
       getting into anything.'
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I admit, we don't know each other well enough for what I'm about
-      to suggest, so I believe this could be a good bonding opportunity.
+    _dialogueLine: I'll admit, I haven't spent enough time getting to know the Jessi
+      behind the bar, so I believe this could be a good bonding opportunity.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -321,7 +320,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: '"Bonding opportunity?" What, am I 5?'
+    _dialogueLine: '"Bonding opportunity?" What, am I five?'
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 632048a77c40f4449afafb4f2cd57c28, type: 3}
     _CG: {fileID: 0}
@@ -380,8 +379,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: But I swear if you end up wasting that time you'll never be allowed
-      in here again, okay? Consider this a warning.
+    _dialogueLine: But I swear, if you end up wasting that time, you'll never be
+      allowed in here again, okay? Consider this a warning.
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
