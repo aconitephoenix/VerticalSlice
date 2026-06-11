@@ -12,33 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: PayingSympathy
   m_EditorClassIdentifier: 
-  _description: 'not wanting to get jessi too emotional to dissuade her from the
-    deal, the player switches to a more sympathetic approach (albeit hesitantly).
-    the player talks about how it''s not jessi''s fault for being a social failure;
-    it''s just what the world decided. isn''t life so cruel?
-
-
-    jessi ponders
-    for a bit before sadly agreeing. she was made all fucked up and curses the world
-    for shaping her this way.
-
-
-    the player pities jessi greatly for being made
-    so incapable, and adds that her deal is perfectly tailored for jessi, unlike
-    the world. jessi isn''t made to be a part of this world, but the player has already
-    accounted for that. she''s here for jessi.
-
-
-    jessi, internally debating whether
-    to take this as a compliment or an insult, decides it''s the former and thanks
-    the player. it feels good to be understood by someone like this and not just
-    brushed aside as some weird chick who no one likes (although that is what the
-    player would have done had she not needed something from jessi). jessi laments
-    about how things shouldn''t be this way, but the player disagrees. things are
-    exactly how they need to be.
-
-
-    she''ll decide to explain why.'
   _sameOptionTarget: 1
   _lines:
   - _speaker: 2

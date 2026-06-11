@@ -12,15 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: JobReply2
   m_EditorClassIdentifier: 
-  _description: "player tells jessi that she's the sack of shit, not her customers.
-    \n\njessi gets offended but player attempts to justify her reasoning, saying
-    that jessi is simply not cut out for social life as evidenced by her poor social
-    skills; jessi is simply unsatisfied because she cannot keep up with everyone
-    else rather than everyone else having to keep up with her. \n\nplayer suggests
-    that jessi stops trying to interact with these people and just accept the social
-    recluse that she was meant to be. jessi seems to be visibly emotionally hurt
-    by this, and the player then has the option to continue this line of thought
-    or move onto a different one."
   _sameOptionTarget: 1
   _lines:
   - _speaker: 0

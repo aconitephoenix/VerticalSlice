@@ -12,81 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: BeSubtle
   m_EditorClassIdentifier: 
-  _description: 'the player talks to jessi as if she''s some sort of scared child,
-    asking if there''s anything that happened to her that she might want to talk
-    about.
-
-
-    jessi refuses, saying that the player''s just gonna think of her
-    less if she says anything. the player promises that there''s nothing jessi could
-    say that would make her think lesser of her. while sounding like a sweet sentiment,
-    it''s simply because the player''s opinion of jessi is already as low as it can
-    go.
-
-
-    jessi pauses. her gaze is off somewhere else, and the player waits
-    patiently for her response. any second now, she can expect to get her answer.
-
-
-    and
-    she''s correct. jessi talks about how she didn''t get a chance at socialization
-    because of the way she grew up: isolated from the rest of the world.
-
-
-    she
-    was the second child, up until the first one had gone missing. becoming the Only
-    Child, her parents decided that they couldn''t possibly stand to lose another.
-    they withdrew her from school and locked her in an empty room, safe from all
-    harm''s way.
-
-
-    but it was sooooo boring. sooooooo so so so so so so boring.
-    all jessi could do was stare at the ceiling and hope that the next time she fell
-    asleep, she''d awake to the sweet mercy of death. having such an empty life made
-    death feel that much more fulfilling.
-
-
-    she lived this way up until her late
-    teenage years. as her parents got older, they weren''t as meticulous with their
-    "care" of her anymore. and one day, as they left for errands, they forgot something
-    so miniscule yet so important. they forgot to lock her door.
-
-
-    jessi took
-    no time to spring it open. having seen the rest of her house for the first time,
-    it felt like she had just entered as an intruder. and so that she decided to
-    be. she searched everywhere for any semblance of money, food, or water she could
-    bring to get out of this retched place.
-
-
-    and then with her legs that hardly
-    walked a mile in their life, she ran. and here she landed. and here she would
-    finally get to be a part of society, finally get to breathe the same air as everyone
-    else, finally get to be a person.
-
-
-    so why is it so hard? it''s so so so
-    hard to get people to like her. why? why does it have to be this way? can''t
-    everyone just welcome her back into the world? what''s wrong with everybody?
-
-
-    after
-    hearing this sob story, the player thinks to herself that it all makes terrible
-    sense, and it''s kind of hilarious how much of it is so on-the-nose. jessi was
-    literally forced into being a social recluse, and now she can''t break out of
-    her fate. what a joke.
-
-
-    but with the player''s approach, she knows that
-    feigned sympathy is the best card she can play right now, so she attempts to
-    comfort jessi. the world IS fucked up, isn''t it? but there''s sadly nothing
-    else you can do. all we can do is live the life we''re meant to lead, whether
-    we like it or not.
-
-
-    jessi continues to look dazed, but she nods her head
-    oh so slightly. there''s a sliver of a smile on her face. perfect, the player
-    thinks. her satisfaction will do well for her proposition.'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
@@ -406,7 +331,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: I flung my door open and the rest of the house just flashbanged
-      me. I hadn't seen anything outside my room since I was, what, 5??
+      me. I hadn't seen anything outside my room since I was, what, five??
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

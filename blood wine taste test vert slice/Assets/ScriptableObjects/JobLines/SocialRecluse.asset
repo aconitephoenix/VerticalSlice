@@ -12,23 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: SocialRecluse
   m_EditorClassIdentifier: 
-  _description: 'player continues to drive home to jessi how socially inept she truly
-    is. pointing out all her failures in basic conversation, she has no idea why
-    jessi even tries so hard when she clearly can''t do it; it''s obviously wasted
-    effort that just takes up time more valuable than hers.
-
-
-    jessi seems like
-    she''s about to cry out of frustration, but she holds it in. through gritted
-    teeth, she expresses that she doesn''t care; she just has to keep trying. she
-    has to. she needs to.
-
-
-    she NEEDS to? what kind of obligation does she have
-    to be a social butterfly? who is demanding this from her other than herself?
-    certainly not anyone else, for that matter. the player wonders why jessi''s life
-    is so driven by this need to interact with other people, and wants to pry further.
-    she gets to decide how she wants to go about it.'
   _sameOptionTarget: 0
   _lines:
   - _speaker: 2
@@ -169,14 +152,6 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I need to dissect what exactly is behind this desperate yearning.
       There's obviously something to uncover here.
-  - _speaker: 2
-    _charSprite: {fileID: 0}
-    _CG: {fileID: 0}
-    _music: {fileID: 0}
-    _shakeCamera: 0
-    _triggerHeartbeat: 0
-    _maxFriendship: 0
-    _dialogueLine: Hmm...how to go about it...
   _playerReplyOptions:
   - _choiceType: 2
     _optionText: Force it out of her

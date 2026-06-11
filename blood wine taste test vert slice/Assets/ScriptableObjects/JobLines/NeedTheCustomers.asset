@@ -12,20 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: NeedTheCustomers
   m_EditorClassIdentifier: 
-  _description: "player asks why jessi seems so attached to these customers after
-    expressing such clear distaste for them.\n\njessi reluctantly admits that she
-    uses her customers as socialization practice to see what works and what doesn't.
-    it's the entire reason she even bothered to open this place. \n\nplayer, already
-    locked in on this line of questioning, continues to ask why jessi even needs
-    this. socialization? why does she need practice with these people when social
-    interaction is just a natural part of human life?\n\njessi pauses, too ashamed
-    to admit more. player is not waiting around for her to get comfortable, and tells
-    her to be out with it.\n\njessi sighs and confesses that shes never had a social
-    life before, or at least, her chance at one was robbed from her. player was expecting
-    jessi to be bad at socialization, but wonders what being \"robbed from the chance\"
-    of it entails; she's curious, but not with good intentions.\n\njessi begs player
-    to just drop it, as she's already said enough. player is determined to push this
-    boundary, and gets to decide in what way she wants to do it."
   _sameOptionTarget: 2
   _lines:
   - _speaker: 0
@@ -43,7 +29,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Seems to be like you'd prefer to be without them.
+    _dialogueLine: Seems to me like you'd prefer to be without them.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
