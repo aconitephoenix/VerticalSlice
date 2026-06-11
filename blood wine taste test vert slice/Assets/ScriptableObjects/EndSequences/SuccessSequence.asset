@@ -744,7 +744,7 @@ MonoBehaviour:
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 0c5382dc1be826a4581be7153a44fbd4, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
@@ -816,7 +816,7 @@ MonoBehaviour:
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 3fee6007196141248ae76e2230140e0e, type: 3}
     _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 1
@@ -1234,7 +1234,7 @@ MonoBehaviour:
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 22fe8749b16e9254384512b52e7d6adf, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
@@ -1323,7 +1323,7 @@ MonoBehaviour:
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: b2efa96d31f912c4b911acf2ae44be5c, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0

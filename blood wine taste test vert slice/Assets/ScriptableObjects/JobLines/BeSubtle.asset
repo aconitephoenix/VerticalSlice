@@ -127,7 +127,7 @@ MonoBehaviour:
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 0c5382dc1be826a4581be7153a44fbd4, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
@@ -151,7 +151,7 @@ MonoBehaviour:
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 82b2b2dc0a64dd341b5a23d5da1f7232, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
@@ -484,7 +484,7 @@ MonoBehaviour:
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 0c5382dc1be826a4581be7153a44fbd4, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
@@ -518,7 +518,7 @@ MonoBehaviour:
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
-    _music: {fileID: 0}
+    _music: {fileID: 8300000, guid: 9cfcb3fce373b5e47a01e7005bc945c3, type: 3}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0

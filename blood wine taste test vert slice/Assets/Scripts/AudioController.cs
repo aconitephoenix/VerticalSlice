@@ -14,7 +14,7 @@ public class AudioController : MonoBehaviour
     void Update()
     {
         // if the clip on this line is different, change the music (i know the if statement is really ugly but im really tired okay....)
-        if (GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._music != null && GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._music != _musicPlayer.clip)
+        if (GameController.Instance.Npc != null && GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._music != null && GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._music != _musicPlayer.clip)
         {
             _musicPlayer.clip = GameController.Instance.Npc._currentNode._lines[GameController.Instance.Npc._currentLine]._music;
             _musicPlayer.Play();
