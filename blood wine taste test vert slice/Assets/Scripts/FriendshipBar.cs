@@ -8,12 +8,6 @@ public class FriendshipBar : MonoBehaviour
     private float _targetProgress = 0;
     private float _fillSpeed = 0.2f;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
     // Update is called once per frame
     void Update()
     {

@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Fullscreen : MonoBehaviour
@@ -23,7 +21,8 @@ public class Fullscreen : MonoBehaviour
         if (cameraSize.x >= cameraSize.y)
         {
             scale *= cameraSize.x / spriteSize.x;
-        } else
+        }
+        else
         {
             scale *= cameraSize.y / spriteSize.y;
         }

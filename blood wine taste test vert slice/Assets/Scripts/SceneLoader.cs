@@ -7,18 +7,6 @@ public class SceneLoader : MonoBehaviour
     public Animator _fadeAnimator;
     private int _sceneToGo; // Index of scene to switch to
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public void SwitchScene(string sceneName)
     {
         if (sceneName == "Start Screen")
@@ -29,15 +17,18 @@ public class SceneLoader : MonoBehaviour
         {
             _sceneToGo = 2;
         }
-        else if (sceneName == "Game Over")
+        else if (sceneName == "Game Over 1")
         {
             _sceneToGo = 3;
+        }
+        else if (sceneName == "Game Over 2")
+        {
+            _sceneToGo = 4;
         }
 
         StartCoroutine(AnimateFade());
         SceneManager.LoadScene(_sceneToGo);
     }
-
 
     public IEnumerator AnimateFade()
     {

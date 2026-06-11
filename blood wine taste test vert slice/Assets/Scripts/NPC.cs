@@ -100,7 +100,15 @@ public class NPC : MonoBehaviour
         else
         {
             _selectedOptions.Clear();
-            GameController.Instance.sceneLoader.SwitchScene("Game Over");
+
+            if (_friendshipValue >= 0.6f)
+            {
+                GameController.Instance.sceneLoader.SwitchScene("Game Over 1");
+            }
+            else
+            {
+                GameController.Instance.sceneLoader.SwitchScene("Game Over 2");
+            }
         }
     }
 

@@ -5,18 +5,6 @@ public class CameraShake : MonoBehaviour
 {
     private Vector3 _originalPos;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        _originalPos = transform.localPosition;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
     public IEnumerator ShakeCamera()
     {
         float elapsedTime = 0;
