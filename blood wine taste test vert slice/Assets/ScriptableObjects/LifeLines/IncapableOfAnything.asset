@@ -33,7 +33,7 @@ MonoBehaviour:
     _dialogueLine: Your ability is far below that of the average person. It's honestly
       a little sad.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

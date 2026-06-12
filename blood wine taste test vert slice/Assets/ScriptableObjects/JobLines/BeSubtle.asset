@@ -32,7 +32,7 @@ MonoBehaviour:
     _dialogueLine: Is there something that you've been grappling with that you haven't
       told me?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -58,7 +58,7 @@ MonoBehaviour:
     _dialogueLine: If that turns out to be true, I'd rather you tell me so we can
       clear the air.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -133,7 +133,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -465,10 +465,10 @@ MonoBehaviour:
     _dialogueLine: What the fuck is wrong with everybody? Why are they doing this
       to me??
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Why why why why why WHY???
@@ -476,7 +476,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: "I hate it. I hate it all. I hate my stupid fucking brother, my
@@ -567,7 +567,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: An unfortunate truth, but nonetheless, the truth.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

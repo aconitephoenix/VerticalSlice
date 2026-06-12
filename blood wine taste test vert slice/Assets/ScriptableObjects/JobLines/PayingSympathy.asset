@@ -69,7 +69,7 @@ MonoBehaviour:
     _dialogueLine: I know I have. It's only a matter of time before you accept it
       and do so as well.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -77,7 +77,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 I guess you're right."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -130,7 +130,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I can help you realize your true purpose.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 thanks, I guess???"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -191,7 +191,7 @@ MonoBehaviour:
     _dialogueLine: If I wasn't here to get some business done, I honestly would've
       done the same. But this is a special case.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -225,7 +225,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Hmm, I beg to differ.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -295,7 +295,7 @@ MonoBehaviour:
     _dialogueLine: I'd like to understand a little more about your general background.
       The history informs the person, no?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

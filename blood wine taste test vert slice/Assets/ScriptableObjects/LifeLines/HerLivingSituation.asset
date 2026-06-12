@@ -24,7 +24,7 @@ MonoBehaviour:
     _dialogueLine: Your life outside of socialization? What issues are present in
       that?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -33,7 +33,7 @@ MonoBehaviour:
     _dialogueLine: Outside of just talking to people, life is so, so, SOOO fucking
       boring!!!
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -83,7 +83,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Jessi.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -109,7 +109,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: And why is that?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -117,7 +117,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I dunno!!! I'm just...used to it??
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -199,7 +199,7 @@ MonoBehaviour:
       a life full of more risks; you're meant to get hurt. It's a part of your nature,
       after all.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -216,7 +216,7 @@ MonoBehaviour:
     _dialogueLine: You're already impulsive, just not in a manner that would benefit
       you. Why not expand beyond your comfort zone and live how you're supposed to?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

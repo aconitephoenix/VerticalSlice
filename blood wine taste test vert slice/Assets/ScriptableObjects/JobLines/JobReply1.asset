@@ -25,7 +25,7 @@ MonoBehaviour:
       to deal with pests like that on the daily. You deserve far better than to endure
       this living hell.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -67,7 +67,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "Though, I do have to ask\u2026 why do you continue working here?"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -92,7 +92,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Not to mention, I hear that it's a cafe during morning hours?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

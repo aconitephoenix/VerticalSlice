@@ -15,7 +15,7 @@ MonoBehaviour:
   _sameOptionTarget: 0
   _lines:
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -23,7 +23,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 oh would you look at that; time's up."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

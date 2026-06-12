@@ -24,7 +24,7 @@ MonoBehaviour:
     _dialogueLine: Well, how ARE your existing relationships going, if you don't
       mind me asking?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -235,7 +235,7 @@ MonoBehaviour:
     _dialogueLine: You're spoken to out of convenience, not preference. That distinction
       is important to make if you want to mend your life.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -243,7 +243,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "No that's\u2014not..."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -267,7 +267,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Awful, but true.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -329,7 +329,7 @@ MonoBehaviour:
     _dialogueLine: If these people are already easy to you, might as well make it
       even easier by kicking yourself down a peg.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

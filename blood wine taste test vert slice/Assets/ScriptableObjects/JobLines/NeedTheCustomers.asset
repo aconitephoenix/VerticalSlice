@@ -31,7 +31,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Seems to me like you'd prefer to be without them.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -66,7 +66,7 @@ MonoBehaviour:
       with these people should be crucial enough to be so hesitant about letting
       them go. Tell me.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -74,7 +74,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ....aghhh, fineeee...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -133,7 +133,7 @@ MonoBehaviour:
     _dialogueLine: You basically get enough experience for it by simply existing,
       if I'm being honest.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -149,7 +149,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: How so?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -165,7 +165,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Jessi.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -173,7 +173,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: AHHH FINE, since we're learning SO MUCH about me today!!!
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -208,7 +208,7 @@ MonoBehaviour:
     _dialogueLine: "But that chance was robbed from me before I could even reach
       for it. So I just\u2026 never got to do it."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

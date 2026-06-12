@@ -39,7 +39,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I assume our time is up. Has my performance been satisfactory?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -48,7 +48,7 @@ MonoBehaviour:
     _dialogueLine: I guess you could say that. Talking to you was way more worth
       it than I thought it would be, honestly...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -73,7 +73,7 @@ MonoBehaviour:
     _dialogueLine: "As we both know, I've been using this bar to handle some\u2026
       business matters every now and then, yes?"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -98,7 +98,7 @@ MonoBehaviour:
     _dialogueLine: I couldn't help but think to myself, though, is it not unfair
       that you provide me with a service, only for me to not give anything in return?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -148,7 +148,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 that we engage in sexual relations."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -189,7 +189,7 @@ MonoBehaviour:
     _dialogueLine: I'd refrain from using such vulgar language, but yes, that is
       what I'm getting at.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -266,7 +266,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: 'Let me ask you this: how do you understand human worth?'
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -274,7 +274,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "Human\u2026 worth?"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -426,7 +426,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: How valuable of a human are you?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -434,7 +434,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 me?"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -452,7 +452,7 @@ MonoBehaviour:
     _dialogueLine: Anything less than that and I'd have to consider restarting my
       whole life...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -477,7 +477,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 pfft\u2026"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -505,7 +505,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: The hell's so funny?!
@@ -526,7 +526,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 incredibly wrong."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -743,7 +743,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I will make sure that your life will end by my hands, Jessi Atwood.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 8300000, guid: 0c5382dc1be826a4581be7153a44fbd4, type: 3}
     _shakeCamera: 0

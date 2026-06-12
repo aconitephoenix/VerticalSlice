@@ -24,7 +24,7 @@ MonoBehaviour:
     _dialogueLine: I've never really paid attention to your life outside this place.
       I'm curious as to how you spend your free time.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -41,7 +41,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Don't take it personally. You know why.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -50,7 +50,7 @@ MonoBehaviour:
     _dialogueLine: It's not that, it's just... I get asked that literally all the
       damn time by drunkards trying to take me out.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -113,7 +113,7 @@ MonoBehaviour:
     _dialogueLine: I apologize for whatever turmoils you here, but I believe I asked
       for your details on your life OUTSIDE of this establishment. Care to answer?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -121,7 +121,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Yeah, yeah, I'll get to it. Jeez, desperate much?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -129,7 +129,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Uhh, what I do in my free time...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -145,7 +145,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: You talk to people.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -205,7 +205,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Would the walls provide better instruction?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -231,7 +231,7 @@ MonoBehaviour:
     _dialogueLine: "But then why continue this meaningless socialization? You certainly
       don\u2019t favor it much."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -241,7 +241,7 @@ MonoBehaviour:
       to be able to get along with each other just fine! I just thought maybe I could
       learn too, easy."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -276,7 +276,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Most people are rather empty between the ears.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: a7221be3902993e49920b17cf290b8cb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -286,7 +286,7 @@ MonoBehaviour:
       in the same poor situation over and over and over, perhaps there is a common
       root right where they all connect.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -304,7 +304,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 Me? What the hell could I be doing wrong anymore?"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

@@ -33,7 +33,7 @@ MonoBehaviour:
     _dialogueLine: If I may, Jessi. Perhaps I could offer you some advice to live
       your life to its intended potential?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -50,7 +50,7 @@ MonoBehaviour:
     _dialogueLine: Why, of course. I wouldn't just leave a poor soul like you all
       alone to fend for yourself like this. Sometimes all one needs is a little support.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -111,7 +111,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Mm, if you want to call it that, then I suppose so.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -248,7 +248,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: "Wh\u2014"
@@ -275,7 +275,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: "B-better?? The fuck\u2014"
@@ -290,7 +290,7 @@ MonoBehaviour:
       working as a server. Taking orders like this is good reinforcement for the
       social conventions you should adhere to.'
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -359,7 +359,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well? Did you find any of that helpful?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -376,7 +376,7 @@ MonoBehaviour:
     _dialogueLine: I feel like what you said mostly applies to the new people I meet
       here, though.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

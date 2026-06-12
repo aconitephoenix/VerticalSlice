@@ -77,7 +77,7 @@ MonoBehaviour:
     _dialogueLine: I suggest you quit this facade while you still can. It's not helping
       anybody, especially not you.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
