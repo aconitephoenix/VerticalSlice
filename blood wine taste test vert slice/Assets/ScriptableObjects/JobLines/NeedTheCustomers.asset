@@ -45,7 +45,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...if I tell you, you're just going to think even less of me.
+    _dialogueLine: "\u2026 if I tell you, you're just going to think even less of
+      me."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -79,7 +80,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I, uh, kind of...use the customers as...
+    _dialogueLine: "I, uh, kind of\u2026 use the customers as\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -87,7 +88,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...talking...practice...
+    _dialogueLine: "\u2026 talking\u2026 practice\u2026"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -103,8 +104,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Yeah, like...just learning how to talk to people...seeing what
-      works and what doesn't...
+    _dialogueLine: "Yeah, like\u2026 just learning how to talk to people\u2026 seeing
+      what works and what doesn't\u2026\r"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -112,7 +113,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: You know...that stuff......
+    _dialogueLine: "You know\u2026 that stuff......"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -154,7 +155,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...as if I'm telling you.
+    _dialogueLine: "\u2026 as if I'm telling you."
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 2ba22cf812ea822458d34d49423a97c3, type: 3}
     _CG: {fileID: 0}
@@ -178,7 +179,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I...I never got to "simply exist," okay?
+    _dialogueLine: "I\u2026 I never got to \"simply exist,\" okay?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -204,8 +205,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: But that chance was robbed from me before I could even reach for
-      it. So I just...never got to do it.
+    _dialogueLine: "But that chance was robbed from me before I could even reach
+      for it. So I just\u2026 never got to do it."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -221,7 +222,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Mm...not quite.
+    _dialogueLine: "Mm\u2026 not quite."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

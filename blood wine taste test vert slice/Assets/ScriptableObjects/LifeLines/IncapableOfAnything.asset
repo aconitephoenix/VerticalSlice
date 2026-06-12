@@ -138,7 +138,7 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: If I can't do anything, at least I can fertilize the dirt with
-      my lifeless, otherwise useless body!!!
+      my lifeless, useless body!!!
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

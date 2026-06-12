@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: JobLineStart
   m_EditorClassIdentifier: 
-  _description: 
   _sameOptionTarget: 0
   _lines:
   - _speaker: 0
@@ -22,7 +21,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I'm curious...what is it like around here?
+    _dialogueLine: "I'm curious\u2026 what is it like around here?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -133,7 +132,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Another poor soul upset with their working conditions...how predictable.
+    _dialogueLine: "Another poor soul upset with their working conditions\u2026 how
+      predictable."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

@@ -125,8 +125,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: It's not like I think I'm the shit for no reason; haven't you
-      seen all the idiots around me!!! Is it my fault for having standards???
+    _dialogueLine: Haven't you seen all the idiots around me!!! Is it my fault for
+      having standards for them???
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
@@ -400,8 +400,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Hmm...with the time I'm allotted, I'll only be able to address
-      one of those concerns.
+    _dialogueLine: "Hmm\u2026 with the time I'm allotted, I'll only be able to address
+      one of those concerns."
   _playerReplyOptions:
   - _choiceType: 2
     _optionText: Address her existing relationships

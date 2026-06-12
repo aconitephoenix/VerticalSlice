@@ -265,7 +265,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: So mindnumbingly boring. So so so so so so so boring. So boring
+    _dialogueLine: So mind-numbingly boring. So so so so so so so boring. So boring
       that I would go to bed hoping I wouldn't wake up. That the ceiling I stared
       at endlessly would just fall and crush me under its weight.
   - _speaker: 1
@@ -284,8 +284,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Shit was like that up until I turned like...17? 18? It's hard
-      to keep track of the days when every day is just the same.
+    _dialogueLine: "Shit was like that up until I turned like\u2026 17? 18? It's
+      hard to keep track of the days when every day is just the same."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -426,9 +426,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I nearly pissed myself thinking about how excited I was to finally
-      be a part of the world. How happy I was to finally just...exist like a normal
-      fucking person, you know?
+    _dialogueLine: "I nearly pissed myself thinking about how excited I was to finally
+      be a part of the world. How happy I was to finally just\u2026 exist like a
+      normal fucking person, you know?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -479,8 +479,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I hate it. I hate it all. I hate my stupid fucking brother, my
-      stupid fucking parents, and the stupid FUCKING...EVERYBODY!!!
+    _dialogueLine: "I hate it. I hate it all. I hate my stupid fucking brother, my
+      stupid fucking parents, and the stupid FUCKING\u2026 EVERYBODY!!!"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -488,7 +488,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...hah, that's quite the sob story if I've ever heard one.
+    _dialogueLine: "\u2026 hah, that's quite the sob story if I've ever heard one."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -504,9 +504,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Frankly, it's comical how on-the-nose it is. Being forced into
-      isolation and unable to break out of her socially impaired nature...it doesn't
-      get any better than that.
+    _dialogueLine: "Frankly, it's comical how on-the-nose it is. Being forced into
+      isolation and unable to break out of her socially impaired nature\u2026 it
+      doesn't get any better than that."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -522,7 +522,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...I'm sorry you had to endure all that, Jessi.
+    _dialogueLine: "\u2026 I'm sorry you had to endure all that, Jessi."
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

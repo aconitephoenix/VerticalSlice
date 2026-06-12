@@ -64,8 +64,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Oh, you're just going straight home to rot on your bed and think
-      about how much you wanna kill everybody???
+    _dialogueLine: '"Oh, you''re just going straight home to rot on your bed and
+      think about how much you wanna kill everybody???'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -73,8 +73,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Well, how would you like to have your back blown out while you
-      do that? Heh, how about that, baby???"
+    _dialogueLine: '"Well, how would you like to have your back blown out while you
+      do that? Heh, how about that, baby???"'
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -160,7 +160,8 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
-      such a simple answer.
+      such a simple answer. You seemed to not particularly enjoy any of the patrons
+      that have come to order from you.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -168,7 +169,25 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Well SOR-RY, that's really just all it is.
+    _dialogueLine: "Well SOR-RY, that's really just all it is. I thought this was
+      gonna help me learn HOW to talk to people, but the people around here don\u2019t
+      give me shit to work with! A brick wall would be more tolerable!"
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: '?'
+  - _speaker: 2
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "Interesting\u2026"
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
@@ -176,8 +195,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Hehe, does your life really revolve around meaningless socialization
-      that much?
+    _dialogueLine: Would the walls provide better instruction?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -185,15 +203,25 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I... I wouldn't call it meaningless......
+    _dialogueLine: In how to make friends? Yeah. No stupid pickup lines. No creepy
+      flirting. No stupid-ness.
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: No weirdos trying to talk to me past closing time.
   - _speaker: 0
-    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
+    _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Really? How's it going for you?
+    _dialogueLine: "But then why continue this meaningless socialization? You certainly
+      don\u2019t favor it much."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -201,7 +229,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ........
+    _dialogueLine: "I\u2026 wouldn\u2019t call it meaningless. Everyone else seems
+      to be able to get along with each other just fine! I just thought maybe I could
+      learn too, easy."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -209,7 +239,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: .... a little..... unexpected.........
+    _dialogueLine: "But no, no, no, no, no, everyone\u2019s annoying and rude and
+      stupid and full of shit!!!"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -217,7 +248,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Is she really trying to lie to me right now?
+    _dialogueLine: "How egotistical she is to believe she could fool me with this.
+      Her being the wronged party? Everyone else, her lessers? Her delusion is almost
+      admirable. The strength of will it must require\u2026"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -225,8 +258,38 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: As if I can't already tell her social life is going horribly.
-      How egotistical she is to believe she can just fool me like that.
+    _dialogueLine: "\u2026 though, I can work with what I\u2019ve been given."
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "Most people are rather empty between the ears. In any case, though,
+      there is the saying that if you find yourself in the same poor situation over
+      and over and over, perhaps there is a common root\u2026"
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "\u2026 right where they all connect. Through you, the recurring
+      party. For that many people to brush you off and not connect with you, could
+      the fault really lie in so many different individuals?"
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: "\u2026 Me? What the hell could I be doing wrong anymore? I say
+      hi, I ask about their day, I ask about what they like to do, then I talk about
+      my day and what I like to do. Is that not how conversations work? Equal exchange
+      or whatever the fuck??"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -234,8 +297,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: How is it possible to deny reality this much? Just face the facts
-      like everyone else.
+    _dialogueLine: At some point, the delusion does get tiring. Just face the facts
+      like everyone else, already.
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

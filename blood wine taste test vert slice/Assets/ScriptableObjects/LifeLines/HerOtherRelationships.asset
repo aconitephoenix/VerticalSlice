@@ -30,7 +30,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...Could be better...
+    _dialogueLine: "\u2026 Could be better\u2026"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -54,7 +54,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Don't...really...have that many...
+    _dialogueLine: "Don't\u2026 really\u2026 have that many\u2026"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -70,7 +70,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Like...one...or three...maybe...
+    _dialogueLine: "Like\u2026 one\u2026 or three\u2026 maybe\u2026"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -129,8 +129,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: They come here and get their order, then they're like...the only
-      ones to actually want to hold a conversation with me.
+    _dialogueLine: "They come here and get their order, then they're like\u2026 the
+      only ones to actually want to hold a conversation with me."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -138,9 +138,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: But even then it's kinda just...whatever? Once they finish eating
-      or drinking whatever they got, they just leave, and all I can do is just wait
-      for them to come back.
+    _dialogueLine: "But even then it's kinda just\u2026 whatever? Once they finish
+      eating or drinking whatever they got, they just leave, and all I can do is
+      just wait for them to come back."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -157,8 +157,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Hmm...just to make sure, they don't interact with you outside
-      of your work hours at all? All of your conversations only happen here?
+    _dialogueLine: "Hmm\u2026 just to make sure, they don't interact with you outside
+      of your work hours at all? All of your conversations only happen here?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -166,7 +166,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Sigh...yeah...
+    _dialogueLine: "Sigh\u2026 yeah\u2026"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -249,7 +249,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: "...no, no, you're\u2014you're right..."
+    _dialogueLine: "\u2026 no, no, you're\u2014you're right\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

@@ -12,47 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: ChangingSubject
   m_EditorClassIdentifier: 
-  _description: 'player is not interested in dealing with jessi''s emotions. they''re
-    not necessary for this conversation. so, player decides to stick with a lighter
-    subject: how''s she managing to deal with the hours?
-
-
-    from what the player
-    knows, jessi makes an effort to show up daily with little employees to help her
-    around. such a schedule like that seems so demanding for someone like her, doesn''t
-    it?
-
-
-    jessi says that, while the customers are not pleasant to deal with,
-    the actual job isn''t so bad. she was initially kind of hesitant to stick with
-    what would seem to be a monotonous job, but having different orders kind of spices
-    things up, especially with the stark difference between an order at a cafe and
-    an order at a bar.
-
-
-    the player laughs to herself and remarks how adorable
-    it is that jessi is so satisfied by simple things like that. look at this filth
-    getting satisfied by just doing something as simple as taking orders; so subservient...
-
-
-    jessi
-    gets a little flustered at the idea of submitting to these customers, arguing
-    instead that she has the control over whether their orders are good or not. she
-    knows the difference between a good and a bad drink, and anyone who pisses her
-    off can just get fucked with a poison-adjacent mixture.
-
-
-    suuuure, the player
-    remarks. like jessi could ever have any semblance of dominance over anyone; she
-    gets ordered around like a dog to satiate people''s addictions. in truth, she
-    probably just loves fetching things for people and being an obedient little servant,
-    huh? that''s why she shows up?
-
-
-    jessi is even more flustered at the suggestion,
-    but seems to oppose it a little less. she tries to deny it, but a small part
-    of her is a little excited to be talked down like this (she''s not ready to explore
-    that though.. at least Not Yet.)'
   _sameOptionTarget: 4
   _lines:
   - _speaker: 2
@@ -79,7 +38,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...Say, how do you manage to keep up with your hours anyway?
+    _dialogueLine: "\u2026 Say, how do you manage to keep up with your hours anyway?"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -96,8 +55,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Doesn't that kind of daily schedule seem too...demanding of someone
-      like you?
+    _dialogueLine: "Doesn't that kind of daily schedule seem too\u2026 demanding
+      of someone like you?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -122,7 +81,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Originally, I thought it was going to be so mindnumbingly boring...but
+    _dialogueLine: Originally, I thought it was going to be so mind-numbingly boring...but
       you'd be surprised at how many people order crazy shit I've never seen before.
   - _speaker: 1
     _charSprite: {fileID: 0}
@@ -131,9 +90,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I swear some people just come in here asking me to make potions
-      like I'm some sort of witch...it's honestly kind of hilarious seeing them try
-      to come up with mixtures that'll straight up kill them.
+    _dialogueLine: "I swear some people just come in here asking me to make potions
+      like I'm some sort of witch\u2026 it's honestly kind of hilarious seeing them
+      try to come up with mixtures that'll straight up kill them."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -150,8 +109,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: It's also a little fun switching between a cafe and a bar every
-      day; kinda keeps you on your toes...I guess.
+    _dialogueLine: "It's also a little fun switching between a cafe and a bar every
+      day; kinda keeps you on your toes\u2026 I guess."
   - _speaker: 0
     _charSprite: {fileID: 21300000, guid: 85e73fbc318d21e4db7461e9136fd8c7, type: 3}
     _CG: {fileID: 0}
@@ -168,8 +127,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: So happy to run around and take orders like a submissive little
-      dog...it's cute.
+    _dialogueLine: "So happy to run around and take orders like a submissive little
+      dog\u2026 it's cute."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -249,7 +208,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Pfft, so simple, so easily excitable...what a piece of work.
+    _dialogueLine: "Pfft, so simple, so easily excitable\u2026 what a piece of work."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

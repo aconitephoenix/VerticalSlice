@@ -83,7 +83,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...I guess you're right.
+    _dialogueLine: "\u2026 I guess you're right."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -91,8 +91,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I mean...fuck, I didn't get to choose any of this shit. I didn't
-      get to choose to be this way!!!
+    _dialogueLine: "I mean\u2026 fuck, I didn't get to choose any of this shit. I
+      didn't get to choose to be this way!!!"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -100,8 +100,8 @@ MonoBehaviour:
     _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: It's this STUPID FUCKING WORLD!!!! THEY made me this way, it's
-      all THEIR fault, it's all...aghhh FUCK THEM!!!
+    _dialogueLine: "It's this STUPID FUCKING WORLD!!!! THEY made me this way, it's
+      all THEIR fault, it's all\u2026 aghhh FUCK THEM!!!"
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -136,7 +136,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...thanks, I guess???
+    _dialogueLine: "\u2026 thanks, I guess???"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -152,8 +152,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I dunno, I guess I'm just...it feels good to be understood like
-      this?
+    _dialogueLine: "I dunno, I guess I'm just\u2026 it feels good to be understood
+      like this?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -161,8 +161,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Just feels like usually people just...brush me aside and think
-      I'm some weird chick. They talk to me, but they don't talk to...ME, you know?
+    _dialogueLine: "Just feels like usually people just\u2026 brush me aside and
+      think I'm some weird chick. They talk to me, but they don't talk to\u2026 ME,
+      you know?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -170,8 +171,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: They just decide that 'cuz they don't like me I'm not worth their
-      time. Isn't that just...terrible??
+    _dialogueLine: "They just decide that 'cuz they don't like me I'm not worth their
+      time. Isn't that just\u2026 terrible??"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

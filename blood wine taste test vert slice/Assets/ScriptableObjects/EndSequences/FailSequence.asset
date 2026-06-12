@@ -21,7 +21,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...oh would you look at that; time's up.
+    _dialogueLine: "\u2026 oh would you look at that; time's up."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -87,7 +87,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...no, the fault doesn't lie within me.
+    _dialogueLine: "\u2026 no, the fault doesn't lie within me."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
@@ -128,7 +128,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...is human trash.
+    _dialogueLine: "\u2026 is human trash."
   _playerReplyOptions: []
   _npcReplies: []
   _gameEnd: 0

@@ -12,7 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6626c84bb700413428bce8fec5aff79d, type: 3}
   m_Name: JobReply1
   m_EditorClassIdentifier: 
-  _description: 
   _sameOptionTarget: 1
   _lines:
   - _speaker: 0
@@ -40,8 +39,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: These people think it's soooo funny to waste my time...acting
-      like they can just laze around here and not consider me at all...
+    _dialogueLine: "These people think it's soooo funny to waste my time\u2026 acting
+      like they can just laze around here and not consider me at all\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -66,7 +65,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Though, I do have to ask...why do you continue working here?
+    _dialogueLine: "Though, I do have to ask\u2026 why do you continue working here?"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -99,9 +98,9 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Yeah...I did that 'cuz I thought it would be cool, but it's kinda
-      just the same deal as running the bar...just with a lot more useless friendly
-      chatter.
+    _dialogueLine: "Yeah\u2026 I did that 'cuz I thought it would be cool, but it's
+      kinda just the same deal as running the bar\u2026 just with a lot more useless
+      friendly chatter."
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -161,8 +160,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...I know I just complained out of my ass about the customers,
-      but...
+    _dialogueLine: "\u2026 I know I just complained out of my ass about the customers,
+      but\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -170,7 +169,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I kind of...need them.
+    _dialogueLine: "I kind of\u2026 need them."
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -188,7 +187,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: No! I don't need the money, I just...uh...
+    _dialogueLine: "No! I don't need the money, I just\u2026 uh..."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

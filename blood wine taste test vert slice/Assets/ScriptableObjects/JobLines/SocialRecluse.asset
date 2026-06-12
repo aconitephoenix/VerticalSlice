@@ -30,7 +30,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Jessi...you can't keep denying who you are.
+    _dialogueLine: "Jessi\u2026 you can't keep denying who you are."
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -91,7 +91,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...I...I don't care...
+    _dialogueLine: "\u2026 I\u2026 I don't care\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -99,8 +99,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I don't care how much everyone else hates me...how much everyone
-      pushes me away and says I should just go die in a ditch.
+    _dialogueLine: "I don't care how much everyone else hates me\u2026 how much everyone
+      pushes me away and says I should just go die in a ditch."
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -108,7 +108,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: I have to do this...I have to...
+    _dialogueLine: "I have to do this\u2026 I have to\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -116,7 +116,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...I NEED to...
+    _dialogueLine: "\u2026 I NEED to\u2026"
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -124,7 +124,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Hmm..."need to?"
+    _dialogueLine: "Hmm\u2026 \"need to?\""
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -141,8 +141,8 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Curious...her life is so driven by the desire to socialize, it
-      seems like it's the only thing keeping her going.
+    _dialogueLine: "Curious\u2026 her life is so driven by the desire to socialize,
+      it seems like it's the only thing keeping her going."
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}

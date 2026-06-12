@@ -94,7 +94,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...will be mine.
+    _dialogueLine: "\u2026 will be mine."
   - _speaker: 1
     _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
@@ -371,7 +371,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: Ugh, fine...15 minutes isn't SO bad I guess...
+    _dialogueLine: "Ugh, fine\u2026 15 minutes isn't SO bad I guess\u2026"
   - _speaker: 1
     _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
@@ -428,7 +428,7 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: ...what...do we talk about?
+    _dialogueLine: "\u2026 what\u2026 do we talk about?"
   _playerReplyOptions:
   - _choiceType: 0
     _optionText: Her job
