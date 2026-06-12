@@ -160,8 +160,16 @@ MonoBehaviour:
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Forgive me; I'm not trying to poke fun at you. I just wasn't expecting
-      such a simple answer. You seemed to not particularly enjoy any of the patrons
-      that have come to order from you.
+      such a simple answer.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: You seemed to not particularly enjoy any of the patrons that have
+      come to order from you.
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -214,7 +222,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: No weirdos trying to talk to me past closing time.
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -260,15 +268,13 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 though, I can work with what I\u2019ve been given."
   - _speaker: 0
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5d5bfc11db4b6324d85fdd72f11891ad, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: "Most people are rather empty between the ears. In any case, though,
-      there is the saying that if you find yourself in the same poor situation over
-      and over and over, perhaps there is a common root\u2026"
+    _dialogueLine: Most people are rather empty between the ears.
   - _speaker: 0
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -276,9 +282,19 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: "\u2026 right where they all connect. Through you, the recurring
-      party. For that many people to brush you off and not connect with you, could
-      the fault really lie in so many different individuals?"
+    _dialogueLine: In any case, though, there is the saying that if you find yourself
+      in the same poor situation over and over and over, perhaps there is a common
+      root right where they all connect.
+  - _speaker: 0
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: Through you, the recurring party. For that many people to brush
+      you off and not connect with you, could the fault really lie in so many different
+      individuals?
   - _speaker: 1
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
@@ -286,10 +302,17 @@ MonoBehaviour:
     _shakeCamera: 0
     _triggerHeartbeat: 0
     _maxFriendship: 0
-    _dialogueLine: "\u2026 Me? What the hell could I be doing wrong anymore? I say
-      hi, I ask about their day, I ask about what they like to do, then I talk about
-      my day and what I like to do. Is that not how conversations work? Equal exchange
-      or whatever the fuck??"
+    _dialogueLine: "\u2026 Me? What the hell could I be doing wrong anymore?"
+  - _speaker: 1
+    _charSprite: {fileID: 0}
+    _CG: {fileID: 0}
+    _music: {fileID: 0}
+    _shakeCamera: 0
+    _triggerHeartbeat: 0
+    _maxFriendship: 0
+    _dialogueLine: I say hi, I ask about their day, I ask about what they like to
+      do, then I talk about my day and what I like to do. Is that not how conversations
+      work? Equal exchange or whatever the fuck??
   - _speaker: 2
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
