@@ -719,7 +719,7 @@ MonoBehaviour:
       for you.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 13ce30486c285bc429aaa8e523f06816, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 1
