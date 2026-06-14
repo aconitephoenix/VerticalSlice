@@ -815,7 +815,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: '?'
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 460c926ca38b45a48bd3bb9790aea7e1, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 8300000, guid: 3fee6007196141248ae76e2230140e0e, type: 3}
     _shakeCamera: 1
@@ -1030,7 +1030,7 @@ MonoBehaviour:
     _dialogueLine: Perhaps you need something to calm yourself down. How about we
       have a drink or two?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1296,7 +1296,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 460c926ca38b45a48bd3bb9790aea7e1, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
