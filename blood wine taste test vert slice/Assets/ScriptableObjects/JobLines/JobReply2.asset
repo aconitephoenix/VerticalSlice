@@ -53,7 +53,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: I cannot BELIEVE you're trying to defend those guys right now.
@@ -89,7 +89,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Hey, I thought you wanted to talk all "friendly??" What's with
@@ -108,7 +108,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: NO!! You're supposed to tell me how awesome I am!!!! Not lecture

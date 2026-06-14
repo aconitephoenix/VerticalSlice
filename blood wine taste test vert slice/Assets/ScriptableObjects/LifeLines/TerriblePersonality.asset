@@ -24,7 +24,7 @@ MonoBehaviour:
     _dialogueLine: For starters, I can say with confidence you have an abhorrent
       personality. Downright unbearable, in other words.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
     _dialogueLine: and, arguably most offensive of all, you're much too immature
       to even be considered an adult, let alone anything but a toddler.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -93,7 +93,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Jeez, anything else?!!
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -120,7 +120,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: You ask for what's wrong with you; I answer. Just a simple exchange.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -137,7 +137,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Is honesty really that hateful?
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -145,7 +145,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Hah, YOUR honesty is.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

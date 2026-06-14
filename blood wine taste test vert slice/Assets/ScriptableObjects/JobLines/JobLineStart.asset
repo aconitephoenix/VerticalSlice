@@ -40,7 +40,7 @@ MonoBehaviour:
     _dialogueLine: Honestly, if you're looking for anything interesting, you're not
       getting it. Every single day is just the same boring shit.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -49,7 +49,7 @@ MonoBehaviour:
     _dialogueLine: Customer comes in. Take the order. Serve the drink. Rinse and
       repeat.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -74,7 +74,7 @@ MonoBehaviour:
     _dialogueLine: Weren't you the one who opened this establishment? I assumed you'd
       be a little more enthusiastic about this place.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -83,7 +83,7 @@ MonoBehaviour:
     _dialogueLine: Yeah, I thought that too, until I realized how boring everyone
       that comes here is.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

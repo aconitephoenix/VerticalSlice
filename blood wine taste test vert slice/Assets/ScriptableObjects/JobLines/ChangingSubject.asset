@@ -66,7 +66,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Eh, it's not that bad.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -84,7 +84,7 @@ MonoBehaviour:
     _dialogueLine: Originally, I thought it was going to be so mind-numbingly boring...but
       you'd be surprised at how many people order crazy shit I've never seen before.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
       like I'm some sort of witch\u2026 it's honestly kind of hilarious seeing them
       try to come up with mixtures that'll straight up kill them."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -103,7 +103,7 @@ MonoBehaviour:
     _dialogueLine: Buuut I gotta go by safety protocol or whatever so this place
       doesn't get shut down, so there's limits I gotta enforce or whatever...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -156,7 +156,7 @@ MonoBehaviour:
     _dialogueLine: Sure, they ask me for the drink, but I get to control how good
       that drink is depending on if I think they deserve it!!
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -193,7 +193,7 @@ MonoBehaviour:
     _dialogueLine: That's why you show up every day, isn't it? To be reminded of
       how much you love surrendering control to other people?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1

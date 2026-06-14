@@ -50,7 +50,7 @@ MonoBehaviour:
     _dialogueLine: Why, of course. I wouldn't just leave a poor soul like you all
       alone to fend for yourself like this. Sometimes all one needs is a little support.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -59,7 +59,7 @@ MonoBehaviour:
     _dialogueLine: Gee, thanks, I guess. Your fancy talk's especially strong today,
       wow.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -95,7 +95,7 @@ MonoBehaviour:
     _dialogueLine: No one likes someone who's always as arrogant as you; a respectable
       person knows how much they actually matter to the world and acts accordingly.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
       to others and keeping your inferior thoughts to yourself is the best that you
       can do.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -245,7 +245,7 @@ MonoBehaviour:
     _dialogueLine: Ah-ah-ah. Hold that thought. Why don't you start applying that
       practice now?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -290,7 +290,7 @@ MonoBehaviour:
       working as a server. Taking orders like this is good reinforcement for the
       social conventions you should adhere to.'
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
+    _charSprite: {fileID: 21300000, guid: 0cbf25f7256b5034e9498573542f4e76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -359,7 +359,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well? Did you find any of that helpful?
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -376,7 +376,7 @@ MonoBehaviour:
     _dialogueLine: I feel like what you said mostly applies to the new people I meet
       here, though.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
+    _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

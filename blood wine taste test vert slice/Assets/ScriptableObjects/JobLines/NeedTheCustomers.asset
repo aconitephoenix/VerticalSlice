@@ -31,7 +31,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Seems to me like you'd prefer to be without them.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -39,7 +39,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well, yeah, but...
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: d5e929d47ca700c4597cd5358db00e3b, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -74,7 +74,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ....aghhh, fineeee...
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -98,7 +98,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Talking practice?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -149,7 +149,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: How so?
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -173,7 +173,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: AHHH FINE, since we're learning SO MUCH about me today!!!
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
     _dialogueLine: I barely talked to anyone up until a year or two ago when I opened
       this place.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -199,7 +199,7 @@ MonoBehaviour:
     _dialogueLine: Not even because I just didn't want to; believe me, I really wanted
       to.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -208,7 +208,7 @@ MonoBehaviour:
     _dialogueLine: "But that chance was robbed from me before I could even reach
       for it. So I just\u2026 never got to do it."
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

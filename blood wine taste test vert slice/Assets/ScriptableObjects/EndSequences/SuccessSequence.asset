@@ -73,7 +73,7 @@ MonoBehaviour:
     _dialogueLine: "As we both know, I've been using this bar to handle some\u2026
       business matters every now and then, yes?"
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -189,7 +189,7 @@ MonoBehaviour:
     _dialogueLine: I'd refrain from using such vulgar language, but yes, that is
       what I'm getting at.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -205,7 +205,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I'd be pleased to let you find out.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -332,7 +332,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: 'Another question: do you believe in destiny?'
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -434,7 +434,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 me?"
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -443,7 +443,7 @@ MonoBehaviour:
     _dialogueLine: "\u2026 well, running into pure wastes of space on the daily,
       I'd have to say at least above average."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1334,7 +1334,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: Hell yeah!!!

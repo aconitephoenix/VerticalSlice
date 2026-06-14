@@ -184,7 +184,7 @@ MonoBehaviour:
     _dialogueLine: Her blinking returns to a normal pace, and she ferociously wipes
       her eyes with her sleeve to soak up her tears.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -201,7 +201,7 @@ MonoBehaviour:
     _dialogueLine: "I dunno, I guess I just\u2026 I never told anyone because I didn't
       want people to think I was some sort of loser that can't let go of her past."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -211,7 +211,7 @@ MonoBehaviour:
       be left in the same boring life where every day was the same and I'd just wanna
       die over and over and over again.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -236,7 +236,7 @@ MonoBehaviour:
     _dialogueLine: Being forceful with my assistance is only a means of encouragement;
       giving you the push to fly out the nest, if you will.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

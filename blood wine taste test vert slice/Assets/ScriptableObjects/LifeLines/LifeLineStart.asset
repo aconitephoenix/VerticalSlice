@@ -50,7 +50,7 @@ MonoBehaviour:
     _dialogueLine: It's not that, it's just... I get asked that literally all the
       damn time by drunkards trying to take me out.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -86,7 +86,7 @@ MonoBehaviour:
       to not want to say anything... half the time, they don't even look good enough
       to say shit like that.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -113,7 +113,7 @@ MonoBehaviour:
     _dialogueLine: I apologize for whatever turmoils you here, but I believe I asked
       for your details on your life OUTSIDE of this establishment. Care to answer?
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
+    _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -214,7 +214,7 @@ MonoBehaviour:
     _dialogueLine: In how to make friends? Yeah. No stupid pickup lines. No creepy
       flirting. No stupid-ness.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 5224f552d979b7d4c8e988245cdd9575, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -231,7 +231,7 @@ MonoBehaviour:
     _dialogueLine: "But then why continue this meaningless socialization? You certainly
       don\u2019t favor it much."
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -304,7 +304,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "\u2026 Me? What the hell could I be doing wrong anymore?"
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 4bb070eb7f25b4d43b4cd5ca28562347, type: 3}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

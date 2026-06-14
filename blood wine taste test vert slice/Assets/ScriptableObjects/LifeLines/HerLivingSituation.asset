@@ -51,7 +51,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well, what do you normally do outside of this setting?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 0cbf25f7256b5034e9498573542f4e76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -109,7 +109,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: And why is that?
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -117,7 +117,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: I dunno!!! I'm just...used to it??
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -126,7 +126,7 @@ MonoBehaviour:
     _dialogueLine: Or I never really did anything else growing up, so it's like...I
       don't...exactly have any better ideas???
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 8fadb01c20afe834da1f4899841afc76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -172,7 +172,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: That kind of protection is far from what you need.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -216,7 +216,7 @@ MonoBehaviour:
     _dialogueLine: You're already impulsive, just not in a manner that would benefit
       you. Why not expand beyond your comfort zone and live how you're supposed to?
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

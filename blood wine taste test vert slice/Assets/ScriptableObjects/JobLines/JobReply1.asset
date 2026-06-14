@@ -33,7 +33,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Ugh, right?! That's what I'm saying!
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: c5a4eab48d0d997458a6e0e15d1ce34c, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -42,7 +42,7 @@ MonoBehaviour:
     _dialogueLine: "These people think it's soooo funny to waste my time\u2026 acting
       like they can just laze around here and not consider me at all\u2026"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: e5765cb552eb0e743b1d025dd7e12a90, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -138,7 +138,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: So why haven't you taken advantage of any of that?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 0cbf25f7256b5034e9498573542f4e76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -154,7 +154,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: Well?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -181,7 +181,7 @@ MonoBehaviour:
       finances? And I'm also sure our other friend of ours would be much more than
       willing to\u2014"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0

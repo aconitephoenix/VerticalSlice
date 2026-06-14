@@ -58,7 +58,7 @@ MonoBehaviour:
     _dialogueLine: If that turns out to be true, I'd rather you tell me so we can
       clear the air.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -149,7 +149,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: If you want to know that bad, I'll tell you.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 8300000, guid: 82b2b2dc0a64dd341b5a23d5da1f7232, type: 3}
     _shakeCamera: 0
@@ -184,7 +184,7 @@ MonoBehaviour:
     _dialogueLine: They kept trying to come up with shit to make sure I'd stay safe
       and that they wouldn't lose me.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -259,7 +259,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: But it was so. Fucking. Boring.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -278,7 +278,7 @@ MonoBehaviour:
     _dialogueLine: I looked forward to death more than I ever looked forward to life.
       If you can even call what I went through "living."
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 264ba0fd55f3f0d40aa0a3d014011923, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -447,7 +447,7 @@ MonoBehaviour:
     _dialogueLine: Why the hell is it so hard to get along with people? They see
       you try and then they just tell you to fuck off and die?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f029f114187d16c46b68146e4a2ca0fb, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -567,7 +567,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: An unfortunate truth, but nonetheless, the truth.
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 15eaf0d869902074ab9e4727a6d818aa, type: 3}
+    _charSprite: {fileID: 21300000, guid: 0cbf25f7256b5034e9498573542f4e76, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
