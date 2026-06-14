@@ -736,7 +736,7 @@ MonoBehaviour:
     _dialogueLine: The only way I'll fuck you is if it kills you.
   - _speaker: 0
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 646910b85f4e28e438196db2166d882c, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 1
@@ -840,15 +840,15 @@ MonoBehaviour:
     _dialogueLine: "Haah\u2026 I've been waiting for someone like you my entire life......"
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 1
     _maxFriendship: 0
     _dialogueLine: Oho..ohohoho.....the adrenaline.....it's unreal!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -856,7 +856,7 @@ MonoBehaviour:
     _dialogueLine: I've never felt anything like that before...the excitement....
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -865,7 +865,7 @@ MonoBehaviour:
       or a waste of time...
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -873,7 +873,7 @@ MonoBehaviour:
     _dialogueLine: You're so PERFECT!!! Aghhh...
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -882,7 +882,7 @@ MonoBehaviour:
       Ahaha!!!
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -890,7 +890,7 @@ MonoBehaviour:
     _dialogueLine: "Ahh, fuck\u2026 my heart is going crazy...... it's so wonderful........"
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -899,7 +899,7 @@ MonoBehaviour:
       make me feel ANYTHING.....
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -908,7 +908,7 @@ MonoBehaviour:
       all too predictable and too scared to do anything exciting.
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -917,7 +917,7 @@ MonoBehaviour:
       as worthless as me\u2026 haha\u2026 I get it now\u2026"
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -926,7 +926,7 @@ MonoBehaviour:
       else......"
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: 8fee8bf0ad5d01f4db8e02218663ebf3, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 0
     _triggerHeartbeat: 1
@@ -935,7 +935,7 @@ MonoBehaviour:
       to end my miserable, worthless life with their own hands\u2026 haah\u2026 fuck!!!!"
   - _speaker: 1
     _charSprite: {fileID: 0}
-    _CG: {fileID: 7482667652216324306, guid: 9959a4df59af56a44b7ca1a158fbd31b, type: 3}
+    _CG: {fileID: 21300000, guid: cad2b302e8c28fc4681852cf28e72713, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 1
     _triggerHeartbeat: 1
