@@ -831,7 +831,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "Oh\u2026 you are AMAZING!!!"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f3ea1ef1ece9e1948a7b55959133ab3a, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -934,7 +934,7 @@ MonoBehaviour:
     _dialogueLine: "To have someone care about my pathetic existence so much to want
       to end my miserable, worthless life with their own hands\u2026 haah\u2026 fuck!!!!"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 460c926ca38b45a48bd3bb9790aea7e1, type: 3}
     _CG: {fileID: 21300000, guid: cad2b302e8c28fc4681852cf28e72713, type: 3}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -968,10 +968,10 @@ MonoBehaviour:
     _dialogueLine: Seems this will be much more amusing than I expected. I'm looking
       forward to seeing this deal through with you, Jessi.
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f3ea1ef1ece9e1948a7b55959133ab3a, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: "Hah, yeah, whatever, just, when do we start??!! Please, I need
@@ -989,7 +989,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: But, I'm all pent up right now!!! You can't just leave me like
@@ -1016,7 +1016,7 @@ MonoBehaviour:
     _charSprite: {fileID: 0}
     _CG: {fileID: 0}
     _music: {fileID: 0}
-    _shakeCamera: 0
+    _shakeCamera: 1
     _triggerHeartbeat: 0
     _maxFriendship: 0
     _dialogueLine: UGHHH BUT I CAN'T!!!!
@@ -1056,7 +1056,7 @@ MonoBehaviour:
     _dialogueLine: You can choose for yourself and surprise me with a second glass.
       Does that sound good?
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: f3ea1ef1ece9e1948a7b55959133ab3a, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
@@ -1099,7 +1099,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: "One glass is placed on the counter. The other\u2014"
   - _speaker: 1
-    _charSprite: {fileID: 0}
+    _charSprite: {fileID: 21300000, guid: 051809b70c0d48749b41aef782cb1ee0, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 1
@@ -1296,7 +1296,7 @@ MonoBehaviour:
     _maxFriendship: 0
     _dialogueLine: ...
   - _speaker: 1
-    _charSprite: {fileID: 21300000, guid: 460c926ca38b45a48bd3bb9790aea7e1, type: 3}
+    _charSprite: {fileID: 21300000, guid: f3ea1ef1ece9e1948a7b55959133ab3a, type: 3}
     _CG: {fileID: 0}
     _music: {fileID: 0}
     _shakeCamera: 0
